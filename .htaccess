@@ -1,0 +1,8 @@
+RewriteEngine On
+RewriteBase /
+#RewriteCond %{HTTP_HOST} !=cdn.signage.codedinternet.com$ [NC]
+#RewriteCond %{SERVER_PORT} 80
+#RewriteRule ^(.*)$ https://signage.codedinternet.com/$1 [R,L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)\?*$ index.php?/$1 [L,QSA]

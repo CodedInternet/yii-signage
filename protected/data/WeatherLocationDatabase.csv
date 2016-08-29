@@ -1,0 +1,3595 @@
+City Name,Location,Country
+"Aachen, DE",EUR|DE|GM011|AACHEN,Germany
+"Aalborg, DK",EUR|DK|DA007|AALBORG,Denmark
+"Aalesund, NO",EUR|NO|NO007|AALESUND,Norway
+"Aare, SE",EUR|SE|SW006|AARE,Sweden
+"Aarhus, DK",EUR|DK|DA001|AARHUS,Denmark
+"Aba, NG",AFR|NG|NI008|ABA,Nigeria
+"Abadan, IR",MEA|IR|IR016|ABADAN,Iran
+"Abakan, RU",ASI|RU|RS033|ABAKAN,Russia
+"Abbotsford, CA",NAM|CA|BC|ABBOTSFORD,Canada
+"Abeokuta, NG",AFR|NG|NI000|ABEOKUTA,Nigeria
+"Aberdeen, UK",EUR|UK|UK002|ABERDEEN,United Kingdom
+"Abidjan, CI",AFR|CI|IV002|ABIDJAN,Ivory Coast
+"Abiko, JP",ASI|JP|JA004|ABIKO,Japan
+"Abilene, TX, US",NAM|US|TX|ABILENE,United States
+"Abohar, IN",ASI|IN|IN028|ABOHAR,India
+"Abu Dhabi, AE",MEA|AE|AE002|ABU DHABI,United Arab Emirates
+"Abuja, NG",AFR|NG|NI000|ABUJA,Nigeria
+"Acala De Henares, ES",EUR|ES|SP013|ALCALÁ DE HENARES,Spain
+"Acapulco, MX",NAM|MX|MX012|ACAPULCO,Mexico
+"Acarigua-Araure, VE",SAM|VE|VE019|ACARIGUA-ARAURE,Venezuela
+"Accra, GH",AFR|GH|GH000|ACCRA,Ghana
+"Acheng, CN",ASI|CN|CH011|ACHENG,China
+"Achinsk, RU",ASI|RU|RS041|ACHINSK,Russia
+"Adamstown, PN",OCN|PN|PC---|ADAMSTOWN,Pitcairn Islands
+"Adana, TR",MEA|TR|TU001|ADANA,Turkey
+"Addis Ababa, ET",AFR|ET|ET000|ADDIS ABABA,Ethiopia
+"Adelaide, AU",OCN|AU|SA|ADELAIDE,Australia
+"Aden, YE",MEA|YE|YM001|ADEN,Yemen
+"Adiyaman, TR",MEA|TR|TU002|ADIYAMAN,Turkey
+"Ado-Ekiti, NG",AFR|NG|NI000|ADO-EKITI,Nigeria
+"Adoni, IN",ASI|IN|IN002|ADONI,India
+"Afyon, TR",MEA|TR|TU003|AFYON,Turkey
+"Agadir, MA",AFR|MA|MO041|AGADIR,Morocco
+"Agana, GU",OCN|GU|GU000|AGANA,Guam
+"Agartala, IN",ASI|IN|IN032|AGARTALA,India
+"Ageo, JP",ASI|JP|JA035|AGEO,Japan
+"Agra, IN",ASI|IN|IN033|AGRA,India
+"Aguascalientes, MX",NAM|MX|MX001|AGUASCALIENTES,Mexico
+"Ahmedabad, IN",ASI|IN|IN012|AHMEDABAD,India
+"Ahmednagar, IN",ASI|IN|IN021|AHMEDNAGAR,India
+"Ahome, MX",NAM|MX|MX025|AHOME,Mexico
+"Ahuachapan, SV",CAC|SV|ES001|AHUACHAPAN,El Salvador
+"Ahwaz, IR",MEA|IR|IR016|AHWAZ,Iran
+"Aix-En-Provence, FR",EUR|FR|FR021|AIX-EN-PROVENCE,France
+"Aizawl, IN",ASI|IN|IN024|AIZAWL,India
+"Ajmer, IN",ASI|IN|IN029|AJMER,India
+"Akishima, JP",ASI|JP|JA041|AKISHIMA,Japan
+"Akola, IN",ASI|IN|IN021|AKOLA,India
+"Akron, OH, US",NAM|US|OH|AKRON,United States
+"Aksaray, TR",MEA|TR|TU042|AKSARAY,Turkey
+"Aktau, KZ",ASI|KZ|KZ000|AKTAU,Kazakhstan
+"Aktobe, KZ",ASI|KZ|KZ000|AKTOBE,Kazakhstan
+"Al Ain, AE",MEA|AE|AE002|AL AIN,United Arab Emirates
+"Al Fujairah, AE",MEA|AE|AE003|AL FUJAIRAH,United Arab Emirates
+"Al khobar, SA",MEA|SA|SA008|AL KHOBAR,Saudi Arabia
+"Al Khums, LY",AFR|LY|LY006|AL KHUMS,Libya
+"Alagoinhas, BR",SAM|BR|BR002|ALAGOINHAS,Brazil
+"Alajuela, CR",CAC|CR|CS001|ALAJUELA,Costa Rica
+"Albacete, ES",EUR|ES|SP006|ALBACETE,Spain
+"Albany, NY, US",NAM|US|NY|ALBANY,United States
+"Albuquerque, NM, US",NAM|US|NM|ALBUQUERQUE,United States
+"Alchevsk, UA",EUR|UA|UP012|ALCHEVSK,Ukraine
+"Alcobendas, ES",EUR|ES|SP013|ALCOBENDAS,Spain
+"Alcorcon, ES",EUR|ES|SP013|ALCORCÓN,Spain
+"Aleppo, SY",MEA|SY|SY009|ALEPPO,Syria
+"Alexander Bay, ZA",AFR|ZA|SF008|ALEXANDER BAY,South Africa
+"Alexandra, ZA",AFR|ZA|SF004|ALEXANDRA,South Africa
+"Alexandria, EG",AFR|EG|EG006|ALEXANDRIA,Egypt
+"Alexandria, VA, US",NAM|US|VA|ALEXANDRIA,United States
+"Algeciras, ES",EUR|ES|SP001|ALGECIRAS,Spain
+"Alger, DZ",AFR|DZ|AG004|ALGER,Algeria
+"Al-Hasakeh, SY",MEA|SY|SY001|AL-HASAKEH,Syria
+"Alicante, ES",EUR|ES|SP016|ALICANTE,Spain
+"Aligarh, IN",ASI|IN|IN033|ALIGARH,India
+"Alipur, IN",ASI|IN|IN036|ALIPUR,India
+"Aliwal North, ZA",AFR|ZA|SF002|ALIWAL NORTH,South Africa
+"Allahabad, IN",ASI|IN|IN033|ALLAHABAD,India
+"Alldays, ZA",AFR|ZA|SF009|ALLDAYS,South Africa
+"Allentown, PA, US",NAM|US|PA|ALLENTOWN,United States
+"Almalyk, UZ",ASI|UZ|UZ013|ALMALYK,Uzbekistan
+"Almaty, KZ",ASI|KZ|KZ001|ALMATY,Kazakhstan
+"Almere, NL",EUR|NL|NL002|ALMERE,Netherlands
+"Almeria, ES",EUR|ES|SP001|ALMERÍA,Spain
+"Alor Setar, MY",ASI|MY|MY002|ALOR SETAR,Malaysia
+"Al-Rakka, SY",MEA|SY|SY004|AL-RAKKA,Syria
+"Alvorada, BR",SAM|BR|BR004|ALVORADA,Brazil
+"Alwar, IN",ASI|IN|IN029|ALWAR,India
+"Amadora, PT",EUR|PT|PO012|AMADORA,Portugal
+"Amagasaki, JP",ASI|JP|JA013|AMAGASAKI,Japan
+"Amanzimtoti, ZA",AFR|ZA|SF005|AMANZIMTOTI,South Africa
+"Amara, IQ",MEA|IQ|IZ015|AMARA,Iraq
+"Amarillo, TX, US",NAM|US|TX|AMARILLO,United States
+"Ambala, IN",ASI|IN|IN013|AMBALA,India
+"Ambato, EC",SAM|EC|EC018|AMBATO,Ecuador
+"Ambon, ID",ASI|ID|ID015|AMBON,Indonesia
+"Americana, BR",SAM|BR|BR023|AMERICANA,Brazil
+"Amersfoort, NL",EUR|NL|NL010|AMERSFOORT,Netherlands
+"Amiens, FR",EUR|FR|FR019|AMIENS,France
+"Amman, JO",MEA|JO|JO002|AMMAN,Jordan
+"Amol, IR",MEA|IR|IR021|AMOL,Iran
+"Amravati, IN",ASI|IN|IN020|AMRAVATI,India
+"Amritsar, IN",ASI|IN|IN028|AMRITSAR,India
+"Amroha, IN",ASI|IN|IN033|AMROHA,India
+"Amsterdam, NL",EUR|NL|NL008|AMSTERDAM,Netherlands
+"Anaheim, CA, US",NAM|US|CA|ANAHEIM,United States
+"Anand, IN",ASI|IN|IN012|ANAND,India
+"Ananindeua, BR",SAM|BR|BR013|ANANINDEUA,Brazil
+"Anapolis, BR",SAM|BR|BR027|ANÁPOLIS,Brazil
+"Anchorage, AK, US",NAM|US|AK|ANCHORAGE,United States
+"Anda, CN",ASI|CN|CH011|ANDA,China
+"Andimeshk, IR",MEA|IR|IR016|ANDIMESHK,Iran
+"Andizhan, UZ",ASI|UZ|UZ001|ANDIZHAN,Uzbekistan
+"Andong, KR",ASI|KR|KS010|ANDONG,South Korea
+"Andorra La Vella, AD",EUR|AD|AN000|ANDORRA LA VELLA,Andorra
+"Angarsk, RU",ASI|RU|RS021|ANGARSK,Russia
+"Angeles, PH",ASI|PH|RP006|ANGELES,Philippines
+"Angers, FR",EUR|FR|FR018|ANGERS,France
+"Angren, UZ",ASI|UZ|UZ013|ANGREN,Uzbekistan
+"Anjo, JP",ASI|JP|JA001|ANJO,Japan
+"Ankang, CN",ASI|CN|CH022|ANKANG,China
+"Ankara, TR",MEA|TR|TU007|ANKARA,Turkey
+"Anlu, CN",ASI|CN|CH013|ANLU,China
+"Ann Arbor, MI, US",NAM|US|MI|ANN ARBOR,United States
+"Annaba, DZ",AFR|DZ|AG039|ANNABA,Algeria
+"Annapolis, MD, US",NAM|US|MD|ANNAPOLIS,United States
+"Annecy, FR",EUR|FR|FR022|ANNECY,France
+"Anqing, CN",ASI|CN|CH001|ANQING,China
+"Ansan, KR",ASI|KR|KS009|ANSAN,South Korea
+"Anshan, CN",ASI|CN|CH001|ANSHAN,China
+"Antalya, TR",MEA|TR|TU008|ANTALYA,Turkey
+"Antananarivo, MG",AFR|MG|MA001|ANTANANARIVO,Madagascar
+"Antofagasta, CL",SAM|CL|CI002|ANTOFAGASTA,Chile
+"Antwerpen, BE",EUR|BE|BE001|ANTWERPEN,Belgium
+"Anyang, CN",ASI|CN|CH012|ANYANG,China
+"Aomori, JP",ASI|JP|JA003|AOMORI,Japan
+"Apeldoorn, NL",EUR|NL|NL004|APELDOORN,Netherlands
+"Apia, WS",OCN|WS|WS000|APIA,Samoa
+"Apopa, SV",CAC|SV|ES010|APOPA,El Salvador
+"Apucarana, BR",SAM|BR|BR015|APUCARANA,Brazil
+"Ar Rayyan, QA",MEA|QA|QA000|AR RAYYAN,Qatar
+"Aracaju, BR",SAM|BR|BR024|ARACAJU,Brazil
+"Aracatuba, BR",SAM|BR|BR023|ARAÇATUBA,Brazil
+"Arad, RO",EUR|RO|RO002|ARAD,Romania
+"Araguaina, BR",SAM|BR|BR025|ARAGUAINA,Brazil
+"Arak, IR",MEA|IR|IR020|ARAK,Iran
+"Arapiraca, BR",SAM|BR|BR002|ARAPIRACA,Brazil
+"Araraquara, BR",SAM|BR|BR023|ARARAQUARA,Brazil
+"Araras, BR",SAM|BR|BR023|ARARAS,Brazil
+"Arcot, IN",ASI|IN|IN031|ARCOT,India
+"Ardabil, IR",MEA|IR|IR001|ARDABIL,Iran
+"Arecibo, PR",CAC|PR|PR000|ARECIBO,Puerto Rico
+"Arendal, NO",EUR|NO|NO002|ARENDAL,Norway
+"Arequipa, PE",SAM|PE|PE004|AREQUIPA,Peru
+"Arica, CL",SAM|CL|CI012|ARICA,Chile
+"Arkhangelsk, RU",ASI|RU|RS005|ARKHANGELSK,Russia
+"Arlington, VA, US",NAM|US|VA|ARLINGTON,United States
+"Arlington, TX, US",NAM|US|TX|ARLINGTON,United States
+"Armavir, RU",ASI|RU|RS040|ARMAVIR,Russia
+"Armenia, CO",SAM|CO|CO021|ARMENIA,Colombia
+"Arnhem, NL",EUR|NL|NL004|ARNHEM,Netherlands
+"Arrah, IN",ASI|IN|IN005|ARRAH,India
+"Arua, UG",AFR|UG|UG000|ARUA,Uganda
+"Arusha, TZ",AFR|TZ|TZ000|ARUSHA,Tanzania
+"Arvada, CO, US",NAM|US|CO|ARVADA,United States
+"Arzamas, RU",ASI|RU|RS055|ARZAMAS,Russia
+"As Salimiyah, KW",MEA|KW|KU000|AS SALIMIYAH,Kuwait
+"Asahikawa, JP",ASI|JP|JA012|ASAHIKAWA,Japan
+"Asaka, JP",ASI|JP|JA035|ASAKA,Japan
+"Asansol, IN",ASI|IN|IN005|ASANSOL,India
+"Ashdod, IL",MEA|IL|IS002|ASHDOD,Israel
+"Ashfield, UK",EUR|UK|UK001|ASHFIELD,United Kingdom
+"Ashikaga, JP",ASI|JP|JA039|ASHIKAGA,Japan
+"Ashkelon, IL",MEA|IL|IS001|ASHKELON,Israel
+"Ashkhabad, TM",ASI|TM|TX001|ASHKHABAD,Turkmenistan
+"Asmara, ER",AFR|ER|ER000|ASMARA,Eritrea
+"Astana, KZ",ASI|KZ|KZ004|ASTANA,Kazakhstan
+"Astrakhan, RU",ASI|RU|RS006|ASTRAKHAN,Russia
+"Asuncion, PY",SAM|PY|PA008|ASUNCION,Paraguay
+"Aswan, EG",AFR|EG|EG016|ASWAN,Egypt
+"Athens, GA, US",NAM|US|GA|ATHENS,United States
+"Athinai, GR",EUR|GR|GR007|ATHINAI,Greece
+"Atibaia, BR",SAM|BR|BR023|ATIBAIA,Brazil
+"Atlanta, GA, US",NAM|US|GA|ATLANTA,United States
+"Atsugi, JP",ASI|JP|JA019|ATSUGI,Japan
+"Atushi, CN",ASI|CN|CH028|ATUSHI,China
+"Auckland, NZ",OCN|NZ|NZ000|AUCKLAND,New Zealand
+"Augsburg, DE",EUR|DE|GM002|AUGSBURG,Germany
+"Augusta, GA, US",NAM|US|GA|AUGUSTA,United States
+"Aurangabad, IN",ASI|IN|IN021|AURANGABAD,India
+"Aurora, CO, US",NAM|US|CO|AURORA,United States
+"Aurora, IL, US",NAM|US|IL|AURORA,United States
+"Austin, TX, US",NAM|US|TX|AUSTIN,United States
+"Avellaneda, AR",SAM|AR|AR001|AVELLANEDA,Argentina
+"Avignon, FR",EUR|FR|FR021|AVIGNON,France
+"Ayacucho, PE",SAM|PE|PE005|AYACUCHO,Peru
+"Aydin, TR",MEA|TR|TU011|AYDIN,Turkey
+"Babol, IR",MEA|IR|IR021|BABOL,Iran
+"Bacau, RO",EUR|RO|RO004|BACAU,Romania
+"Bacolod, PH",ASI|PH|RP000|BACOLOD,Philippines
+"Badajoz, ES",EUR|ES|SP010|BADAJOZ,Spain
+"Badalona, ES",EUR|ES|SP008|BADALONA,Spain
+"Badplaas, ZA",AFR|ZA|SF006|BADPLAAS,South Africa
+"Bafoussam, CM",AFR|CM|CM008|BAFOUSSAM,Cameroon
+"Bage, BR",SAM|BR|BR019|BAGÉ,Brazil
+"Baghdad, IQ",MEA|IQ|IZ010|BAGHDAD,Iraq
+"Bago, PH",ASI|PH|RP010|BAGO,Philippines
+"Baguio, PH",ASI|PH|RP011|BAGUIO,Philippines
+"Baharampur, IN",ASI|IN|IN036|BAHARAMPUR,India
+"Bahawalnagar, PK",ASI|PK|PK007|BAHAWALNAGAR,Pakistan
+"Bahia Blanca, AR",SAM|AR|AR001|BAHÍA BLANCA,Argentina
+"Bahir Dar, ET",AFR|ET|ET000|BAHIR DAR,Ethiopia
+"Bahraich, IN",ASI|IN|IN033|BAHRAICH,India
+"Baia Mare, RO",EUR|RO|RO026|BAIA MARE,Romania
+"Baicheng, CN",ASI|CN|CH028|BAICHENG,China
+"Baiyin, CN",ASI|CN|CH001|BAIYIN,China
+"Bakersfield, CA, US",NAM|US|CA|BAKERSFIELD,United States
+"Baku, AZ",ASI|AZ|AJ009|BAKU,Azerbaijan
+"Balakovo, RU",ASI|RU|RS069|BALAKOVO,Russia
+"Balashikha, RU",ASI|RU|RS051|BALASHIKHA,Russia
+"Bale, CH",EUR|CH|SZ005|BÂLE,Switzerland
+"Baleshwar, IN",ASI|IN|IN026|BALESHWAR,India
+"Balikesir, TR",MEA|TR|TU012|BALIKESIR,Turkey
+"Balikpapan, ID",ASI|ID|ID013|BALIKPAPAN,Indonesia
+"Bally, IN",ASI|IN|IN036|BALLY,India
+"Baltimore, MD, US",NAM|US|MD|BALTIMORE,United States
+"Balurghat, IN",ASI|IN|IN036|BALURGHAT,India
+"Bamako, ML",AFR|ML|ML000|BAMAKO,Mali
+"Bamenda, CM",AFR|CM|CM007|BAMENDA,Cameroon
+"Bandar Seri Begawan, BN",ASI|BN|BX000|BANDAR SERI BEGAWAN,Brunei
+"Bandar-E-Abbas, IR",MEA|IR|IR011|BANDAR-E-ABBAS,Iran
+"Bandjarmasin, ID",ASI|ID|ID011|BANDJARMASIN,Indonesia
+"Bandung, ID",ASI|ID|ID004|BANDUNG,Indonesia
+"Bangalore, IN",ASI|IN|IN017|BANGALORE,India
+"Bangkok, TH",ASI|TH|TH017|BANGKOK,Thailand
+"Bangui, CF",AFR|CF|CT000|BANGUI,Central African Republic
+"Banha, EG",AFR|EG|EG012|BANHA,Egypt
+"Banja Luka, BA",EUR|BA|BK002|BANJA LUKA,Bosnia And Herzegovina
+"Banjul, GM",AFR|GM|GA001|BANJUL,The Gambia
+"Bankura, IN",ASI|IN|IN036|BANKURA,India
+"Banstead, UK",EUR|UK|UK224|BANSTEAD,United Kingdom
+"Baoding, CN",ASI|CN|CH001|BAODING,China
+"Baoji, CN",ASI|CN|CH018|BAOJI,China
+"Baoshan, CN",ASI|CN|CH031|BAOSHAN,China
+"Baotou, CN",ASI|CN|CH019|BAOTOU,China
+"Baracaldo, ES",EUR|ES|SP017|BARACALDO,Spain
+"Baranagar, IN",ASI|IN|IN035|BARANAGAR,India
+"Baranovichi, BY",EUR|BY|BO001|BARANOVICHI,Belarus
+"Barbacena, BR",SAM|BR|BR012|BARBACENA,Brazil
+"Barberton, ZA",AFR|ZA|SF006|BARBERTON,South Africa
+"Barcelona, ES",EUR|ES|SP008|BARCELONA,Spain
+"Barcelona, VE",SAM|VE|VE002|BARCELONA,Venezuela
+"Barddhaman, IN",ASI|IN|IN036|BARDDHAMAN,India
+"Bareilly, IN",ASI|IN|IN033|BAREILLY,India
+"Bari, IT",EUR|IT|IT013|BARI,Italy
+"Barinas, VE",SAM|VE|VE005|BARINAS,Venezuela
+"Barisal, BD",ASI|BD|BG003|BARISAL,Bangladesh
+"Barking and Dagenham, UK",EUR|UK|UK001|BARKING AND DAGENHAM,United Kingdom
+"Barkly West, ZA",AFR|ZA|SF008|BARKLY WEST,South Africa
+"Barnaul, RU",ASI|RU|RS043|BARNAUL,Russia
+"Barnet, UK",EUR|UK|UK001|BARNET,United Kingdom
+"Barnsley, UK",EUR|UK|UK001|BARNSLEY,United Kingdom
+"Barquisimeto, VE",SAM|VE|VE014|BARQUISIMETO,Venezuela
+"Barra Mansa, BR",SAM|BR|BR017|BARRA MANSA,Brazil
+"Barrancabermeja, CO",SAM|CO|CO024|BARRANCABERMEJA,Colombia
+"Barranquilla, CO",SAM|CO|CO004|BARRANQUILLA,Colombia
+"Barreiras, BR",SAM|BR|BR005|BARREIRAS,Brazil
+"Barretos, BR",SAM|BR|BR023|BARRETOS,Brazil
+"Barrie, CA",NAM|CA|ON|BARRIE,Canada
+"Barrydale, ZA",AFR|ZA|SF011|BARRYDALE,South Africa
+"Barueri, BR",SAM|BR|BR023|BARUERI,Brazil
+"Baruta, VE",SAM|VE|VE016|BARUTA,Venezuela
+"Basildon, UK",EUR|UK|UK001|BASILDON,United Kingdom
+"Basirhat, IN",ASI|IN|IN036|BASIRHAT,India
+"Baskingstoke and Deane, UK",EUR|UK|UK001|BASKINGSTOKE AND DEANE,United Kingdom
+"Basra, IQ",MEA|IQ|IZ002|BASRA,Iraq
+"Bassein, MM",ASI|MM|BM001|BASSEIN,Burma/Myanmar
+"Basseterre, GP",CAC|KN|SC003|BASSETERRE,Saint Kitts And Nevis
+"Basse-Terre, KN",CAC|GP|GP---|BASSE-TERRE,Guadeloupe
+"Bat Dambang, KH",ASI|KH|CB002|BAT DAMBANG,Cambodia
+"Bat Yam, IL",MEA|IL|IS005|BAT YAM,Israel
+"Batala, IN",ASI|IN|IN015|BATALA,India
+"Batangas, PH",ASI|PH|RP016|BATANGAS,Philippines
+"Bath and North East Somerset, UK",EUR|UK|UK001|BATH AND NORTH EAST SOMERSET,United Kingdom
+"Batman, TR",MEA|TR|TU000|BATMAN,Turkey
+"Batna, DZ",AFR|DZ|AG006|BATNA,Algeria
+"Baton Rouge, LA, US",NAM|US|LA|BATON ROUGE,United States
+"Batumi, GE",ASI|GE|GG000|BATUMI,Georgia
+"Bauru, BR",SAM|BR|BR023|BAURU,Brazil
+"Bayamo, CU",CAC|CU|CU005|BAYAMO,Cuba
+"Bayamon, PR",CAC|PR|PR000|BAYAMÓN,Puerto Rico
+"Bazhou, CN",ASI|CN|CH008|BAZHOU,China
+"Beau Bassin, MU",AFR|MU|MP008|BEAU BASSIN,Mauritius
+"Beaufort West, ZA",AFR|ZA|SF011|BEAUFORT WEST,South Africa
+"Beaumont, TX, US",NAM|US|TX|BEAUMONT,United States
+"Beawar, IN",ASI|IN|IN029|BEAWAR,India
+"Bechar, DZ",AFR|DZ|AG007|BECHAR,Algeria
+"Bedford, UK",EUR|UK|UK001|BEDFORD,United Kingdom
+"Bedworth, UK",EUR|UK|UK238|BEDWORTH,United Kingdom
+"Beer Sheva, IL",MEA|IL|IS001|BE'ER SHEBA,Israel
+"Beian, CN",ASI|CN|CH016|BEIAN,China
+"Beihai, CN",ASI|CN|CH007|BEIHAI,China
+"Beijing, CN",ASI|CN|CH002|BEIJING,China
+"Beipiao, CN",ASI|CN|CH018|BEIPIAO,China
+"Beira, MZ",AFR|MZ|MZ008|BEIRA,Mozambique
+"Beirut, LB",MEA|LB|LE002|BEIRUT,Lebanon
+"Bejaia, DZ",AFR|DZ|AG008|BEJAIA,Algeria
+"Bela-Bela, ZA",AFR|ZA|SF005|BELA-BELA,South Africa
+"Belem, BR",SAM|BR|BR013|BELÉM,Brazil
+"Belfast, UK",EUR|UK|UK002|BELFAST,United Kingdom
+"Belfast, ZA",AFR|ZA|SF006|BELFAST,South Africa
+"Belford Roxo, BR",SAM|BR|BR017|BELFORD ROXO,Brazil
+"Belgaum, IN",ASI|IN|IN017|BELGAUM,India
+"Belgorod, RU",ASI|RU|RS008|BELGOROD,Russia
+"Bellary, IN",ASI|IN|IN017|BELLARY,India
+"Bellevue, WA, US",NAM|US|WA|BELLEVUE,United States
+"Bello, CO",SAM|CO|CO002|BELLO,Colombia
+"Belmopan, BZ",CAC|BZ|BH002|BELMOPAN,Belize
+"Belo Horizonte, BR",SAM|BR|BR012|BELO HORIZONTE,Brazil
+"Beltsy, MD",EUR|MD|MD000|BELTSY,Moldova
+"Bene Beraq, IL",MEA|IL|IS005|BENE BERAQ,Israel
+"Benghazi, LY",AFR|LY|LY012|BENGHAZI,Libya
+"Benguela, AO",AFR|AO|AO002|BENGUELA,Angola
+"Beni Mellal, MA",AFR|MA|MO006|BÉNI-MELLAL,Morocco
+"Benito Juarez-Cancun-Qroo, MX",NAM|MX|MX023|BENITO JUAREZ-CANCUN-QROO,Mexico
+"Benoni, ZA",AFR|ZA|SF004|BENONI,South Africa
+"Benxi, CN",ASI|CN|CH018|BENXI,China
+"Beograd, CS",EUR|CS|YI003|BEOGRAD,Serbia
+"Beppu, JP",ASI|JP|JA030|BEPPU,Japan
+"Berdyansk, UA",EUR|UA|UP004|BERDYANSK,Ukraine
+"Berezniki, RU",ASI|RU|RS062|BEREZNIKI,Russia
+"Bergamo, IT",EUR|IT|IT009|BERGAMO,Italy
+"Bergen, NO",EUR|NO|NO006|BERGEN,Norway
+"Bergisch Gladbach, DE",EUR|DE|GM011|BERGISCH GLADBACH,Germany
+"Berkeley, CA, US",NAM|US|CA|BERKELEY,United States
+"Berlin, DE",EUR|DE|GM003|BERLIN,Germany
+"Berne, CH",EUR|CH|SZ006|BERNE,Switzerland
+"Besancon, FR",EUR|FR|FR010|BESANÇON,France
+"Bethlehem, ZA",AFR|ZA|SF003|BETHLEHEM,South Africa
+"Betim, BR",SAM|BR|BR012|BETIM,Brazil
+"Bexley, UK",EUR|UK|UK001|BEXLEY,United Kingdom
+"Bhadravati, IN",ASI|IN|IN017|BHADRAVATI,India
+"Bhagalpur, IN",ASI|IN|IN005|BHAGALPUR,India
+"Bharatpur, IN",ASI|IN|IN020|BHARATPUR,India
+"Bharuch, IN",ASI|IN|IN012|BHARUCH,India
+"Bhatpara, IN",ASI|IN|IN036|BHATPARA,India
+"Bhavnagar, IN",ASI|IN|IN012|BHAVNAGAR,India
+"Bhilai Nagar, IN",ASI|IN|IN020|BHILAI NAGAR,India
+"Bhilwara, IN",ASI|IN|IN029|BHILWARA,India
+"Bhind, IN",ASI|IN|IN020|BHIND,India
+"Bhisho, ZA",AFR|ZA|SF002|BHISHO,South Africa
+"Bhiwandi, IN",ASI|IN|IN021|BHIWANDI,India
+"Bhiwani, IN",ASI|IN|IN013|BHIWANI,India
+"Bhopal, IN",ASI|IN|IN020|BHOPAL,India
+"Bhubaneswar, IN",ASI|IN|IN026|BHUBANESWAR,India
+"Bhuj, IN",ASI|IN|IN012|BHUJ,India
+"Bhusawal, IN",ASI|IN|IN021|BHUSAWAL,India
+"Bialystok, PL",EUR|PL|PL010|BIALYSTOK,Poland
+"Bid, IN",ASI|IN|IN021|BID,India
+"Bidar, IN",ASI|IN|IN017|BIDAR,India
+"Bielefeld, DE",EUR|DE|GM011|BIELEFELD,Germany
+"Bielsko-Biala, PL",EUR|PL|PL012|BIELSKO-BIALA,Poland
+"Bihar Sharif, IN",ASI|IN|IN005|BIHAR SHARIF,India
+"Biisk, RU",ASI|RU|RS003|BIISK,Russia
+"Bijapur, IN",ASI|IN|IN017|BIJAPUR,India
+"Bikaner, IN",ASI|IN|IN029|BIKANER,India
+"Bila Tserkva, UA",EUR|UA|UP009|BELAYA TSERKOV,Ukraine
+"Bilaspur, IN",ASI|IN|IN020|BILASPUR,India
+"Bilbao, ES",EUR|ES|SP017|BILBAO,Spain
+"Bilene, MZ",AFR|MZ|MZ002|BILENE,Mozambique
+"Binzhou, CN",ASI|CN|CH023|BINZHOU,China
+"Biratnagar, NP",ASI|NP|NP000|BIRATNAGAR,Nepal
+"Birjand, IR",MEA|IR|IR015|BIRJAND,Iran
+"Birmingham, UK",EUR|UK|UK001|BIRMINGHAM,United Kingdom
+"Birmingham, AL, US",NAM|US|AL|BIRMINGHAM,United States
+"Bishkek, KG",ASI|KG|KG002|BISHKEK,Kyrgyzstan
+"Biskra, DZ",AFR|DZ|AG009|BISKRA,Algeria
+"Bismarck, ND, US",NAM|US|ND|BISMARCK,United States
+"Bissau, GW",AFR|GW|PU000|BISSAU,Guinea-Bissau
+"Biysk, RU",ASI|RU|RS003|BIYSK,Russia
+"Bizerte, TN",AFR|TN|TS008|BIZERTE,Tunisia
+"Blackburn, UK",EUR|UK|UK001|BLACKBURN,United Kingdom
+"Blackpool, UK",EUR|UK|UK001|BLACKPOOL,United Kingdom
+"Blagoveshchensk, RU",ASI|RU|RS007|BLAGOVESHCHENSK,Russia
+"Blantyre-Limbe, MW",AFR|MW|MI000|BLANTYRE-LIMBE,Malawi
+"Blida, DZ",AFR|DZ|AG010|BLIDA,Algeria
+"Bloemfontein, ZA",AFR|ZA|SF003|BLOEMFONTEIN,South Africa
+"Boa Vista, BR",SAM|BR|BR021|BOA VISTA,Brazil
+"Bobo Dioulasso, BF",AFR|BF|UV000|BOBO DIOULASSO,Burkina Faso
+"Bobruisk, BY",EUR|BY|BO005|BOBRUISK,Belarus
+"Bochum, DE",EUR|DE|GM011|BOCHUM,Germany
+"Bodoe, NO",EUR|NO|NO009|BODOE,Norway
+"Bogor, ID",ASI|ID|ID026|BOGOR,Indonesia
+"Boise, ID, US",NAM|US|ID|BOISE,United States
+"Bojnurd, IR",MEA|IR|IR015|BOJNURD,Iran
+"Bokaro Steel City, IN",ASI|IN|IN005|BOKARO STEEL CITY,India
+"Boksburg, ZA",AFR|ZA|SF004|BOKSBURG,South Africa
+"Bolgatanga, GH",AFR|GH|GH000|BOLGATANGA,Ghana
+"Bolivar, VE",SAM|VE|VE006|CIUDAD BOLÍVAR,Venezuela
+"Bologna, IT",EUR|IT|IT005|BOLOGNA,Italy
+"Bolton, UK",EUR|UK|UK001|BOLTON,United Kingdom
+"Boma, CD",AFR|CD|CG002|BOMA,Kinshasa
+"Bonn, DE",EUR|DE|GM011|BONN,Germany
+"Boraas, SE",EUR|SE|SW021|BORAAS,Sweden
+"Bordeaux, FR",EUR|FR|FR002|BORDEAUX,France
+"Borisov, BY",EUR|BY|BO004|BORISOV,Belarus
+"Borujerd, IR",MEA|IR|IR019|BORUJERD,Iran
+"Boston, MA, US",NAM|US|MA|BOSTON,United States
+"Botosani, RO",EUR|RO|RO007|BOTOSANI,Romania
+"Botshabelo, ZA",AFR|ZA|SF007|BOTSHABELO,South Africa
+"Bottrop, DE",EUR|DE|GM011|BOTTROP,Germany
+"Botucatu, BR",SAM|BR|BR023|BOTUCATU,Brazil
+"Bouaké, CI",AFR|CI|IV000|BOUAKÉ,Ivory Coast
+"Boulogne-Billancourt, FR",EUR|FR|FR012|BOULOGNE-BILLANCOURT,France
+"Bourgas, BG",EUR|BG|BU002|BOURGAS,Bulgaria
+"Bournemouth, UK",EUR|UK|UK001|BOURNEMOUTH,United Kingdom
+"Bradford, UK",EUR|UK|UK001|BRADFORD,United Kingdom
+"Braganca Paulista, BR",SAM|BR|BR023|BRAGANÇA PAULISTA,Brazil
+"Brahmapur, IN",ASI|IN|IN026|BRAHMAPUR,India
+"Braila, RO",EUR|RO|RO008|BRAILA,Romania
+"Braintree, UK",EUR|UK|UK001|BRAINTREE,United Kingdom
+"Brampton, CA",NAM|CA|ON|BRAMPTON,Canada
+"Brantford, CA",NAM|CA|ON|BRANTFORD,Canada
+"Brasilia, BR",SAM|BR|BR007|BRASILIA,Brazil
+"Brasov, RO",EUR|RO|RO009|BRASOV,Romania
+"Bratislava, SK",EUR|SK|LO002|BRATISLAVA,Slovakia
+"Bratsk, RU",ASI|RU|RS021|BRATSK,Russia
+"Braunschweig, DE",EUR|DE|GM009|BRAUNSCHWEIG,Germany
+"Brazzaville, CG",AFR|CG|CF002|BRAZZAVILLE,Republic of Congo
+"Breda, NL",EUR|NL|NL007|BREDA,Netherlands
+"Bremen, DE",EUR|DE|GM005|BREMEN,Germany
+"Bremerhaven, DE",EUR|DE|GM005|BREMERHAVEN,Germany
+"Brent, UK",EUR|UK|UK001|BRENT,United Kingdom
+"Brescia, IT",EUR|IT|IT009|BRESCIA,Italy
+"Brest, BY",EUR|BY|BO001|BREST,Belarus
+"Brest, FR",EUR|FR|FR006|BREST,France
+"Briançon, FR",EUR|FR|FR021|BRIANÇON,France
+"Bridgend, UK",EUR|UK|UK003|BRIDGEND,United Kingdom
+"Bridgeport, CT, US",NAM|US|CT|BRIDGEPORT,United States
+"Bridgetown, BB",CAC|BB|BB008|BRIDGETOWN,Barbados
+"Brighton, UK",EUR|UK|UK001|BRIGHTON,United Kingdom
+"Brisbane, AU",OCN|AU|QLD|BRISBANE,Australia
+"Bristol, UK",EUR|UK|UK001|BRISTOL,United Kingdom
+"Brits, ZA",AFR|ZA|SF007|BRITS,South Africa
+"Brno, CZ",EUR|CZ|EZ007|BRNO,Czech Republic
+"Bromley, UK",EUR|UK|UK001|BROMLEY,United Kingdom
+"Brownsville, TX, US",NAM|US|TX|BROWNSVILLE,United States
+"Brugge, BE",EUR|BE|BE011|BRUGGE,Belgium
+"Bruxelles, BE",EUR|BE|BE003|BRUXELLES,Belgium
+"Bryansk, RU",ASI|RU|RS010|BRYANSK,Russia
+"Bucaramanga, CO",SAM|CO|CO024|BUCARAMANGA,Colombia
+"Bucuresti, RO",EUR|RO|RO010|BUCURESTI,Romania
+"Budapest, HU",EUR|HU|HU006|BUDAPEST,Hungary
+"Budaun, IN",ASI|IN|IN033|BUDAUN,India
+"Buenaventura, CO",SAM|CO|CO027|BUENAVENTURA,Colombia
+"Buenos Aires, AR",SAM|AR|AR007|BUENOS AIRES,Argentina
+"Buffalo, NY, US",NAM|US|NY|BUFFALO,United States
+"Buga, CO",SAM|CO|CO027|BUGA,Colombia
+"Bujumbura, BI",AFR|BI|BY000|BUJUMBURA,Burundi
+"Bukand, IR",MEA|IR|IR000|BUKAND,Iran
+"Bukavu, CD",AFR|CD|CG011|BUKAVU,Kinshasa
+"Bukhara, UZ",ASI|UZ|UZ002|BUKHARA,Uzbekistan
+"Bulandshahr, IN",ASI|IN|IN033|BULANDSHAHR,India
+"Bulawayo, ZW",AFR|ZW|ZI005|BULAWAYO,Zimbabwe
+"Burbank, CA, US",NAM|US|CA|BURBANK,United States
+"Burewala, PK",ASI|PK|PK007|BUREWALA,Pakistan
+"Burgersdorp, ZA",AFR|ZA|SF002|BURGERSDORP,South Africa
+"Burgos, ES",EUR|ES|SP007|BURGOS,Spain
+"Burhanpur, IN",ASI|IN|IN020|BURHANPUR,India
+"Burlington, CA",NAM|CA|NL|BURLINGTON,Canada
+"Burnaby, CA",NAM|CA|BC|BURNABY,Canada
+"Bursa, TR",MEA|TR|TU021|BURSA,Turkey
+"Bury, UK",EUR|UK|UK001|BURY,United Kingdom
+"Bushehr, IR",MEA|IR|IR004|BUSHEHR,Iran
+"Butuan, PH",ASI|PH|RP022|BUTUAN,Philippines
+"Buzau, RO",EUR|RO|RO011|BUZAU,Romania
+"Bydgoszcz, PL",EUR|PL|PL002|BYDGOSZCZ,Poland
+"Bytom, PL",EUR|PL|PL012|BYTOM,Poland
+"Cabanatuan, PH",ASI|PH|RP023|CABANATUAN,Philippines
+"Cabimas, VE",SAM|VE|VE025|CABIMAS,Venezuela
+"Cabo Frio, BR",SAM|BR|BR017|CABO FRIO,Brazil
+"Cacak, CS",EUR|CS|YI003|CACAK,Serbia
+"Cachoeirinha, BR",SAM|BR|BR015|CACHOEIRINHA,Brazil
+"Cachoeiro De Itapemirim, BR",SAM|BR|BR008|CACHOEIRO DE ITAPEMIRIM,Brazil
+"Cadiz, PH",ASI|PH|RP024|CADIZ,Philippines
+"Cadiz, ES",EUR|ES|SP001|CÁDIZ,Spain
+"Caen, FR",EUR|FR|FR004|CAEN,France
+"Caerphilly, UK",EUR|UK|UK004|CAERPHILLY,United Kingdom
+"Cagayan De Oro, PH",ASI|PH|RP026|CAGAYAN DE ORO,Philippines
+"Cagliari, IT",EUR|IT|IT014|CAGLIARI,Italy
+"Caguas, PR",CAC|PR|PR000|CAGUAS,Puerto Rico
+"Cairns, AU",OCN|AU|QLD|CAIRNS,Australia
+"Cairo, EG",AFR|EG|EG011|CAIRO,Egypt
+"Cajamarca, PE",SAM|PE|PE006|CAJAMARCA,Peru
+"Cajeme, MX",NAM|MX|MX026|CAJEME,Mexico
+"Calabar, NG",AFR|NG|NI000|CALABAR,Nigeria
+"Calama, CL",SAM|CL|CI002|CALAMA,Chile
+"Calbayog, PH",ASI|PH|RP027|CALBAYOG,Philippines
+"Calcutta, IN",ASI|IN|IN036|CALCUTTA,India
+"Calderdale, UK",EUR|UK|UK001|CALDERDALE,United Kingdom
+"Caledon, ZA",AFR|ZA|SF011|CALEDON,South Africa
+"Calgary, CA",NAM|CA|AB|CALGARY,Canada
+"Cali, CO",SAM|CO|CO027|CALI,Colombia
+"Caloocan, PH",ASI|PH|RP028|CALOOCAN,Philippines
+"Calvinia, ZA",AFR|ZA|SF008|CALVINIA,South Africa
+"Camacari, BR",SAM|BR|BR005|CAMACARI,Brazil
+"Camaguey, CU",CAC|CU|CU001|CAMAGÜEY,Cuba
+"Camaragibe, BR",SAM|BR|BR026|CAMARAGIBE,Brazil
+"Cambridge, CA",NAM|CA|ON|CAMBRIDGE,Canada
+"Cambridge, UK",EUR|UK|UK001|CAMBRIDGE,United Kingdom
+"Cambridge, MA, US",NAM|US|MA|CAMBRIDGE,United States
+"Camden, UK",EUR|UK|UK001|CAMDEN,United Kingdom
+"Campeche, MX",NAM|MX|MX004|CAMPECHE,Mexico
+"Campha, VN",ASI|VN|VM052|CAMPHA,Vietnam
+"Campina Grande, BR",SAM|BR|BR014|CAMPINA GRANDE,Brazil
+"Campinas, BR",SAM|BR|BR023|CAMPINAS,Brazil
+"Campo Grande, BR",SAM|BR|BR010|CAMPO GRANDE,Brazil
+"Canberra, AU",OCN|AU|ACT|CANBERRA,Australia
+"Cangzhou, CN",ASI|CN|CH004|CANGZHOU,China
+"Canoas, BR",SAM|BR|BR019|CANOAS,Brazil
+"Canterbury, UK",EUR|UK|UK001|CANTERBURY,United Kingdom
+"Cantho, VN",ASI|VN|VM041|CANTHO,Vietnam
+"Cape Coral, FL, US",NAM|US|FL|CAPE CORAL,United States
+"Cape Cost, GH",AFR|GH|GH000|CAPE COST,Ghana
+"Cape Point, ZA",AFR|ZA|SF011|CAPE POINT,South Africa
+"Cape Town , ZA",AFR|ZA|SF011|CAPE TOWN,South Africa
+"Cap-Haitien, HT",CAC|HT|HA004|CAP-HAITIEN,Haiti
+"Caracas, VE",SAM|VE|VE011|CARACAS,Venezuela
+"Carapicuiba, BR",SAM|BR|BR023|CARAPICUÍBA,Brazil
+"Cardiff, UK",EUR|UK|UK004|CARDIFF,United Kingdom
+"Cariacica, BR",SAM|BR|BR008|CARIACICA,Brazil
+"Carlisle, UK",EUR|UK|UK001|CARLISLE,United Kingdom
+"Carnarvon, ZA",AFR|ZA|SF008|CARNARVON,South Africa
+"Carolina, PR",CAC|PR|PR000|CAROLINA,Puerto Rico
+"Carrefour, HT",CAC|HT|HA001|CARREFOUR,Haiti
+"Carrollton, TX, US",NAM|US|TX|CARROLLTON,United States
+"Carson City, NV, US",NAM|US|NV|CARSON CITY,United States
+"Cartagena, CO",SAM|CO|CO008|CARTAGENA,Colombia
+"Cartagena, ES",EUR|ES|SP014|CARTAGENA,Spain
+"Cartago, CO",SAM|CO|CO027|CARTAGO,Colombia
+"Cartago, CR",CAC|CR|CS002|CARTAGO,Costa Rica
+"Caruaru, BR",SAM|BR|BR026|CARUARU,Brazil
+"Carupano, VE",SAM|VE|VE020|CARÚPANO,Venezuela
+"Casablanca, MA",AFR|MA|MO008|CASABLANCA,Morocco
+"Cascavel, BR",SAM|BR|BR006|CASCAVEL,Brazil
+"Casper, WY, US",NAM|US|WY|CASPER,United States
+"Castanhal, BR",SAM|BR|BR013|CASTANHAL,Brazil
+"Castellon, ES",EUR|ES|SP016|CASTELLÓN DE LA PLANA,Spain
+"Castelo Branco, PT",EUR|PT|PO006|CASTELO BRANCO,Portugal
+"Castries, LC",CAC|LC|ST002|CASTRIES,Saint Lucia
+"Catamarca, AR",SAM|AR|AR002|CATAMARCA,Argentina
+"Catanduva, BR",SAM|BR|BR023|CATANDUVA,Brazil
+"Catania, IT",EUR|IT|IT015|CATANIA,Italy
+"Catia La Mar, VE",SAM|VE|VE011|CATIA LA MAR,Venezuela
+"Caucaia, BR",SAM|BR|BR006|CAUCAIA,Brazil
+"Caxias, BR",SAM|BR|BR009|CAXIAS,Brazil
+"Caxias Do Sul, BR",SAM|BR|BR019|CAXIAS DO SUL,Brazil
+"Cayenne, GF",SAM|GF|FG001|CAYENNE,French Guiana
+"Cebu, PH",ASI|PH|RP037|CEBU,Philippines
+"Cedar Rapids, IA, US",NAM|US|IA|CEDAR RAPIDS,United States
+"Celaya, MX",NAM|MX|MX011|CELAYA,Mexico
+"Centro, MX",NAM|MX|MX010|CENTRO,Mexico
+"Ceres, ZA",AFR|ZA|SF011|CERES,South Africa
+"Chandannagar, IN",ASI|IN|IN036|CHANDAN NAGAR,India
+"Chandigarh, IN",ASI|IN|IN006|CHANDIGARH,India
+"Chandler, AZ, US",NAM|US|AZ|CHANDLER,United States
+"Chandrapur, IN",ASI|IN|IN021|CHANDRAPUR,India
+"Changchun, CN",ASI|CN|CH017|CHANGCHUN,China
+"Changde, CN",ASI|CN|CH014|CHANGDE,China
+"Changji, CN",ASI|CN|CH028|CHANGJI,China
+"Changsha, CN",ASI|CN|CH014|CHANGSHA,China
+"Changshu, CN",ASI|CN|CH015|CHANGSHU,China
+"Changzhi, CN",ASI|CN|CH023|CHANGZHI,China
+"Changzhou, CN",ASI|CN|CH015|CHANGZHOU,China
+"Chaohu, CN",ASI|CN|CH001|CHAOHU,China
+"Chaoyang, CN",ASI|CN|CH017|CHAOYANG,China
+"Chaozhou, CN",ASI|CN|CH006|CHAOZHOU,China
+"Chapeco, BR",SAM|BR|BR022|CHAPECÓ,Brazil
+"Chapra, IN",ASI|IN|IN005|CHAPRA,India
+"Chardzhou, TM",ASI|TM|TX004|CHARDZHOU,Turkmenistan
+"Charleroi, BE",EUR|BE|BE004|CHARLEROI,Belgium
+"Charleston, WV, US",NAM|US|WV|Charleston,United States
+"Charleston, SC, US",NAM|US|SC|Charleston,United States
+"Charlotte, NC, US",NAM|US|NC|CHARLOTTE,United States
+"Chattanooga, TN, US",NAM|US|TN|CHATTANOOGA,United States
+"Cheboksary, RU",ASI|RU|RS016|CHEBOKSARY,Russia
+"Chechon, KP",ASI|KP|KN000|CHECHON,North Korea
+"Cheju, KR",ASI|KR|KS003|CHEJU,South Korea
+"Chejung, KP",ASI|KP|KN000|CHEJUNG,North Korea
+"Chelmsford, UK",EUR|UK|UK001|CHELMSFORD,United Kingdom
+"Cheltenham, UK",EUR|UK|UK001|CHELTENHAM,United Kingdom
+"Chelyabinsk, RU",ASI|RU|RS013|CHELYABINSK,Russia
+"Chemnitz, DE",EUR|DE|GM014|CHEMNITZ,Germany
+"Chengde, CN",ASI|CN|CH010|CHENGDE,China
+"Chengdu, CN",ASI|CN|CH026|CHENGDU,China
+"Chenzhou, CN",ASI|CN|CH014|CHENZHOU,China
+"Cheongju, KR",ASI|KR|KS001|CHEONGJU,South Korea
+"Cherepovets, RU",ASI|RU|RS089|CHEREPOVETS,Russia
+"Cherkassy, UA",EUR|UA|UP024|CHERKASSY,Ukraine
+"Cherkessk, RU",ASI|RU|RS029|CHERKESSK,Russia
+"Chernigov, UA",EUR|UA|UP001|CHERNIGOV,Ukraine
+"Chernovtsy, UA",EUR|UA|UP002|CHERNOVTSY,Ukraine
+"Chesapeake, VA, US",NAM|US|VA|CHESAPEAKE,United States
+"Chester, UK",EUR|UK|UK001|CHESTER,United Kingdom
+"Chesterfield, UK",EUR|UK|UK001|CHESTERFIELD,United Kingdom
+"Cheyenne, WY, US",NAM|US|WY|CHEYENNE,United States
+"Chiang Mai, TH",ASI|TH|TH008|CHIANG MAI,Thailand
+"Chiba, JP",ASI|JP|JA004|CHIBA,Japan
+"Chicago, IL, US",NAM|US|IL|CHICAGO,United States
+"Chichester, UK",EUR|UK|UK001|CHICHESTER,United Kingdom
+"Chiclayo, PE",SAM|PE|PE014|CHICLAYO,Peru
+"Chidenguele, MZ",AFR|MZ|MZ002|CHIDENGUELE,Mozambique
+"Chifeng, CN",ASI|CN|CH019|CHIFENG,China
+"Chigasaki, JP",ASI|JP|JA019|CHIGASAKI,Japan
+"Chihuahua, MX",NAM|MX|MX006|CHIHUAHUA,Mexico
+"Chillan, CL",SAM|CL|CI005|CHILLÁN,Chile
+"Chimbote, PE",SAM|PE|PE002|CHIMBOTE,Peru
+"Chimoio/Beira Corridor, MZ",AFR|MZ|MZ004|CHIMOIO/BEIRA CORRIDOR,Mozambique
+"Chinandega, NI",CAC|NI|NU003|CHINANDEGA,Nicaragua
+"Chingola, ZM",AFR|ZM|ZA001|CHINGOLA,Zambia
+"Chiniot, PK",ASI|PK|PK007|CHINIOT,Pakistan
+"Chirchik, UZ",ASI|UZ|UZ013|CHIRCHIK,Uzbekistan
+"Chita, RU",ASI|RU|RS014|CHITA,Russia
+"Chitradurga, IN",ASI|IN|IN017|CHITRADURGA,India
+"Chittagong, BD",ASI|BD|BG001|CHITTAGONG,Bangladesh
+"Chittoor, IN",ASI|IN|IN002|CHITTOOR,India
+"Chitungwiza, ZW",AFR|ZW|ZI003|CHITUNGWIZA,Zimbabwe
+"Chlef, DZ",AFR|DZ|AG014|CHLEF,Algeria
+"Chofu, JP",ASI|JP|JA041|CHOFU,Japan
+"Chon Buri, TH",ASI|TH|TH010|CHON BURI,Thailand
+"Chongqing, CN",ASI|CN|CH003|CHONGQING,China
+"Chorzow, PL",EUR|PL|PL012|CHORZÓW,Poland
+"Chrissiesmeer, ZA",AFR|ZA|SF006|CHRISSIESMEER,South Africa
+"Christchurch, NZ",OCN|NZ|NZ000|CHRISTCHURCH,New Zealand
+"Chula Vista, CA, US",NAM|US|CA|CHULA VISTA,United States
+"Chuncheon, KR",ASI|KR|KS007|CHUNCHEON,South Korea
+"Chungju, KR",ASI|KR|KS001|CHUNGJU,South Korea
+"Chuxiong, CN",ASI|CN|CH030|CHUXIONG,China
+"Chuzhou, CN",ASI|CN|CH001|CHUZHOU,China
+"Cienfuegos, CU",CAC|CU|CU003|CIENFUEGOS,Cuba
+"Cincinnati, OH, US",NAM|US|OH|CINCINNATI,United States
+"Cirebon, ID",ASI|ID|ID026|CIREBON,Indonesia
+"Ciudad De Colon, PA",CAC|PA|PM004|CIUDAD DE COLON,Panama
+"Ciudad Del Este, PY",SAM|PY|PA001|CIUDAD DEL ESTE,Paraguay
+"Ciudad Guayana, VE",SAM|VE|VE006|CIUDAD GUAYANA,Venezuela
+"Ciudad Madero, MX",NAM|MX|MX028|CIUDAD MADERO,Mexico
+"Ciudad Victoria, MX",NAM|MX|MX002|CIUDAD VICTORIA,Mexico
+"Cixi, CN",ASI|CN|CH001|CIXI,China
+"Clanwilliam, ZA",AFR|ZA|SF011|CLANWILLIAM,South Africa
+"Clarens, ZA",AFR|ZA|SF003|CLARENS,South Africa
+"Clarksville, TN, US",NAM|US|TN|CLARKSVILLE,United States
+"Clearwater, FL, US",NAM|US|FL|CLEARWATER,United States
+"Clermont-Ferrand, FR",EUR|FR|FR003|CLERMONT-FERRAND,France
+"Cleveland, OH, US",NAM|US|OH|CLEVELAND,United States
+"Cluj-Napoca, RO",EUR|RO|RO001|CLUJ-NAPOCA,Romania
+"Coatzacoalcos, MX",NAM|MX|MX030|COATZACOALCOS,Mexico
+"Cochabamba, BO",SAM|BO|BL002|COCHABAMBA,Bolivia
+"Codo, BR",SAM|BR|BR009|CODO,Brazil
+"Coffee Bay, ZA",AFR|ZA|SF002|COFFEE BAY,South Africa
+"Coimbatore, IN",ASI|IN|IN031|COIMBATORE,India
+"Coimbra, PT",EUR|PT|PO007|COIMBRA,Portugal
+"Colchester, UK",EUR|UK|UK001|COLCHESTER,United Kingdom
+"Colesberg, ZA",AFR|ZA|SF008|COLESBERG,South Africa
+"Colimas, MX",NAM|MX|MX019|COLIMAS,Mexico
+"Colombo, BR",SAM|BR|BR015|COLOMBO,Brazil
+"Colombo, LK",ASI|LK|CE009|COLOMBO,Sri Lanka
+"Colorado Springs, CO, US",NAM|US|CO|COLORADO SPRINGS,United States
+"Columbia, SC, US",NAM|US|SC|COLUMBIA,United States
+"Columbus, OH, US",NAM|US|OH|COLUMBUS,United States
+"Columbus, GA, US",NAM|US|GA|COLUMBUS,United States
+"Comilla, BD",ASI|BD|BG001|COMILLA,Bangladesh
+"Comodoro Rivadavia, AR",SAM|AR|AR004|COMODORO RIVADAVIA,Argentina
+"Conakry, GN",AFR|GN|GV004|CONAKRY,Guinea
+"Concepcion, CL",SAM|CL|CI005|CONCEPCIÓN,Chile
+"Concord, CA, US",NAM|US|CA|CONCORD,United States
+"Concordia, AR",SAM|AR|AR008|CONCORDIA,Argentina
+"Constanta, RO",EUR|RO|RO015|CONSTANTA,Romania
+"Constantine, DZ",AFR|DZ|AG015|CONSTANTINE,Algeria
+"Contagem, BR",SAM|BR|BR012|CONTAGEM,Brazil
+"Conwy, UK",EUR|UK|UK004|CONWY,United Kingdom
+"Copenhagen, DK",EUR|DK|DA012|COPENHAGEN,Denmark
+"Copiapo, CL",SAM|CL|CI004|COPIAPÓ,Chile
+"Coquimbo, CL",SAM|CL|CI006|COQUIMBO,Chile
+"Coquitlam, CA",NAM|CA|BC|COQUITLAM,Canada
+"Coral Springs, FL, US",NAM|US|FL|CORAL SPRINGS,United States
+"Cordoba, AR",SAM|AR|AR005|CÓRDOBA,Argentina
+"Cordoba, MX",NAM|MX|MX030|CÓRDOBA,Mexico
+"Cordoba, ES",EUR|ES|SP001|CÓRDOBA,Spain
+"Cork, IE",EUR|IE|EI004|CORK,Ireland
+"Coro, VE",SAM|VE|VE012|CORO,Venezuela
+"Corona, CA, US",NAM|US|CA|CORONA,United States
+"Corpus Christi, TX, US",NAM|US|TX|CORPUS CHRISTI,United States
+"Corrientes, AR",SAM|AR|AR006|CORRIENTES,Argentina
+"Corum, TR",MEA|TR|TU024|CORUM,Turkey
+"Costa Mesa, CA, US",NAM|US|CA|COSTA MESA,United States
+"Cotabato, PH",ASI|PH|RP039|COTABATO,Philippines
+"Cotia, BR",SAM|BR|BR023|COTIA,Brazil
+"Cotonou, BJ",AFR|BJ|BN000|COTONOU,Benin
+"Cottbus, DE",EUR|DE|GM004|COTTBUS,Germany
+"Cotyaeum, TR",MEA|TR|TU054|KÜTAHYA,Turkey
+"Coventry, UK",EUR|UK|UK001|COVENTRY,United Kingdom
+"Cradock, ZA",AFR|ZA|SF002|CRADOCK,South Africa
+"Craiova, RO",EUR|RO|RO018|CRAIOVA,Romania
+"Crato, BR",SAM|BR|BR006|CRATO,Brazil
+"Crewe, UK",EUR|UK|UK001|CREWE,United Kingdom
+"Criciuma, BR",SAM|BR|BR022|CRICIÚMA,Brazil
+"Croydon, UK",EUR|UK|UK001|CROYDON,United Kingdom
+"Cubatao, BR",SAM|BR|BR023|CUBATAO,Brazil
+"Cucuta, CO",SAM|CO|CO005|CUCUTA,Colombia
+"Cuddalore, IN",ASI|IN|IN031|CUDDALORE,India
+"Cuddapah, IN",ASI|IN|IN002|CUDDAPAH,India
+"Cuenca, EC",SAM|EC|EC001|CUENCA,Ecuador
+"Cuernavaca, MX",NAM|MX|MX017|CUERNAVACA,Mexico
+"Cuiaba, BR",SAM|BR|BR010|CUIABÁ,Brazil
+"Culican, MX",NAM|MX|MX025|CULIACÁN,Mexico
+"Cumana, VE",SAM|VE|VE020|CUMANÁ,Venezuela
+"Curitiba, BR",SAM|BR|BR015|CURITIBA,Brazil
+"Cuttack, IN",ASI|IN|IN026|CUTTACK,India
+"Cuzco, PE",SAM|PE|PE008|CUZCO,Peru
+"Czestochowa, PL",EUR|PL|PL012|CZESTOCHOWA,Poland
+"Da Nang, VN",ASI|VN|VM016|DA NANG,Vietnam
+"Daan, CN",ASI|CN|CH026|DAAN,China
+"Dabrowa Gornicza, PL",EUR|PL|PL012|DABROWA GÓRNICZA,Poland
+"Dadu, PK",ASI|PK|PK008|DADU,Pakistan
+"Dagupan, PH",ASI|PH|RP040|DAGUPAN,Philippines
+"Daito, JP",ASI|JP|JA033|DAITO,Japan
+"Dakar, SN",AFR|SN|SG001|DAKAR,Senegal
+"Dalat, VN",ASI|VN|VM037|DALAT,Vietnam
+"Dali, CN",ASI|CN|CH030|DALI,China
+"Dalian, CN",ASI|CN|CH018|DALIAN,China
+"Dallas, TX, US",NAM|US|TX|DALLAS,United States
+"Daly City, CA, US",NAM|US|CA|DALY CITY,United States
+"Damanhur, EG",AFR|EG|EG003|DAMANHÛR,Egypt
+"Damascus, SY",MEA|SY|SY008|DAMASCUS,Syria
+"Dammam, SA",MEA|SA|SA008|DAMMAM,Saudi Arabia
+"Damoh, IN",ASI|IN|IN020|DAMOH,India
+"Dandong, CN",ASI|CN|CH018|DANDONG,China
+"Dangyang, CN",ASI|CN|CH013|DANGYANG,China
+"Danielskuil, ZA",AFR|ZA|SF008|DANIELSKUIL,South Africa
+"Danjiangkou, CN",ASI|CN|CH013|DANJIANGKOU,China
+"Danyang, CN",ASI|CN|CH015|DANYANG,China
+"Daqing, CN",ASI|CN|CH011|DAQING,China
+"Dar Es Salaam, TZ",AFR|TZ|TZ000|DAR ES SALAAM,Tanzania
+"Darbhanga, IN",ASI|IN|IN005|DARBHANGA,India
+"Darlington, UK",EUR|UK|UK001|DARLINGTON,United Kingdom
+"Darmstadt, DE",EUR|DE|GM007|DARMSTADT,Germany
+"Darwin, AU",OCN|AU|NT|DARWIN,Australia
+"Daska, PK",ASI|PK|PK007|DASKA,Pakistan
+"Datong, CN",ASI|CN|CH001|DATONG,China
+"Daugavpils, LV",EUR|LV|LG006|DAUGAVPILS,Latvia
+"Davangere, IN",ASI|IN|IN017|DAVANGERE,India
+"Davao, PH",ASI|PH|RP133|DAVAO,Philippines
+"Daxian, CN",ASI|CN|CH026|DAXIAN,China
+"Dayton, OH, US",NAM|US|OH|DAYTON,United States
+"De Aar, ZA",AFR|ZA|SF008|DE AAR,South Africa
+"Debrecen, HU",EUR|HU|HU008|DEBRECEN,Hungary
+"Dehiwala, LK",ASI|LK|CE009|DEHIWALA-MOUNT LAVINIA,Sri Lanka
+"Dehradun, IN",ASI|IN|IN033|DEHRADUN,India
+"Delhi, IN",ASI|IN|IN010|DELHI,India
+"Delmas, HT",CAC|HT|HA003|DELMAS,Haiti
+"Dengzhou, CN",ASI|CN|CH023|DENGZHOU,China
+"Denizli, TR",MEA|TR|TU025|DENIZLI,Turkey
+"Denver, CO, US",NAM|US|CO|DENVER,United States
+"Dera Ghazi Khan, PK",ASI|PK|PK007|DERA GHAZI KHAN,Pakistan
+"Derby, UK",EUR|UK|UK001|DERBY,United Kingdom
+"Derry, IE",EUR|IE|EI000|DERRY,Ireland
+"Des Moines, IA, US",NAM|US|IA|DES MOINES,United States
+"Dessie, ET",AFR|ET|ET000|DESSIE,Ethiopia
+"Detroit, MI, US",NAM|US|MI|DETROIT,United States
+"Dewas, IN",ASI|IN|IN020|DEWAS,India
+"Dewetsdorp, ZA",AFR|ZA|SF003|DEWETSDORP,South Africa
+"Deyang, CN",ASI|CN|CH026|DEYANG,China
+"Dezful, IR",MEA|IR|IR016|DEZFUL,Iran
+"Dezhou, CN",ASI|CN|CH023|DEZHOU,China
+"Dhaka, BD",ASI|BD|BG002|DHAKA,Bangladesh
+"Dhanbad, IN",ASI|IN|IN005|DHANBAD,India
+"Dhule, IN",ASI|IN|IN021|DHULE,India
+"Diadema, BR",SAM|BR|BR023|DIADEMA,Brazil
+"Dibrugarh, IN",ASI|IN|IN004|DIBRUGARH,India
+"Dijon, FR",EUR|FR|FR005|DIJON,France
+"Dili, TL",ASI|TL|TT000|DILI,East Timor
+"Dimitrovgrad, RU",ASI|RU|RS085|DIMITROVGRAD,Russia
+"Dimona, IL",MEA|IL|IS001|DIMONA,Israel
+"Dinajpur, BD",ASI|BD|BG004|DINAJPUR,Bangladesh
+"Dindigul, IN",ASI|IN|IN031|DINDIGUL,India
+"Dingzhou, CN",ASI|CN|CH010|DINGZHOU,China
+"Dire Dawa, ET",AFR|ET|ET000|DIRE DAWA,Ethiopia
+"Divinopolis, BR",SAM|BR|BR012|DIVINÓPOLIS,Brazil
+"Diwaniya, IQ",MEA|IQ|IZ004|DIWANIYA,Iraq
+"Diyarbakir, TR",MEA|TR|TU026|DIYARBAKIR,Turkey
+"Djibouti, DJ",AFR|DJ|DJ003|DJIBOUTI,Djibouti
+"Dneprodzerzhinsk, UA",EUR|UA|UP003|DNEPRODZERZHINSK,Ukraine
+"Dnepropetrovsk, UA",EUR|UA|UP003|DNEPROPETROVSK,Ukraine
+"Doboj, BA",EUR|BA|BK002|DOBOJ,Bosnia And Herzegovina
+"Dobritch, BG",EUR|BG|BU003|DOBRITCH,Bulgaria
+"Dodoma, TZ",AFR|TZ|TZ000|DODOMA,Tanzania
+"Doha, QA",MEA|QA|QA001|DOHA,Qatar
+"Doncaster, UK",EUR|UK|UK001|DONCASTER,United Kingdom
+"Donetsk, UA",EUR|UA|UP006|DONETSK,Ukraine
+"Dongchuan, CN",ASI|CN|CH030|DONGCHUAN,China
+"Dongguan, CN",ASI|CN|CH016|DONGGUAN,China
+"Dongsheng, CN",ASI|CN|CH019|DONGSHENG,China
+"Dongtai, CN",ASI|CN|CH015|DONGTAI,China
+"Dongyang, CN",ASI|CN|CH011|DONGYANG,China
+"Dongying, CN",ASI|CN|CH019|DONGYING,China
+"Dordrecht, NL",EUR|NL|NL012|DORDRECHT,Netherlands
+"Dortmund, DE",EUR|DE|GM011|DORTMUND,Germany
+"Dos Quebradas, CO",SAM|CO|CO027|DOS QUEBRADAS,Colombia
+"Dothan, AL, US",NAM|US|AL|Dothan,United States
+"Douala, CM",AFR|CM|CM005|DOUALA,Cameroon
+"Douglas, IM",EUR|IM|IM---|DOUGLAS,Isle Of Man
+"Dourados, BR",SAM|BR|BR011|DOURADOS,Brazil
+"Dover, UK",EUR|UK|UK001|DOVER,United Kingdom
+"Dover, CO, US",NAM|US|CO|DOVER,United States
+"Dover, DE, US",NAM|US|DE|DOVER,United States
+"Downey, CA, US",NAM|US|CA|DOWNEY,United States
+"Drammen, NO",EUR|NO|NO003|DRAMMEN,Norway
+"Dresden, DE",EUR|DE|GM014|DRESDEN,Germany
+"Drobeta Turnu-Severin, RO",EUR|RO|RO027|DROBETA TURNU-SEVERIN,Romania
+"Dubai, AE",MEA|AE|AE005|DUBAI,United Arab Emirates
+"Dublin, IE",EUR|IE|EI006|DUBLIN,Ireland
+"Dudley, UK",EUR|UK|UK001|DUDLEY,United Kingdom
+"Duisburg, DE",EUR|DE|GM011|DUISBURG,Germany
+"Dujun, CN",ASI|CN|CH016|DUJUN,China
+"Dumfries and Galloway, UK",EUR|UK|UK002|DUMFRIES AND GALLOWAY,United Kingdom
+"Dundee, UK",EUR|UK|UK002|DUNDEE,United Kingdom
+"Dundee, ZA",AFR|ZA|SF005|DUNDEE,South Africa
+"Dunedin, NZ",OCN|NZ|NZ000|DUNEDIN,New Zealand
+"Dunhua, CN",ASI|CN|CH017|DUNHUA,China
+"Dunhuang, CN",ASI|CN|CH005|DUNHUANG,China
+"Duque De Caxias, BR",SAM|BR|BR017|DUQUE DE CAXIAS,Brazil
+"Durango, MX",NAM|MX|MX010|DURANGO,Mexico
+"Durban, ZA",AFR|ZA|SF005|DURBAN,South Africa
+"Durg, IN",ASI|IN|IN020|DURG,India
+"Durgapur, IN",ASI|IN|IN036|DURGAPUR,India
+"Durham, NC, US",NAM|US|NC|DURHAM,United States
+"Dushanbe, TJ",ASI|TJ|TI000|DUSHANBE,Tajikistan
+"Dusseldorf, DE",EUR|DE|GM011|DÜSSELDORF,Germany
+"Dzerzhinsk, RU",ASI|RU|RS055|DZERZHINSK,Russia
+"Ealing, UK",EUR|UK|UK001|EALING,United Kingdom
+"East London, ZA",AFR|ZA|SF002|EAST LONDON,South Africa
+"East York, CA",NAM|CA|ON|EAST YORK,Canada
+"Eastleigh, UK",EUR|UK|UK001|EASTLEIGH,United Kingdom
+"Eau Claire, WI, US",NAM|US|WI|Eau Claire,United States
+"Ebetsu, JP",ASI|JP|JA012|EBETSU,Japan
+"Ebina, JP",ASI|JP|JA019|EBINA,Japan
+"Ecatepec, MX",NAM|MX|MX015|ECATEPEC,Mexico
+"Ede, NL",EUR|NL|NL004|EDE,Netherlands
+"Ede, NG",AFR|NG|NI000|EDE,Nigeria
+"Edea, CM",AFR|CM|CM005|EDÉA,Cameroon
+"Edenburg, ZA",AFR|ZA|SF003|EDENBURG,South Africa
+"Edinburgh, UK",EUR|UK|UK002|EDINBURGH,United Kingdom
+"Edirne, TR",MEA|TR|TU027|EDIRNE,Turkey
+"Edmonton, CA",NAM|CA|AB|EDMONTON,Canada
+"Eilat , IL",MEA|IL|IS001|EILAT,Israel
+"Eindhoven, NL",EUR|NL|NL007|EINDHOVEN,Netherlands
+"Ekaterinburg, RU",ASI|RU|RS075|EKATERINBURG,Russia
+"Ekibastuz, KZ",ASI|KZ|KZ010|EKIBASTUZ,Kazakhstan
+"El Aaiun, EH",AFR|EH|WI---|EL AAIUN,Western Sahara
+"El Jadida, MA",AFR|MA|MO010|EL JADIDA,Morocco
+"El Monte, CA, US",NAM|US|CA|EL MONTE,United States
+"El Paso, TX, US",NAM|US|TX|EL PASO,United States
+"Elazig, TR",MEA|TR|TU028|ELAZIG,Turkey
+"Elblag, PL",EUR|PL|PL014|ELBLAG,Poland
+"Elche, ES",EUR|ES|SP016|ELCHE,Spain
+"Eldoret, KE",AFR|KE|KE007|ELDORET,Kenya
+"Elektrostal, RU",ASI|RU|RS051|ELEKTROSTAL,Russia
+"Elets, RU",ASI|RU|RS046|ELETS,Russia
+"Elista, RU",ASI|RU|RS026|ELISTA,Russia
+"Elizabeth, NJ, US",NAM|US|NJ|ELIZABETH,United States
+"Elk Grove, CA, US",NAM|US|CA|ELK GROVE,United States
+"Ellisras, ZA",AFR|ZA|SF009|ELLISRAS,South Africa
+"El-Mahalla El-Kubra, EG",AFR|EG|EG005|EL-MAHALLA EL-KUBRA,Egypt
+"Elmbridge, UK",EUR|UK|UK001|ELMBRIDGE,United Kingdom
+"Eluru, IN",ASI|IN|IN002|ELURU,India
+"Embu, BR",SAM|BR|BR023|EMBU,Brazil
+"Emmen, NL",EUR|NL|NL001|EMMEN,Netherlands
+"Empangeni, ZA",AFR|ZA|SF005|EMPANGENI,South Africa
+"Enfield, UK",EUR|UK|UK001|ENFIELD,United Kingdom
+"Engels, RU",ASI|RU|RS069|ENGELS,Russia
+"English Bazar, IN",ASI|IN|IN036|ENGLISH BAZAR,India
+"Enschede, NL",EUR|NL|NL009|ENSCHEDE,Netherlands
+"Ensenada, MX",NAM|MX|MX002|ENSENADA,Mexico
+"Enshi, CN",ASI|CN|CH013|ENSHI,China
+"Entebbe, UG",AFR|UG|UG000|ENTEBBE,Uganda
+"Enugu, NG",AFR|NG|NI000|ENUGU,Nigeria
+"Envigado, CO",SAM|CO|CO002|ENVIGADO,Colombia
+"Erbil, IQ",MEA|IQ|IZ006|ERBIL,Iraq
+"Erfurt, DE",EUR|DE|GM017|ERFURT,Germany
+"Erie, PA, US",NAM|US|PA|ERIE,United States
+"Erlangen, DE",EUR|DE|GM002|ERLANGEN,Germany
+"Ermelo, ZA",AFR|ZA|SF006|ERMELO,South Africa
+"Erode, IN",ASI|IN|IN031|ERODE,India
+"Erzurum, TR",MEA|TR|TU030|ERZURUM,Turkey
+"Esbjerg, DK",EUR|DK|DA008|ESBJERG,Denmark
+"Escondido, CA, US",NAM|US|CA|ESCONDIDO,United States
+"Esfahan, IR",MEA|IR|IR006|ESFAHAN,Iran
+"Eshowe, ZA",AFR|ZA|SF005|ESHOWE,South Africa
+"Eskisehir, TR",MEA|TR|TU031|ESKISEHIR,Turkey
+"Esmeraldas, EC",SAM|EC|EC008|ESMERALDAS,Ecuador
+"Espoo, FI",EUR|FI|FI002|ESPOO,Finland
+"Essen, DE",EUR|DE|GM011|ESSEN,Germany
+"Etawah, IN",ASI|IN|IN029|ETAWAH,India
+"Etobicoke, CA",NAM|CA|ON|ETOBICOKE,Canada
+"Eugene, OR, US",NAM|US|OR|EUGENE,United States
+"Evansville, IN, US",NAM|US|IN|EVANSVILLE,United States
+"Évora, PT",EUR|PT|PO008|ÉVORA,Portugal
+"Excelsior, ZA",AFR|ZA|SF003|EXCELSIOR,South Africa
+"Exeter, UK",EUR|UK|UK001|EXETER,United Kingdom
+"Faisalabad, PK",ASI|PK|PK007|FAISALABAD,Pakistan
+"Faiyum, EG",AFR|EG|EG004|FAIYÛM,Egypt
+"Faizabad, IN",ASI|IN|IN033|FAIZABAD,India
+"Falkirk, UK",EUR|UK|UK002|FALKIRK,United Kingdom
+"Fareham, UK",EUR|UK|UK001|FAREHAM,United Kingdom
+"Faridabad, IN",ASI|IN|IN013|FARIDABAD,India
+"Faro, PT",EUR|PT|PO009|FARO,Portugal
+"Farrukhabad-Cum-Fategarh, IN",ASI|IN|IN033|FARRUKHABAD-CUM-FATEGARH,India
+"Fatehpur, IN",ASI|IN|IN029|FATEHPUR,India
+"Fauresmith, ZA",AFR|ZA|SF003|FAURESMITH,South Africa
+"Fayetteville, NC, US",NAM|US|NC|FAYETTEVILLE,United States
+"Fayetteville, AR, US",NAM|US|AR|Fayetteville,United States
+"Feira De Santana, BR",SAM|BR|BR005|FEIRA DE SANTANA,Brazil
+"Fengcheng, CN",ASI|CN|CH016|FENGCHENG,China
+"Fenghua, CN",ASI|CN|CH031|FENGHUA,China
+"Fergana, UZ",ASI|UZ|UZ003|FERGANA,Uzbekistan
+"Ferrara, IT",EUR|IT|IT005|FERRARA,Italy
+"Ferraz De Vasconcelos, BR",SAM|BR|BR023|FERRAZ DE VASCONCELOS,Brazil
+"Fes, MA",AFR|MA|MO016|FÈS,Morocco
+"Ficksburg, ZA",AFR|ZA|SF003|FICKSBURG,South Africa
+"Firenze, IT",EUR|IT|IT016|FIRENZE,Italy
+"Firozabad, IN",ASI|IN|IN017|FIROZABAD,India
+"Flint, MI, US",NAM|US|MI|FLINT,United States
+"Florencia, CO",SAM|CO|CO005|FLORENCIA,Colombia
+"Florianopolis, BR",SAM|BR|BR022|FLORIANÓPOLIS,Brazil
+"Floridablanca, CO",SAM|CO|CO024|FLORIDABLANCA,Colombia
+"Foggia, IT",EUR|IT|IT013|FOGGIA,Italy
+"Fontana, CA, US",NAM|US|CA|FONTANA,United States
+"Forli, IT",EUR|IT|IT005|FORLI,Italy
+"Formosa, AR",SAM|AR|AR009|FORMOSA,Argentina
+"Fort Beaufort, ZA",AFR|ZA|SF002|FORT BEAUFORT,South Africa
+"Fort Collins, CO, US",NAM|US|CO|FORT COLLINS,United States
+"Fort Lauderdale, FL, US",NAM|US|FL|FORT LAUDERDALE,United States
+"Fort Portal, UG",AFR|UG|UG000|FORT PORTAL,Uganda
+"Fort Wayne, IN, US",NAM|US|IN|FORT WAYNE,United States
+"Fort Worth, TX, US",NAM|US|TX|FORT WORTH,United States
+"Fortaleza, BR",SAM|BR|BR006|FORTALEZA,Brazil
+"Fort-De-France, MQ",CAC|MQ|MB---|FORT-DE-FRANCE,Martinique
+"Foshan, CN",ASI|CN|CH006|FOSHAN,China
+"Foz Do Iguacu, BR",SAM|BR|BR015|FOZ DO IGUAÇU,Brazil
+"Franca, BR",SAM|BR|BR005|FRANCA,Brazil
+"Francisco Morato, BR",SAM|BR|BR023|FRANCISCO MORATO,Brazil
+"Francistown, BW",AFR|BW|BC000|FRANCISTOWN,Botswana
+"Franco Da Rocha, BR",SAM|BR|BR023|FRANCO DA ROCHA,Brazil
+"Frankfort, KY, US",NAM|US|KY|FRANKFORT,United States
+"Frankfurt Am Main, DE",EUR|DE|GM007|FRANKFURT AM MAIN,Germany
+"Franschhoek, ZA",AFR|ZA|SF011|FRANSCHHOEK,South Africa
+"Fraserburg, ZA",AFR|ZA|SF008|FRASERBURG,South Africa
+"Fredericia, DK",EUR|DK|DA014|FREDERICIA,Denmark
+"Frederikshavn, DK",EUR|DK|DA007|FREDERIKSHAVN,Denmark
+"Fredrikstad, NO",EUR|NO|NO012|FREDRIKSTAD,Norway
+"Freetown, SL",AFR|SL|SL004|FREETOWN,Sierra Leone
+"Freiburg Im Breisgau, DE",EUR|DE|GM001|FREIBURG IM BREISGAU,Germany
+"Fremont, CA, US",NAM|US|CA|FREMONT,United States
+"Fresno, CA, US",NAM|US|CA|FRESNO,United States
+"Fuan, CN",ASI|CN|CH004|FUAN,China
+"Fuenlabrada, ES",EUR|ES|SP013|FUENLABRADA,Spain
+"Fuji, JP",ASI|JP|JA038|FUJI,Japan
+"Fujieda, JP",ASI|JP|JA038|FUJIEDA,Japan
+"Fujimi, JP",ASI|JP|JA012|FUJIMI,Japan
+"Fujin, CN",ASI|CN|CH011|FUJIN,China
+"Fujinomiya, JP",ASI|JP|JA038|FUJINOMIYA,Japan
+"Fukaya, JP",ASI|JP|JA035|FUKAYA,Japan
+"Fukui, JP",ASI|JP|JA006|FUKUI,Japan
+"Fukuoka, JP",ASI|JP|JA009|FUKUOKA,Japan
+"Fukuyama, JP",ASI|JP|JA011|FUKUYAMA,Japan
+"Fulin, CN",ASI|CN|CH014|FULIN,China
+"Fullerton, CA, US",NAM|US|CA|FULLERTON,United States
+"Funabashi, JP",ASI|JP|JA004|FUNABASHI,Japan
+"Funchal, PT",EUR|PT|PO013|FUNCHAL,Portugal
+"Furth, DE",EUR|DE|GM002|FÜRTH,Germany
+"Fushun, CN",ASI|CN|CH018|FUSHUN,China
+"Fuxin, CN",ASI|CN|CH018|FUXIN,China
+"Fuyang, CN",ASI|CN|CH001|FUYANG,China
+"Fuyu, CN",ASI|CN|CH011|FUYU,China
+"Fuzhou, CN",ASI|CN|CH004|FUZHOU,China
+"Gabes, TN",AFR|TN|TS013|GABES,Tunisia
+"Gaborone, BW",AFR|BW|BC009|GABORONE,Botswana
+"Gadag, IN",ASI|IN|IN017|GADAG-BETGERI,India
+"Gadamabad, IR",MEA|IR|IR009|GONBAD-E-KAVUS,Iran
+"Gaevle, SE",EUR|SE|SW003|GAEVLE,Sweden
+"Gainesville, FL, US",NAM|US|FL|Gainesville,United States
+"Galati, RO",EUR|RO|RO019|GALATI,Romania
+"Gandhidham, IN",ASI|IN|IN012|GANDHIDHAM,India
+"Gandhinagar, IN",ASI|IN|IN012|GANDHINAGAR,India
+"Gandja, AZ",ASI|AZ|AJ020|GANDJA,Azerbaijan
+"Gansbaai, ZA",AFR|ZA|SF011|GANSBAAI,South Africa
+"Ganzhou, CN",ASI|CN|CH016|GANZHOU,China
+"Gaocheng, CN",ASI|CN|CH013|GAOCHENG,China
+"Gap, FR",EUR|FR|FR021|GAP,France
+"Garanhuns, BR",SAM|BR|BR026|GARANHUNS,Brazil
+"Garden Grove, CA, US",NAM|US|CA|GARDEN GROVE,United States
+"Garland, TX, US",NAM|US|TX|GARLAND,United States
+"Garoua, CM",AFR|CM|CM006|GAROUA,Cameroon
+"Gary, IN, US",NAM|US|IN|GARY,United States
+"Gateshead, UK",EUR|UK|UK001|GATESHEAD,United Kingdom
+"Gatineau, CA",NAM|CA|QC|GATINEAU,Canada
+"Gaya, IN",ASI|IN|IN005|GAYA,India
+"Gaziantep, TR",MEA|TR|TU032|GAZIANTEP,Turkey
+"Gdansk, PL",EUR|PL|PL011|GDANSK,Poland
+"Gdynia, PL",EUR|PL|PL011|GDYNIA,Poland
+"Gebze, TR",MEA|TR|TU052|GEBZE,Turkey
+"Gedling, UK",EUR|UK|UK001|GEDLING,United Kingdom
+"Geelong, AU",OCN|AU|VIC|GEELONG,Australia
+"Geilo, NO",EUR|NO|NO003|GEILO,Norway
+"Gejiu, CN",ASI|CN|CH030|GEJIU,China
+"Geleen-Sittard, NL",EUR|NL|NL006|GELEEN-SITTARD,Netherlands
+"Gelsenkirchen, DE",EUR|DE|GM011|GELSENKIRCHEN,Germany
+"General San Martin, AR",SAM|AR|AR011|GENERAL SAN MARTÍN,Argentina
+"General Santos, PH",ASI|PH|RP049|GENERAL SANTOS,Philippines
+"Geneve, CH",EUR|CH|SZ008|GENÈVE,Switzerland
+"Genova, IT",EUR|IT|IT008|GENOVA,Italy
+"Gent, BE",EUR|BE|BE009|GENT,Belgium
+"George, ZA",AFR|ZA|SF011|GEORGE,South Africa
+"George Town, KY",CAC|KY|CJ000|GEORGE TOWN,Cayman Islands
+"George Town, MY",ASI|MY|MY010|GEORGE TOWN,Malaysia
+"Georgetown, GY",SAM|GY|GY003|GEORGETOWN,Guyana
+"Gera, DE",EUR|DE|GM017|GERA,Germany
+"Germiston, ZA",AFR|ZA|SF004|GERMISTON,South Africa
+"Getafe, ES",EUR|ES|SP013|GETAFE,Spain
+"Ghanzi, BW",AFR|BW|BC000|GHANZI,Botswana
+"Ghaziabad, IN",ASI|IN|IN033|GHAZIABAD,India
+"Giants Castle, ZA",AFR|ZA|SF005|GIANTS CASTLE,South Africa
+"Gibraltar, GI",EUR|GI|GI---|GIBRALTAR,Gibraltar
+"Gifu, JP",ASI|JP|JA009|GIFU,Japan
+"Gijon, ES",EUR|ES|SP003|GIJÓN,Spain
+"Gilbert, AZ, US",NAM|US|AZ|GILBERT,United States
+"Gillette, NJ, US",NAM|US|NJ|GILLETTE,United States
+"Gillette, WY, US",NAM|US|WY|GILLETTE,United States
+"Girardot, CO",SAM|CO|CO011|GIRARDOT,Colombia
+"Giza, EG",AFR|EG|EG008|GIZA,Egypt
+"Gladbach, DE",EUR|DE|GM011|MÖNCHENGLADBACH,Germany
+"Glasgow, UK",EUR|UK|UK002|GLASGOW,United Kingdom
+"Glazov, RU",ASI|RU|RS084|GLAZOV,Russia
+"Glendale, CA, US",NAM|US|CA|GLENDALE,United States
+"Gliwice, PL",EUR|PL|PL012|GLIWICE,Poland
+"Gloucester, UK",EUR|UK|UK001|GLOUCESTER,United Kingdom
+"Godhra, IN",ASI|IN|IN012|GODHRA,India
+"Goiania, BR",SAM|BR|BR027|GOIÂNIA,Brazil
+"Gojra, PK",ASI|PK|PK007|GOJRA,Pakistan
+"Gold Coast, AU",OCN|AU|QLD|GOLD COAST,Australia
+"Gomel, BY",EUR|BY|BO002|GOMEL,Belarus
+"Gomez Palacio, MX",NAM|MX|MX010|GÓMEZ PALACIO,Mexico
+"Gondar, ET",AFR|ET|ET000|GONDAR,Ethiopia
+"Gongzhuling, CN",ASI|CN|CH017|GONGZHULING,China
+"Gorakhpur, IN",ASI|IN|IN033|GORAKHPUR,India
+"Gordons Bay, ZA",AFR|ZA|SF011|GORDONS BAY,South Africa
+"Gorgan, IR",MEA|IR|IR002|GORGAN,Iran
+"Gorkey, RU",ASI|RU|RS055|NIZHNY NOVGOROD,Russia
+"Gorlovka, UA",EUR|UA|UP004|GORLOVKA,Ukraine
+"Gorzow Wielkopolski, PL",EUR|PL|PL005|GORZÓW WIELKOPOLSKI,Poland
+"Gothenburg, SE",EUR|SE|SW021|GOTHENBURG,Sweden
+"Gottingen, DE",EUR|DE|GM007|GÖTTINGEN,Germany
+"Governador Valadares, BR",SAM|BR|BR012|GOVERNADOR VALADARES,Brazil
+"Graaff Reinet, ZA",AFR|ZA|SF002|GRAAFF REINET,South Africa
+"Grabouw, ZA",AFR|ZA|SF011|GRABOUW,South Africa
+"Grahamstown, ZA",AFR|ZA|SF002|GRAHAMSTOWN,South Africa
+"Granada, NI",CAC|NI|NU006|GRANADA,Nicaragua
+"Granada, ES",EUR|ES|SP001|GRANADA,Spain
+"Grand Island, NE, US",NAM|US|NE|Grand Island,United States
+"Grand Prairie, TX, US",NAM|US|TX|GRAND PRAIRIE,United States
+"Grand Rapids, MI, US",NAM|US|MI|GRAND RAPIDS,United States
+"Grand Turk, TC",CAC|TC|TK---|GRAND TURK,Turks And Caicos Islands
+"Graskop, ZA",AFR|ZA|SF006|GRASKOP,South Africa
+"Gravatai, BR",SAM|BR|BR019|GRAVATAI,Brazil
+"Graz, AT",EUR|AT|AU006|GRAZ,Austria
+"Green Bay, WI, US",NAM|US|WI|GREEN BAY,United States
+"Greensboro, NC, US",NAM|US|NC|GREENSBORO,United States
+"Grenoble, FR",EUR|FR|FR022|GRENOBLE,France
+"Griekwastad, ZA",AFR|ZA|SF008|GRIEKWASTAD,South Africa
+"Groblersdal, ZA",AFR|ZA|SF006|GROBLERSDAL,South Africa
+"Grodno, BY",EUR|BY|BO003|GRODNO,Belarus
+"Groningen, NL",EUR|NL|NL005|GRONINGEN,Netherlands
+"Groznyi, RU",ASI|RU|RS012|GROZNYI,Russia
+"Guadalajara, MX",NAM|MX|MX014|GUADALAJARA,Mexico
+"Guadalupe, MX",NAM|MX|MX005|GUADALUPE,Mexico
+"Guanare, VE",SAM|VE|VE019|GUANARE,Venezuela
+"Guanghan, CN",ASI|CN|CH001|GUANGHAN,China
+"Guangshui, CN",ASI|CN|CH013|GUANGSHUI,China
+"Guangyuan, CN",ASI|CN|CH026|GUANGYUAN,China
+"Guangzhou, CN",ASI|CN|CH006|GUANGZHOU,China
+"Guantanamo, CU",CAC|CU|CU006|GUANTÁNAMO,Cuba
+"Guarapuava, BR",SAM|BR|BR015|GUARAPUAVA,Brazil
+"Guaratingueta, BR",SAM|BR|BR023|GUARATINGUETÁ,Brazil
+"Guarda, PT",EUR|PT|PO010|GUARDA,Portugal
+"Guarenas, VE",SAM|VE|VE016|GUARENAS,Venezuela
+"Guaruja, BR",SAM|BR|BR023|GUARUJÁ,Brazil
+"Guarulhos, BR",SAM|BR|BR023|GUARULHOS,Brazil
+"Guatemala, GT",CAC|GT|GT007|GUATEMALA,Guatemala
+"Guayaquil, EC",SAM|EC|EC010|GUAYAQUIL,Ecuador
+"Guaynabo, PR",CAC|PR|PR000|GUAYNABO,Puerto Rico
+"Gudivada, IN",ASI|IN|IN002|GUDIVADA,India
+"Guelph, CA",NAM|CA|ON|GUELPH,Canada
+"Guichi, CN",ASI|CN|CH001|GUICHI,China
+"Guildford, UK",EUR|UK|UK001|GUILDFORD,United Kingdom
+"Guilin, CN",ASI|CN|CH016|GUILIN,China
+"Guiyang, CN",ASI|CN|CH007|GUIYANG,China
+"Gujranwala, PK",ASI|PK|PK007|GUJRANWALA,Pakistan
+"Gujrat, PK",ASI|PK|PK007|GUJRAT,Pakistan
+"Gulbarga, IN",ASI|IN|IN017|GULBARGA,India
+"Gulu, UG",AFR|UG|UG000|GULU,Uganda
+"Guna, IN",ASI|IN|IN020|GUNA,India
+"Guntur, IN",ASI|IN|IN002|GUNTUR,India
+"Gurgaon, IN",ASI|IN|IN013|GURGAON,India
+"Guruvayur, IN",ASI|IN|IN018|GURUVAYUR,India
+"Gwalior, IN",ASI|IN|IN020|GWALIOR,India
+"Gweru, ZW",AFR|ZW|ZI000|GWERU,Zimbabwe
+"Gyor, HU",EUR|HU|HU012|GYÖR,Hungary
+"Haarlem, NL",EUR|NL|NL008|HAARLEM,Netherlands
+"Haarlemmermeer, NL",EUR|NL|NL008|HAARLEMMERMEER,Netherlands
+"Habikino, JP",ASI|JP|JA033|HABIKINO,Japan
+"Habra, IN",ASI|IN|IN036|HABRA,India
+"Hachinohe, JP",ASI|JP|JA003|HACHINOHE,Japan
+"Hachioji, JP",ASI|JP|JA041|HACHIOJI,Japan
+"Hackney, UK",EUR|UK|UK001|HACKNEY,United Kingdom
+"Hadera, IL",MEA|IL|IS004|HADERA,Israel
+"Hadserslev, DK",EUR|DK|DA011|HADSERSLEV,Denmark
+"Haeju, KP",ASI|KP|KN005|HAEJU,North Korea
+"Haenertsburg, ZA",AFR|ZA|SF009|HAENERTSBURG,South Africa
+"Hafizabad, PK",ASI|PK|PK007|HAFIZABAD,Pakistan
+"Hagen, DE",EUR|DE|GM015|HAGEN,Germany
+"Haicheng, CN",ASI|CN|CH004|HAICHENG,China
+"Haifa, IL",MEA|IL|IS004|HAIFA,Israel
+"Haikou, CN",ASI|CN|CH009|HAIKOU,China
+"Haining, CN",ASI|CN|CH031|HAINING,China
+"Haiphong, VN",ASI|VN|VM029|HAIPHONG,Vietnam
+"Hakodate, JP",ASI|JP|JA012|HAKODATE,Japan
+"Halifax, CA",NAM|CA|NS|HALIFAX,Canada
+"Halle, DE",EUR|DE|GM009|HALLE,Germany
+"Halton, UK",EUR|UK|UK001|HALTON,United Kingdom
+"Hama, SY",MEA|SY|SY010|HAMA,Syria
+"Hamadan, IR",MEA|IR|IR010|HAMADAN,Iran
+"Hamamatsu, JP",ASI|JP|JA038|HAMAMATSU,Japan
+"Hamburg, DE",EUR|DE|GM006|HAMBURG,Germany
+"Hamhung, KP",ASI|KP|KN003|HAMHUNG,North Korea
+"Hami, CN",ASI|CN|CH028|HAMI,China
+"Hamilton, BM",NAM|BM|BD002|HAMILTON,Bermuda
+"Hamilton, CA",NAM|CA|ON|HAMILTON,Canada
+"Hamilton, NZ",OCN|NZ|NZ000|HAMILTON,New Zealand
+"Hamm, DE",EUR|DE|GM009|HAMM,Germany
+"Hammerfest, NO",EUR|NO|NO004|HAMMERFEST,Norway
+"Hammersmith and Fulham, UK",EUR|UK|UK001|HAMMERSMITH AND FULHAM,United Kingdom
+"Hampton, VA, US",NAM|US|VA|HAMPTON,United States
+"Hanam, KR",ASI|KR|KS009|HANAM,South Korea
+"Hancheng, CN",ASI|CN|CH022|HANCHENG,China
+"Handa, JP",ASI|JP|JA001|HANDA,Japan
+"Handan, CN",ASI|CN|CH016|HANDAN,China
+"Hangzhou, CN",ASI|CN|CH031|HANGZHOU,China
+"Hannover, DE",EUR|DE|GM009|HANNOVER,Germany
+"Hanoi, VN",ASI|VN|VM017|HANOI,Vietnam
+"Hanzhong, CN",ASI|CN|CH022|HANZHONG,China
+"Haora, IN",ASI|IN|IN036|HAORA,India
+"Hapur, IN",ASI|IN|IN033|HAPUR,India
+"Harare, ZW",AFR|ZW|ZI003|HARARE,Zimbabwe
+"Harbin, CN",ASI|CN|CH011|HARBIN,China
+"Hardwar, IN",ASI|IN|IN033|HARDWAR,India
+"Haringey, UK",EUR|UK|UK001|HARINGEY,United Kingdom
+"Harrisburg, PA, US",NAM|US|PA|HARRISBURG,United States
+"Harrismith, ZA",AFR|ZA|SF003|HARRISMITH,South Africa
+"Harrogate, UK",EUR|UK|UK001|HARROGATE,United Kingdom
+"Harrow, UK",EUR|UK|UK001|HARROW,United Kingdom
+"Hartbeespoort, ZA",AFR|ZA|SF007|HARTBEESPOORT,South Africa
+"Hartenbos, ZA",AFR|ZA|SF011|HARTENBOS,South Africa
+"Hartford, CT, US",NAM|US|CT|HARTFORD,United States
+"Hassan, IN",ASI|IN|IN017|HASSAN,India
+"Hatay, TR",MEA|TR|TU036|HATAY,Turkey
+"Hathras, IN",ASI|IN|IN033|HATHRAS,India
+"Hattiesburg, MS, US",NAM|US|MS|Hattiesburg,United States
+"Haugesund, NO",EUR|NO|NO013|HAUGESUND,Norway
+"Havant, UK",EUR|UK|UK148|HAVANT,United Kingdom
+"Havant and Waterloo, UK",EUR|UK|UK001|HAVANT AND WATERLOO,United Kingdom
+"Havering, UK",EUR|UK|UK001|HAVERING,United Kingdom
+"Hayward, CA, US",NAM|US|CA|HAYWARD,United States
+"Hazyview, ZA",AFR|ZA|SF006|HAZYVIEW,South Africa
+"Hebi, CN",ASI|CN|CH012|HEBI,China
+"Hechi, CN",ASI|CN|CH007|HECHI,China
+"Heerlen-Kerkrade, NL",EUR|NL|NL006|HEERLEN-KERKRADE,Netherlands
+"Hefei, CN",ASI|CN|CH001|HEFEI,China
+"Hegang, CN",ASI|CN|CH001|HEGANG,China
+"Heidelberg, DE",EUR|DE|GM001|HEIDELBERG,Germany
+"Heidelberg, ZA",AFR|ZA|SF004|HEIDELBERG,South Africa
+"Heihe, CN",ASI|CN|CH011|HEIHE,China
+"Heilbronn, DE",EUR|DE|GM001|HEILBRONN,Germany
+"Helena, MT, US",NAM|US|MT|HELENA,United States
+"Helsingborg, SE",EUR|SE|SW013|HELSINGBORG,Sweden
+"Helsingoer, DK",EUR|DK|DA004|HELSINGOER,Denmark
+"Helsinki, FI",EUR|FI|FI002|HELSINKI,Finland
+"Hemsedal, NO",EUR|NO|NO003|HEMSEDAL,Norway
+"Henderson, NV, US",NAM|US|NV|HENDERSON,United States
+"Hengshui, CN",ASI|CN|CH010|HENGSHUI,China
+"Hengyang, CN",ASI|CN|CH014|HENGYANG,China
+"Herat, AF",ASI|AF|AF011|HERAT,Afghanistan
+"Hermanus, ZA",AFR|ZA|SF011|HERMANUS,South Africa
+"Hermosillo, MX",NAM|MX|MX002|HERMOSILLO,Mexico
+"Herne, DE",EUR|DE|GM011|HERNE,Germany
+"Herning, DK",EUR|DK|DA009|HERNING,Denmark
+"Heshan, CN",ASI|CN|CH006|HESHAN,China
+"Hetian, CN",ASI|CN|CH004|HETIAN,China
+"Heyuan, CN",ASI|CN|CH006|HEYUAN,China
+"Heze, CN",ASI|CN|CH023|HEZE,China
+"Hialeah, FL, US",NAM|US|FL|HIALEAH,United States
+"Hibberdene, ZA",AFR|ZA|SF005|HIBBERDENE,South Africa
+"Higashihiroshima, JP",ASI|JP|JA011|HIGASHIHIROSHIMA,Japan
+"Higashikurume, JP",ASI|JP|JA041|HIGASHIKURUME,Japan
+"Higashimurayama, JP",ASI|JP|JA041|HIGASHIMURAYAMA,Japan
+"Higashiosaka, JP",ASI|JP|JA033|HIGASHIOSAKA,Japan
+"Hikone, JP",ASI|JP|JA036|HIKONE,Japan
+"Hildesheim, DE",EUR|DE|GM009|HILDESHEIM,Germany
+"Hilla, IQ",MEA|IQ|IZ009|HILLA,Iraq
+"Hilleroed, DK",EUR|DK|DA004|HILLEROED,Denmark
+"Hillingdon, UK",EUR|UK|UK001|HILLINGDON,United Kingdom
+"Himeji, JP",ASI|JP|JA013|HIMEJI,Japan
+"Hindupur, IN",ASI|IN|IN002|HINDUPUR,India
+"Hino, JP",ASI|JP|JA041|HINO,Japan
+"Hirakata, JP",ASI|JP|JA033|HIRAKATA,Japan
+"Hiratsuka, JP",ASI|JP|JA019|HIRATSUKA,Japan
+"Hirosaki, JP",ASI|JP|JA003|HIROSAKI,Japan
+"Hiroshima, JP",ASI|JP|JA011|HIROSHIMA,Japan
+"Hisar, IN",ASI|IN|IN013|HISAR,India
+"Hitachi, JP",ASI|JP|JA014|HITACHI,Japan
+"Hjoerring, DK",EUR|DK|DA007|HJOERRING,Denmark
+"Hluhluwe, ZA",AFR|ZA|SF005|HLUHLUWE,South Africa
+"Ho, GH",AFR|GH|GH000|HO,Ghana
+"Ho Chi Minh City, VN",ASI|VN|VM060|HO CHI MINH CITY,Vietnam
+"Hobart, AU",OCN|AU|TAS|HOBART,Australia
+"Hodeidah, YE",MEA|YE|YM004|HODEIDAH,Yemen
+"Hoedspruit, ZA",AFR|ZA|SF009|HOEDSPRUIT,South Africa
+"Hoenefoss, NO",EUR|NO|NO003|HOENEFOSS,Norway
+"Hoersholm, DK",EUR|DK|DA004|HOERSHOLM,Denmark
+"Hofu, JP",ASI|JP|JA046|HOFU,Japan
+"Hogsback, ZA",AFR|ZA|SF002|HOGSBACK,South Africa
+"Hohhot, CN",ASI|CN|CH019|HOHHOT,China
+"Holbaek, DK",EUR|DK|DA015|HOLBAEK,Denmark
+"Holguin, CU",CAC|CU|CU007|HOLGUÍN,Cuba
+"Hollywood, FL, US",NAM|US|FL|HOLLYWOOD,United States
+"Holon, IL",MEA|IL|IS005|HOLON,Israel
+"Holstebro, DK",EUR|DK|DA009|HOLSTEBRO,Denmark
+"Homs, SY",MEA|SY|SY011|HOMS,Syria
+"Hon Gai, VN",ASI|VN|VM052|HON GAI,Vietnam
+"Hondeklip Bay, ZA",AFR|ZA|SF008|HONDEKLIP BAY,South Africa
+"Hong Kong, HK",ASI|HK|HK---|HONG KONG,Hong Kong
+"Honghu, CN",ASI|CN|CH009|HONGHU,China
+"Honiara, SB",OCN|SB|BP000|HONIARA,Solomon Islands
+"Honolulu, HI, US",NAM|US|HI|HONOLULU,United States
+"Horsens, DK",EUR|DK|DA014|HORSENS,Denmark
+"Horsham, UK",EUR|UK|UK001|HORSHAM,United Kingdom
+"Hortolandia, BR",SAM|BR|BR023|HORTOLANDIA,Brazil
+"Hoshiarpur, IN",ASI|IN|IN028|HOSHIARPUR,India
+"Hospet, IN",ASI|IN|IN017|HOSPET,India
+"Houma, CN",ASI|CN|CH025|HOUMA,China
+"Hounslow, UK",EUR|UK|UK001|HOUNSLOW,United Kingdom
+"Houston, TX, US",NAM|US|TX|HOUSTON,United States
+"Howick, ZA",AFR|ZA|SF005|HOWICK,South Africa
+"Hoya, JP",ASI|JP|JA041|HOYA,Japan
+"Hsinchu, TW",ASI|TW|TW018|HSINCHU,Taiwan
+"Huadian, CN",ASI|CN|CH017|HUADIAN,China
+"Huaian, CN",ASI|CN|CH025|HUAIAN,China
+"Huaibei, CN",ASI|CN|CH001|HUAIBEI,China
+"Huaihua, CN",ASI|CN|CH014|HUAIHUA,China
+"Huainan, CN",ASI|CN|CH004|HUAINAN,China
+"Huaiyin, CN",ASI|CN|CH015|HUAIYIN,China
+"Hualien, TW",ASI|TW|TW018|HUALIEN,Taiwan
+"Huambo, AO",AFR|AO|AO002|HUAMBO,Angola
+"Huancayo, PE",SAM|PE|PE012|HUANCAYO,Peru
+"Huanghua, CN",ASI|CN|CH010|HUANGHUA,China
+"Huangshan, CN",ASI|CN|CH023|HUANGSHAN,China
+"Huangshi, CN",ASI|CN|CH001|HUANGSHI,China
+"Huanuco, PE",SAM|PE|PE010|HUÁNUCO,Peru
+"Huaying, CN",ASI|CN|CH026|HUAYING,China
+"Hubli, IN",ASI|IN|IN017|HUBLI-DHARWAD,India
+"Hue, VN",ASI|VN|VM044|HUÉ,Vietnam
+"Huelva, ES",EUR|ES|SP001|HUELVA,Spain
+"Huixian, CN",ASI|CN|CH005|HUIXIAN,China
+"Huizhou, CN",ASI|CN|CH006|HUIZHOU,China
+"Huludao, CN",ASI|CN|CH018|HULUDAO,China
+"Hunjiang, CN",ASI|CN|CH017|HUNJIANG,China
+"Huntington Beach, CA, US",NAM|US|CA|HUNTINGTON BEACH,United States
+"Huntsville, AL, US",NAM|US|AL|HUNTSVILLE,United States
+"Huzhou, CN",ASI|CN|CH031|HUZHOU,China
+"Hyderabad, IN",ASI|IN|IN002|HYDERABAD,India
+"Hyderabad, PK",ASI|PK|PK007|HYDERABAD,Pakistan
+"Hyesan, KP",ASI|KP|KN013|HYESAN,North Korea
+"Iasi, RO",EUR|RO|RO025|IASI,Romania
+"Ibadan, NG",AFR|NG|NI029|IBADAN,Nigeria
+"Ibague, CO",SAM|CO|CO026|IBAGUÉ,Colombia
+"Ibaraki, JP",ASI|JP|JA033|IBARAKI,Japan
+"Ibarra, EC",SAM|EC|EC011|IBARRA,Ecuador
+"Ibirite, BR",SAM|BR|BR012|IBIRITÉ,Brazil
+"Ica, PE",SAM|PE|PE011|ICA,Peru
+"Icel, TR",MEA|TR|TU037|IÇEL,Turkey
+"Ichihara, JP",ASI|JP|JA004|ICHIHARA,Japan
+"Ichikawa, JP",ASI|JP|JA004|ICHIKAWA,Japan
+"Ichinomiya, JP",ASI|JP|JA001|ICHINOMIYA,Japan
+"Idre, SE",EUR|SE|SW002|IDRE,Sweden
+"Ife, NG",AFR|NG|NI000|IFE,Nigeria
+"Ikeda, JP",ASI|JP|JA029|IKEDA,Japan
+"Ikere-Ekiti, NG",AFR|NG|NI000|IKERE-EKITI,Nigeria
+"Ikoma, JP",ASI|JP|JA028|IKOMA,Japan
+"Ila, NG",AFR|NG|NI000|ILA,Nigeria
+"Ilam, IR",MEA|IR|IR012|ILAM,Iran
+"Ilesha, NG",AFR|NG|NI000|ILESHA,Nigeria
+"Ilheus, BR",SAM|BR|BR005|ILHÉUS,Brazil
+"Iligan, PH",ASI|PH|RP052|ILIGAN,Philippines
+"Iloilo, PH",ASI|PH|RP055|ILOILO,Philippines
+"Ilopango, SV",CAC|SV|ES010|ILOPANGO,El Salvador
+"Ilorin, NG",AFR|NG|NI000|ILORIN,Nigeria
+"Imabari, JP",ASI|JP|JA005|IMABARI,Japan
+"Imbaba, EG",AFR|EG|EG008|IMBABA,Egypt
+"Imperatriz, BR",SAM|BR|BR009|IMPERATRIZ,Brazil
+"Imphal, IN",ASI|IN|IN022|IMPHAL,India
+"Inazawa, JP",ASI|JP|JA001|INAZAWA,Japan
+"Inchon, KP",ASI|KP|KN007|INCHON,North Korea
+"Indaiatuba, BR",SAM|BR|BR023|INDAIATUBA,Brazil
+"Independence, MO, US",NAM|US|MO|INDEPENDENCE,United States
+"Indianapolis, IN, US",NAM|US|IN|INDIANAPOLIS,United States
+"Indore, IN",ASI|IN|IN020|INDORE,India
+"Inglewood, CA, US",NAM|US|CA|INGLEWOOD,United States
+"Ingolstadt, DE",EUR|DE|GM002|INGOLSTADT,Germany
+"Inhaca Island, MZ",AFR|MZ|MZ005|INHACA ISLAND,Mozambique
+"Inhambane, MZ",AFR|MZ|MZ003|INHAMBANE,Mozambique
+"Inhasoro, MZ",AFR|MZ|MZ003|INHASORO,Mozambique
+"Innsbruck, AT",EUR|AT|AU007|INNSBRUCK,Austria
+"Ipatinga, BR",SAM|BR|BR012|IPATINGA,Brazil
+"Ipoh, MY",ASI|MY|MY008|IPOH,Malaysia
+"Ipswich, UK",EUR|UK|UK001|IPSWICH,United Kingdom
+"Iquique, CL",SAM|CL|CI012|IQUIQUE,Chile
+"Iquitos, PE",SAM|PE|PE016|IQUITOS,Peru
+"Iraclion, GR",EUR|GR|GR020|IRACLION,Greece
+"Irapuato, MX",NAM|MX|MX011|IRAPUATO,Mexico
+"Irbid, JO",MEA|JO|JO009|IRBID,Jordan
+"Iri, KR",ASI|KR|KS004|IRI,South Korea
+"Irkutsk, RU",ASI|RU|RS021|IRKUTSK,Russia
+"Irvine, CA, US",NAM|US|CA|IRVINE,United States
+"Irving, TX, US",NAM|US|TX|IRVING,United States
+"Ise, JP",ASI|JP|JA023|ISE,Japan
+"Isesaki, JP",ASI|JP|JA010|ISESAKI,Japan
+"Ishinomaki, JP",ASI|JP|JA024|ISHINOMAKI,Japan
+"Iskenderun, TR",MEA|TR|TU036|ISKENDERUN,Turkey
+"Islamabad, PK",ASI|PK|PK004|ISLAMABAD,Pakistan
+"Islington, UK",EUR|UK|UK001|ISLINGTON,United Kingdom
+"Ismailia, EG",AFR|EG|EG007|ISMAILIA,Egypt
+"Isparta, TR",MEA|TR|TU039|ISPARTA,Turkey
+"Istanbul, TR",MEA|TR|TU040|ISTANBUL,Turkey
+"Ist-Kamenogorsk, KZ",ASI|KZ|KZ014|IST-KAMENOGORSK,Kazakhstan
+"Itabori, BR",SAM|BR|BR017|ITABORAÍ,Brazil
+"Itabuna, BR",SAM|BR|BR005|ITABUNA,Brazil
+"Itagui, CO",SAM|CO|CO002|ITAGÜÍ,Colombia
+"Itaituba, BR",SAM|BR|BR013|ITAITUBA,Brazil
+"Itajai, BR",SAM|BR|BR022|ITAJAÍ,Brazil
+"Itami, JP",ASI|JP|JA013|ITAMI,Japan
+"Itapecerica Da Serra, BR",SAM|BR|BR023|ITAPECERICA DA SERRA,Brazil
+"Itapetininga, BR",SAM|BR|BR026|ITAPETININGA,Brazil
+"Itapevi, BR",SAM|BR|BR023|ITAPEVI,Brazil
+"Itaquaquecetuba, BR",SAM|BR|BR023|ITAQUAQUECETUBA,Brazil
+"Itu, BR",SAM|BR|BR023|ITU,Brazil
+"Ivano-Frankovsk, UA",EUR|UA|UP005|IVANO-FRANKOVSK,Ukraine
+"Ivanovo, RU",ASI|RU|RS023|IVANOVO,Russia
+"Iwakuni, JP",ASI|JP|JA046|IWAKUNI,Japan
+"Iwatsuki, JP",ASI|JP|JA035|IWATSUKI,Japan
+"Iwo, NG",AFR|NG|NI000|IWO,Nigeria
+"Ixopo, ZA",AFR|ZA|SF005|IXOPO,South Africa
+"Izhevsk, RU",ASI|RU|RS084|IZHEVSK,Russia
+"Izmir, TR",MEA|TR|TU041|IZMIR,Turkey
+"Izumi, JP",ASI|JP|JA033|IZUMI,Japan
+"Jabalpur, IN",ASI|IN|IN020|JABALPUR,India
+"Jacarei, BR",SAM|BR|BR023|JACAREÍ,Brazil
+"Jackson, MS, US",NAM|US|MS|JACKSON,United States
+"Jackson, WY, US",NAM|US|WY|JACKSON,United States
+"Jackson, MI, US",NAM|US|MI|Jackson,United States
+"Jacksonville, FL, US",NAM|US|FL|JACKSONVILLE,United States
+"Jacobabad, PK",ASI|PK|PK008|JACOBABAD,Pakistan
+"Jacobsdal, ZA",AFR|ZA|SF003|JACOBSDAL,South Africa
+"Jaen, ES",EUR|ES|SP001|JAÉN,Spain
+"Jaffna, LK",ASI|LK|CE010|JAFFNA,Sri Lanka
+"Jaipur, IN",ASI|IN|IN029|JAIPUR,India
+"Jakarta, ID",ASI|ID|ID009|JAKARTA,Indonesia
+"Jalandhar, IN",ASI|IN|IN028|JALANDHAR,India
+"Jalapa, MX",NAM|MX|MX027|JALAPA,Mexico
+"Jalgaon, IN",ASI|IN|IN021|JALGAON,India
+"Jalib as-Suyuh, KW",MEA|KW|KU000|JALIB AS-SUYUH,Kuwait
+"Jalna, IN",ASI|IN|IN021|JALNA,India
+"Jamalpur, BD",ASI|BD|BG004|JAMALPUR,Bangladesh
+"Jambi, ID",ASI|ID|ID010|JAMBI,Indonesia
+"Jamestown, SH",AFR|SH|SH000|JAMESTOWN,Saint Helena
+"Jamnagar, IN",ASI|IN|IN012|JAMNAGAR,India
+"Jamshedpur, IN",ASI|IN|IN005|JAMSHEDPUR,India
+"Jaragua, BR",SAM|BR|BR022|JARAGUÁ DO SUL,Brazil
+"Jaranwala, PK",ASI|PK|PK007|JARANWALA,Pakistan
+"Jastrzebie, PL",EUR|PL|PL012|JASTRZEBIE-ZDRÓJ,Poland
+"Jau, BR",SAM|BR|BR023|JAÚ,Brazil
+"Jaunpur, IN",ASI|IN|IN033|JAUNPUR,India
+"Jbeil, LB",MEA|LB|LE005|JBEIL,Lebanon
+"Jeddah, SA",MEA|SA|SA011|JEDDAH,Saudi Arabia
+"Jefferson City, MO, US",NAM|US|MO|JEFFERSON CITY,United States
+"Jequie, BR",SAM|BR|BR023|JEQUIÉ,Brazil
+"Jerez, ES",EUR|ES|SP001|JÉREZ DE LA FRONTERA,Spain
+"Jersey City, NJ, US",NAM|US|NJ|JERSEY CITY,United States
+"Jerusalem, IL",MEA|IL|IS006|JERUSALEM,Israel
+"Jessore, BD",ASI|BD|BG003|JESSORE,Bangladesh
+"Jhang, PK",ASI|PK|PK007|JHANG,Pakistan
+"Jhansi, IN",ASI|IN|IN033|JHANSI,India
+"Jhelum, PK",ASI|PK|PK007|JHELUM,Pakistan
+"Jiageda, CN",ASI|CN|CH019|JIAGEDA,China
+"Jiamusi, CN",ASI|CN|CH011|JIAMUSI,China
+"Jian, CN",ASI|CN|CH016|JIAN,China
+"Jiangmen, CN",ASI|CN|CH006|JIANGMEN,China
+"Jiangshan, CN",ASI|CN|CH001|JIANGSHAN,China
+"Jiangyin, CN",ASI|CN|CH004|JIANGYIN,China
+"Jiangyou, CN",ASI|CN|CH026|JIANGYOU,China
+"Jiaojiang, CN",ASI|CN|CH031|JIAOJIANG,China
+"Jiaozhou, CN",ASI|CN|CH023|JIAOZHOU,China
+"Jiaozuo, CN",ASI|CN|CH012|JIAOZUO,China
+"Jiaxing, CN",ASI|CN|CH031|JIAXING,China
+"Jieshou, CN",ASI|CN|CH001|JIESHOU,China
+"Jilin, CN",ASI|CN|CH007|JILIN,China
+"Jimma, ET",AFR|ET|ET000|JIMMA,Ethiopia
+"Jimo, CN",ASI|CN|CH023|JIMO,China
+"Jinan, CN",ASI|CN|CH007|JINAN,China
+"Jinchang, CN",ASI|CN|CH005|JINCHANG,China
+"Jingdezhen, CN",ASI|CN|CH016|JINGDEZHEN,China
+"Jingmen, CN",ASI|CN|CH004|JINGMEN,China
+"Jingzhou, CN",ASI|CN|CH013|JINGZHOU,China
+"Jinhua, CN",ASI|CN|CH008|JINHUA,China
+"Jining, CN",ASI|CN|CH019|JINING,China
+"Jinja, UG",AFR|UG|UG000|JINJA,Uganda
+"Jinshi, CN",ASI|CN|CH031|JINSHI,China
+"Jinxi, CN",ASI|CN|CH016|JINXI,China
+"Jinzhou, CN",ASI|CN|CH018|JINZHOU,China
+"Jishou, CN",ASI|CN|CH014|JISHOU,China
+"Jiujiang, CN",ASI|CN|CH016|JIUJIANG,China
+"Jiuquan, CN",ASI|CN|CH005|JIUQUAN,China
+"Jiutai, CN",ASI|CN|CH008|JIUTAI,China
+"Jixi, CN",ASI|CN|CH001|JIXI,China
+"Jiyuan, CN",ASI|CN|CH012|JIYUAN,China
+"Joao Pessoa, BR",SAM|BR|BR014|JOAO PESSOA,Brazil
+"Jodhpur, IN",ASI|IN|IN029|JODHPUR,India
+"Joenkoeping, SE",EUR|SE|SW007|JOENKOEPING,Sweden
+"Joetsu, JP",ASI|JP|JA029|JOETSU,Japan
+"Johannesburg, ZA",AFR|ZA|SF004|JOHANNESBURG,South Africa
+"Johore Bharu, MY",ASI|MY|MY001|JOHORE BHARU,Malaysia
+"Joinville, BR",SAM|BR|BR022|JOINVILLE,Brazil
+"Joliet, IL, US",NAM|US|IL|JOLIET,United States
+"Jorhat, IN",ASI|IN|IN004|JORHAT,India
+"Joubertina, ZA",AFR|ZA|SF002|JOUBERTINA,South Africa
+"Juarez, MX",NAM|MX|MX015|CIUDAD JUÁREZ,Mexico
+"Juazeiro, BR",SAM|BR|BR005|JUAZEIRO,Brazil
+"Juazeiro do Norte, BR",SAM|BR|BR006|JUÀZEIRO DO NORTE,Brazil
+"Juba, SD",AFR|SD|SU027|JUBA,Sudan
+"Juiz De Fora, BR",SAM|BR|BR012|JUIZ DE FORA,Brazil
+"Juliaca, PE",SAM|PE|PE021|JULIACA,Peru
+"Junagadh, IN",ASI|IN|IN012|JUNAGADH,India
+"Jundiai, BR",SAM|BR|BR023|JUNDIAÍ,Brazil
+"Juneau, AK, US",NAM|US|AK|JUNEAU,United States
+"Kabul, AF",ASI|AF|AF013|KABUL,Afghanistan
+"Kabwe, ZM",AFR|ZM|ZA007|KABWE,Zambia
+"Kadhimain, IQ",MEA|IQ|IZ010|KADHIMAIN,Iraq
+"Kadoma, JP",ASI|JP|JA033|KADOMA,Japan
+"Kaduna, NG",AFR|NG|NI019|KADUNA,Nigeria
+"Kaesong, KP",ASI|KR|KS001|KAESONG,North Korea
+"Kagoshima, JP",ASI|JP|JA018|KAGOSHIMA,Japan
+"Kahramanmaras, TR",MEA|TR|TU042|KAHRAMANMARAS,Turkey
+"Kaifeng, CN",ASI|CN|CH012|KAIFENG,China
+"Kaili, CN",ASI|CN|CH008|KAILI,China
+"Kairouan, TN",AFR|TN|TS005|KAIROUAN,Tunisia
+"Kaiserslautern, DE",EUR|DE|GM012|KAISERSLAUTERN,Germany
+"Kaiyuan, CN",ASI|CN|CH018|KAIYUAN,China
+"Kakamas, ZA",AFR|ZA|SF008|KAKAMAS,South Africa
+"Kakamigahara, JP",ASI|JP|JA009|KAKAMIGAHARA,Japan
+"Kakinada, IN",ASI|IN|IN002|KAKINADA,India
+"Kakogawa, JP",ASI|JP|JA013|KAKOGAWA,Japan
+"Kaliningrad, RU",ASI|RU|RS025|KALININGRAD,Russia
+"Kalisz, PL",EUR|PL|PL015|KALISZ,Poland
+"Kalmar, SE",EUR|SE|SW008|KALMAR,Sweden
+"Kaluga, RU",ASI|RU|RS027|KALUGA,Russia
+"Kalyan, IN",ASI|IN|IN021|KALYAN,India
+"Kamagaya, JP",ASI|JP|JA004|KAMAGAYA,Japan
+"Kamarhati, IN",ASI|IN|IN036|KAMARHATI,India
+"Kamenskiy, RU",ASI|RU|RS075|KAMENSK-URALSKY,Russia
+"Kamieskroon, ZA",AFR|ZA|SF008|KAMIESKROON,South Africa
+"Kamoke, PK",ASI|PK|PK007|KAMOKE,Pakistan
+"Kampala, UG",AFR|UG|UG000|KAMPALA,Uganda
+"Kampong Cham, KH",ASI|KH|CB003|KAMPONG CHAM,Cambodia
+"Kamptee, IN",ASI|IN|IN021|KAMPTEE,India
+"Kananga, CD",AFR|CD|CG004|KANANGA,Kinshasa
+"Kanazawa, JP",ASI|JP|JA015|KANAZAWA,Japan
+"Kanchanaburi, TH",ASI|TH|TH014|KANCHANABURI,Thailand
+"Kanchipuram, IN",ASI|IN|IN031|KANCHIPURAM,India
+"Kanchrapara, IN",ASI|IN|IN036|KANCHRAPARA,India
+"Kandahar, AF",ASI|AF|AF014|KANDAHAR,Afghanistan
+"Kandy, LK",ASI|LK|CE001|KANDY,Sri Lanka
+"Kanggye, KP",ASI|KP|KN001|KANGGYE,North Korea
+"Kangnung, KR",ASI|KR|KS007|KANGNUNG,South Korea
+"Kanhangad, IN",ASI|IN|IN018|KANHANGAD,India
+"Kannur, IN",ASI|IN|IN018|KANNUR,India
+"Kano, NG",AFR|NG|NI020|KANO,Nigeria
+"Kanpur, IN",ASI|IN|IN033|KANPUR,India
+"Kansas City, MO, US",NAM|US|MO|KANSAS CITY,United States
+"Kansas City, KS, US",NAM|US|KS|KANSAS CITY,United States
+"Kansk, RU",ASI|RU|RS041|KANSK,Russia
+"Kanye, BW",AFR|BW|BC000|KANYE,Botswana
+"Kao-Hsiung, TW",ASI|TW|TW006|KAO-HSIUNG,Taiwan
+"Kaolack, SN",AFR|SN|SG004|KAOLACK,Senegal
+"Karabuk, TR",MEA|TR|TU000|KARABUK,Turkey
+"Karachi, PK",ASI|PK|PK008|KARACHI,Pakistan
+"Karaganda, KZ",ASI|KZ|KZ000|KARAGANDA,Kazakhstan
+"Karaikkudi, IN",ASI|IN|IN031|KARAIKKUDI,India
+"Karaj, IR",MEA|IR|IR026|KARAJ,Iran
+"Karaman, TR",MEA|TR|TU044|KARAMAN,Turkey
+"Karimnagar, IN",ASI|IN|IN002|KARIMNAGAR,India
+"Kariya, JP",ASI|JP|JA001|KARIYA,Japan
+"Karlskrona, SE",EUR|SE|SW001|KARLSKRONA,Sweden
+"Karlsruhe, DE",EUR|DE|GM001|KARLSRUHE,Germany
+"Karlstad, SE",EUR|SE|SW017|KARLSTAD,Sweden
+"Karnal, IN",ASI|IN|IN013|KARNAL,India
+"Karradah Sharqiyah, IQ",MEA|IQ|IZ010|KARRADAH SHARQIYAH,Iraq
+"Karshi, UZ",ASI|UZ|UZ008|KARSHI,Uzbekistan
+"Karur, IN",ASI|IN|IN031|KARUR,India
+"Kasane, BW",AFR|BW|BC000|KASANE,Botswana
+"Kashan, IR",MEA|IR|IR006|KASHAN,Iran
+"Kashi, CN",ASI|CN|CH028|KASHI,China
+"Kashihara, JP",ASI|JP|JA028|KASHIHARA,Japan
+"Kashiwa, JP",ASI|JP|JA004|KASHIWA,Japan
+"Kassala, SD",AFR|SD|SU029|KASSALA,Sudan
+"Kassel, DE",EUR|DE|GM007|KASSEL,Germany
+"Kasukabe, JP",ASI|JP|JA035|KASUKABE,Japan
+"Kasur, PK",ASI|PK|PK007|KASUR,Pakistan
+"Kathmandu, NP",ASI|NP|NP000|KATHMANDU,Nepal
+"Katihar, IN",ASI|IN|IN005|KATIHAR,India
+"Katowice, PL",EUR|PL|PL012|KATOWICE,Poland
+"Kaunas, LT",EUR|LT|LH013|KAUNAS,Lithuania
+"Kawachinagano, JP",ASI|JP|JA033|KAWACHINAGANO,Japan
+"Kawagoe, JP",ASI|JP|JA035|KAWAGOE,Japan
+"Kawaguchi, JP",ASI|JP|JA035|KAWAGUCHI,Japan
+"Kawasaki, JP",ASI|JP|JA019|KAWASAKI,Japan
+"Kayseri, TR",MEA|TR|TU047|KAYSERI,Turkey
+"Kazan, RU",ASI|RU|RS077|KAZAN,Russia
+"Kecskemet, HU",EUR|HU|HU001|KECSKEMÉT,Hungary
+"Kediri, ID",ASI|ID|ID002|KEDIRI,Indonesia
+"Keelung, TW",ASI|TW|TW018|KEELUNG,Taiwan
+"Kelamayi, CN",ASI|CN|CH028|KELAMAYI,China
+"Kelowna, CA",NAM|CA|BC|KELOWNA,Canada
+"Kemerovo, RU",ASI|RU|RS031|KEMEROVO,Russia
+"Kempton Park, ZA",AFR|ZA|SF004|KEMPTON PARK,South Africa
+"Kena, EG",AFR|EG|EG024|KENA,Egypt
+"Kenitra, MA",AFR|MA|MO019|KÉNITRA,Morocco
+"Kensington and Chelsea, UK",EUR|UK|UK001|KENSINGTON AND CHELSEA,United Kingdom
+"Kerbala, IQ",MEA|IQ|IZ014|KERBALA,Iraq
+"Keriat Shmona, IL",MEA|IL|IS003|KERIAT SHMONA,Israel
+"Kerman, IR",MEA|IR|IR013|KERMAN,Iran
+"Kermanshah, IR",MEA|IR|IR014|KERMANSHAH,Iran
+"Kertch, UA",EUR|UA|UP011|KERTCH,Ukraine
+"Khabarovsk, RU",ASI|RU|RS032|KHABAROVSK,Russia
+"Khairpur, PK",ASI|PK|PK008|KHAIRPUR,Pakistan
+"Khammam, IN",ASI|IN|IN002|KHAMMAM,India
+"Khandwa, IN",ASI|IN|IN020|KHANDWA,India
+"Khanewal, PK",ASI|PK|PK007|KHANEWAL,Pakistan
+"Khanpur, PK",ASI|PK|PK007|KHANPUR,Pakistan
+"Khanty-Mansiysk, RU",ASI|RU|RS034|KHANTY-MANSIYSK,Russia
+"Kharagpur, IN",ASI|IN|IN005|KHARAGPUR,India
+"Khartoum, SD",AFR|SD|SU005|KHARTOUM,Sudan
+"Khartoum North, SD",AFR|SD|SU005|KHARTOUM NORTH,Sudan
+"Kherson, UA",EUR|UA|UP007|KHERSON,Ukraine
+"Khimki, RU",ASI|RU|RS052|KHIMKI,Russia
+"Khmelnitsky, UA",EUR|UA|UP008|KHMELNITSKY,Ukraine
+"Khon Kaen, TH",ASI|TH|TH015|KHON KAEN,Thailand
+"Khouribga, MA",AFR|MA|MO022|KHOURIBGA,Morocco
+"Khulna, BD",ASI|BD|BG003|KHULNA,Bangladesh
+"Kiel, DE",EUR|DE|GM016|KIEL,Germany
+"Kielce, PL",EUR|PL|PL013|KIELCE,Poland
+"Kiev, UA",EUR|UA|UP009|KIEV,Ukraine
+"Kigali, RW",AFR|RW|RW009|KIGALI,Rwanda
+"Kikwit, CD",AFR|CD|CG001|KIKWIT,Kinshasa
+"Kimberley, ZA",AFR|ZA|SF008|KIMBERLEY,South Africa
+"Kimhae, KR",ASI|KR|KS011|KIMHAE,South Korea
+"King Williams Town, ZA",AFR|ZA|SF002|KING WILLIAMS TOWN,South Africa
+"Kings Lynn and West Norfolk, UK",EUR|UK|UK001|KINGS LYNN AND WEST NORFOLK,United Kingdom
+"Kingston, CA",NAM|CA|ON|KINGSTON,Canada
+"Kingston, JM",CAC|JM|JM000|KINGSTON,Jamaica
+"Kingston-Upon-Hull, UK",EUR|UK|UK001|KINGSTON-UPON-HULL,United Kingdom
+"Kingston-Upon-Thames, UK",EUR|UK|UK001|KINGSTON-UPON-THAMES,United Kingdom
+"Kingstown, VC",CAC|VC|VC005|KINGSTOWN,Saint Vincent And The Grenadines
+"Kinshasa, CD",AFR|CD|CG007|KINSHASA,Democratic Republic of Congo
+"Kirikkale, TR",MEA|TR|TU000|KIRIKKALE,Turkey
+"Kirklees, UK",EUR|UK|UK001|KIRKLEES,United Kingdom
+"Kirkuk, IQ",MEA|IQ|IZ008|KIRKUK,Iraq
+"Kirov, RU",ASI|RU|RS035|KIROV,Russia
+"Kirovakan, AM",ASI|AM|AM006|KIROVAKAN,Armenia
+"Kirovograd, UA",EUR|UA|UP010|KIROVOGRAD,Ukraine
+"Kiruna, SE",EUR|SE|SW010|KIRUNA,Sweden
+"Kiryu, JP",ASI|JP|JA010|KIRYU,Japan
+"Kisangani, CD",AFR|CD|CG010|KISANGANI,Kinshasa
+"Kisarazu, JP",ASI|JP|JA004|KISARAZU,Japan
+"Kiselevsk, RU",ASI|RU|RS031|KISELEVSK,Russia
+"Kishinev, MD",EUR|MD|MD000|KISHINEV,Moldova
+"Kishiwada, JP",ASI|JP|JA033|KISHIWADA,Japan
+"Kislovodsk, RU",ASI|RU|RS074|KISLOVODSK,Russia
+"Kisumu, KE",AFR|KE|KE006|KISUMU,Kenya
+"Kitakyushu, JP",ASI|JP|JA007|KITAKYUSHU,Japan
+"Kitale, KE",AFR|KE|KE007|KITALE,Kenya
+"Kitami, JP",ASI|JP|JA012|KITAMI,Japan
+"Kitchener, CA",NAM|CA|ON|KITCHENER,Canada
+"Kitwe, ZM",AFR|ZM|ZA001|KITWE,Zambia
+"Klaipeda, LT",EUR|LT|LH017|KLAIPEDA,Lithuania
+"Klang, MY",ASI|MY|MY013|KLANG,Malaysia
+"Klerksdorp, ZA",AFR|ZA|SF007|KLERKSDORP,South Africa
+"Knoxville, TN, US",NAM|US|TN|KNOXVILLE,United States
+"Knysna, ZA",AFR|ZA|SF011|KNYSNA,South Africa
+"Kobe, JP",ASI|JP|JA013|KOBE,Japan
+"Koblenz, DE",EUR|DE|GM012|KOBLENZ,Germany
+"Kocaeli, TR",MEA|TR|TU052|KOCAELI,Turkey
+"Kochi, IN",ASI|IN|IN018|KOCHI,India
+"Kochi, JP",ASI|JP|JA038|KOCHI,Japan
+"Kodaira, JP",ASI|JP|JA041|KODAIRA,Japan
+"Koege, DK",EUR|DK|DA010|KOEGE,Denmark
+"Koforidua, GH",AFR|GH|GH000|KOFORIDUA,Ghana
+"Kofu, JP",ASI|JP|JA047|KOFU,Japan
+"Koganei, JP",ASI|JP|JA041|KOGANEI,Japan
+"Kohat, PK",ASI|PK|PK005|KOHAT,Pakistan
+"Kokand, UZ",ASI|UZ|UZ003|KOKAND,Uzbekistan
+"Kokstad, ZA",AFR|ZA|SF005|KOKSTAD,South Africa
+"Kokubunji, JP",ASI|JP|JA041|KOKUBUNJI,Japan
+"Kolar, IN",ASI|IN|IN017|KOLAR,India
+"Kolar Gold Fields, IN",ASI|IN|IN017|KOLAR GOLD FIELDS,India
+"Kolding, DK",EUR|DK|DA014|KOLDING,Denmark
+"Kolhapur, IN",ASI|IN|IN021|KOLHAPUR,India
+"Kollam, IN",ASI|IN|IN018|KOLLAM,India
+"Koln, DE",EUR|DE|GM011|KÖLN,Germany
+"Kolomna, RU",ASI|RU|RS010|KOLOMNA,Russia
+"Kolwezi, CD",AFR|CD|CG006|KOLWEZI,Kinshasa
+"Komaki, JP",ASI|JP|JA001|KOMAKI,Japan
+"Komatipoort, ZA",AFR|ZA|SF006|KOMATIPOORT,South Africa
+"Komatsu, JP",ASI|JP|JA015|KOMATSU,Japan
+"Komsomolsk-Na-Amure, RU",ASI|RU|RS032|KOMSOMOLSK-NA-AMURE,Russia
+"Konya, TR",MEA|TR|TU053|KONYA,Turkey
+"Korba, IN",ASI|IN|IN020|KORBA,India
+"Kord-Shahr, IR",MEA|IR|IR005|KORD-SHAHR,Iran
+"Koriyama, JP",ASI|JP|JA008|KORIYAMA,Japan
+"Korolev, RU",ASI|RU|RS051|KOROLEV,Russia
+"Koshigaya, JP",ASI|JP|JA035|KOSHIGAYA,Japan
+"Kosice, SK",EUR|SK|LO003|KOSICE,Slovakia
+"Kosti, SD",AFR|SD|SU028|KOSTI,Sudan
+"Kostroma, RU",ASI|RU|RS039|KOSTROMA,Russia
+"Koszalin, PL",EUR|PL|PL016|KOSZALIN,Poland
+"Kota, IN",ASI|IN|IN029|KOTA,India
+"Kota Bahru, MY",ASI|MY|MY003|KOTA BAHRU,Malaysia
+"Kota Kinabalu, MY",ASI|MY|MY011|KOTA KINABALU,Malaysia
+"Kotabaru, ID",ASI|ID|ID011|KOTABARU,Indonesia
+"Kothagudem, IN",ASI|IN|IN002|KOTHAGUDEM,India
+"Kottayam, IN",ASI|IN|IN018|KOTTAYAM,India
+"Kovrov, RU",ASI|RU|RS087|KOVROV,Russia
+"Kozhikode, IN",ASI|IN|IN018|KOZHIKODE,India
+"Krageroe, NO",EUR|NO|NO016|KRAGEROE,Norway
+"Kragujevac, CS",EUR|CS|YI003|KRAGUJEVAC,Serbia
+"Krakow, PL",EUR|PL|PL006|KRAKÓW,Poland
+"Kraljevo, CS",EUR|CS|YI003|KRALJEVO,Serbia
+"Kramatorsk, UA",EUR|UA|UP004|KRAMATORSK,Ukraine
+"Krasnodar, RU",ASI|RU|RS040|KRASNODAR,Russia
+"Krasnoyarsk, RU",ASI|RU|RS041|KRASNOYARSK,Russia
+"Krefeld, DE",EUR|DE|GM011|KREFELD,Germany
+"Krishnanagar, IN",ASI|IN|IN036|KRISHNANAGAR,India
+"Kristiansand, NO",EUR|NO|NO018|KRISTIANSAND,Norway
+"Kristianstad, SE",EUR|SE|SW013|KRISTIANSTAD,Sweden
+"Kristiansund, NO",EUR|NO|NO007|KRISTIANSUND,Norway
+"Kroonstad, ZA",AFR|ZA|SF003|KROONSTAD,South Africa
+"Krugersdorp, ZA",AFR|ZA|SF004|KRUGERSDORP,South Africa
+"Krusevac, CS",EUR|CS|YI003|KRUSEVAC,Serbia
+"Kuala Lumpur, MY",ASI|MY|MY015|KUALA LUMPUR,Malaysia
+"Kuala Terengganu, MY",ASI|MY|MY014|KUALA TERENGGANU,Malaysia
+"Kuantan, MY",ASI|MY|MY007|KUANTAN,Malaysia
+"Kuching, MY",ASI|MY|MY012|KUCHING,Malaysia
+"Kumagaya, JP",ASI|JP|JA035|KUMAGAYA,Japan
+"Kumamoto, JP",ASI|JP|JA021|KUMAMOTO,Japan
+"Kumasi, GH",AFR|GH|GH010|KUMASI,Ghana
+"Kumbakonam, IN",ASI|IN|IN031|KUMBAKONAM,India
+"Kunming, CN",ASI|CN|CH030|KUNMING,China
+"Kunsan, KR",ASI|KR|KS004|KUNSAN,South Korea
+"Kunshan, CN",ASI|CN|CH001|KUNSHAN,China
+"Kurashiki, JP",ASI|JP|JA031|KURASHIKI,Japan
+"Kure, JP",ASI|JP|JA011|KURE,Japan
+"Kurgan, RU",ASI|RU|RS043|KURGAN,Russia
+"Kurnool, IN",ASI|IN|IN002|KURNOOL,India
+"Kursk, RU",ASI|RU|RS044|KURSK,Russia
+"Kuruman, ZA",AFR|ZA|SF008|KURUMAN,South Africa
+"Kurume, JP",ASI|JP|JA007|KURUME,Japan
+"Kusatsu, JP",ASI|JP|JA010|KUSATSU,Japan
+"Kushiro, JP",ASI|JP|JA012|KUSHIRO,Japan
+"Kustanai, KZ",ASI|KZ|KZ012|KUSTANAI,Kazakhstan
+"Kut, IQ",MEA|IQ|IZ018|KUT,Iraq
+"Kutaisi, GE",ASI|GE|GG000|KUTAISI,Georgia
+"Kuwait City, KW",MEA|KW|KU000|KUWAIT CITY,Kuwait
+"Kuwana, JP",ASI|JP|JA023|KUWANA,Japan
+"Kwangchu, KR",ASI|KR|KS008|KWANGCHU,South Korea
+"Kyong Ju, KR",ASI|KR|KS010|KYONG JU,South Korea
+"Kyoto, JP",ASI|JP|JA022|KYOTO,Japan
+"Kyzylorda, KZ",ASI|KZ|KZ013|KYZYLORDA,Kazakhstan
+"La Habana, CU",CAC|CU|CU004|LA HABANA,Cuba
+"La Laguna, ES",EUR|ES|SP018|LA LAGUNA,Spain
+"La Paz, BO",SAM|BO|BL004|LA PAZ,Bolivia
+"La Paz, MX",NAM|MX|MX003|LA PAZ,Mexico
+"La Plata, AR",SAM|AR|AR001|LA PLATA,Argentina
+"La Serena, CL",SAM|CL|CI006|LA SERENA,Chile
+"La Victoria, VE",SAM|VE|VE004|LA VICTORIA,Venezuela
+"Ladysmith, ZA",AFR|ZA|SF005|LADYSMITH,South Africa
+"Lafayette, LA, US",NAM|US|LA|LAFAYETTE,United States
+"Lages, BR",SAM|BR|BR027|LAGES,Brazil
+"Lagos, NG",AFR|NG|NI024|LAGOS,Nigeria
+"Lagunillas, VE",SAM|VE|VE015|LAGUNILLAS,Venezuela
+"Lahore, PK",ASI|PK|PK007|LAHORE,Pakistan
+"Laiwu, CN",ASI|CN|CH016|LAIWU,China
+"Laiyang, CN",ASI|CN|CH023|LAIYANG,China
+"Laizhou, CN",ASI|CN|CH004|LAIZHOU,China
+"Lakewood, CO, US",NAM|US|CO|LAKEWOOD,United States
+"Lalitpur, NP",ASI|NP|NP000|LALITPUR,Nepal
+"Lambeth, UK",EUR|UK|UK001|LAMBETH,United Kingdom
+"Lancaster, UK",EUR|UK|UK001|LANCASTER,United Kingdom
+"Lancaster, CA, US",NAM|US|CA|LANCASTER,United States
+"Langebaan, ZA",AFR|ZA|SF011|LANGEBAAN,South Africa
+"Langfang, CN",ASI|CN|CH010|LANGFANG,China
+"Lansing, MI, US",NAM|US|MI|LANSING,United States
+"Lanus, AR",SAM|AR|AR001|LANUS,Argentina
+"Lanxi, CN",ASI|CN|CH001|LANXI,China
+"Lanzhou, CN",ASI|CN|CH005|LANZHOU,China
+"Laohekou, CN",ASI|CN|CH013|LAOHEKOU,China
+"Laramie, WY, US",NAM|US|WY|LARAMIE,United States
+"Laredo, TX, US",NAM|US|TX|LAREDO,United States
+"Larissa, GR",EUR|GR|GR034|LARISSA,Greece
+"Larkana, PK",ASI|PK|PK008|LARKANA,Pakistan
+"Larvik, NO",EUR|NO|NO019|LARVIK,Norway
+"Las Palmas De Gran Canaria, ES",EUR|ES|SP018|LAS PALMAS DE GRAN CANARIA,Spain
+"Las Tunas, CU",CAC|CU|CU010|LAS TUNAS,Cuba
+"Las Vegas, NV, US",NAM|US|NV|LAS VEGAS,United States
+"Latina, IT",EUR|IT|IT007|LATINA,Italy
+"Lattakia, SY",MEA|SY|SY002|LATTAKIA,Syria
+"Lausanne, CH",EUR|CH|SZ024|LAUSANNE,Switzerland
+"Laval, CA",NAM|CA|QC|LAVAL,Canada
+"Le Havre, FR",EUR|FR|FR011|LE HAVRE,France
+"Le Mans, FR",EUR|FR|FR018|LE MANS,France
+"Leeds, UK",EUR|UK|UK001|LEEDS,United Kingdom
+"Leganes, ES",EUR|ES|SP013|LEGANÉS,Spain
+"Legaspi, PH",ASI|PH|RP067|LEGASPI,Philippines
+"Legnica, PL",EUR|PL|PL001|LEGNICA,Poland
+"Leicester, UK",EUR|UK|UK001|LEICESTER,United Kingdom
+"Leiden, NL",EUR|NL|NL012|LEIDEN,Netherlands
+"Leipzig, DE",EUR|DE|GM014|LEIPZIG,Germany
+"Leiria, PT",EUR|PT|PO011|LEIRIA,Portugal
+"Leiyang, CN",ASI|CN|CH014|LEIYANG,China
+"Leling, CN",ASI|CN|CH023|LELING,China
+"Lengshuijiang, CN",ASI|CN|CH014|LENGSHUIJIANG,China
+"Lengshuitan, CN",ASI|CN|CH014|LENGSHUITAN,China
+"Leninakan, AM",ASI|AM|AM007|LENINAKAN,Armenia
+"Leon, MX",NAM|MX|MX011|LEÓN,Mexico
+"Leon, NI",CAC|NI|NU008|LEON,Nicaragua
+"Leon, ES",EUR|ES|SP007|LEÓN,Spain
+"Lephalale, ZA",AFR|ZA|SF009|LEPHALALE,South Africa
+"Leshan, CN",ASI|CN|CH026|LESHAN,China
+"Leskovac, CS",EUR|CS|YI003|LESKOVAC,Serbia
+"Leverkusen, DE",EUR|DE|GM011|LEVERKUSEN,Germany
+"Levubu, ZA",AFR|ZA|SF009|LEVUBU,South Africa
+"Lewisham, UK",EUR|UK|UK001|LEWISHAM,United Kingdom
+"Lexington, KY, US",NAM|US|KY|LEXINGTON,United States
+"Lhasa, CN",ASI|CN|CH029|LHASA,China
+"Lianyuan, CN",ASI|CN|CH014|LIANYUAN,China
+"LianYunGang, CN",ASI|CN|CH015|LIANYUNGANG,China
+"Liaocheng, CN",ASI|CN|CH023|LIAOCHENG,China
+"Liaoyang, CN",ASI|CN|CH018|LIAOYANG,China
+"Libreville, GA",AFR|GA|GB001|LIBREVILLE,Gabon
+"Lichinga, MZ",AFR|MZ|MZ007|LICHINGA,Mozambique
+"Lichtenburg, ZA",AFR|ZA|SF007|LICHTENBURG,South Africa
+"Lida, BY",EUR|BY|BO003|LIDA,Belarus
+"Liege, BE",EUR|BE|BE005|LIÈGE,Belgium
+"Likasi, CD",AFR|CD|CG006|LIKASI,Kinshasa
+"Lille, FR",EUR|FR|FR017|LILLE,France
+"Lillehammer, NO",EUR|NO|NO010|LILLEHAMMER,Norway
+"Lilongwe, MW",AFR|MW|MI000|LILONGWE,Malawi
+"Lima, PE",SAM|PE|PE015|LIMA,Peru
+"Limassol, CY",MEA|CY|CY004|LIMASSOL,Cyprus
+"Limeira, BR",SAM|BR|BR023|LIMEIRA,Brazil
+"Limoges, FR",EUR|FR|FR012|LIMOGES,France
+"Lincoln, NE, US",NAM|US|NE|LINCOLN,United States
+"Linhares, BR",SAM|BR|BR008|LINHARES,Brazil
+"Linkoeping, SE",EUR|SE|SW012|LINKOEPING,Sweden
+"Linyi, CN",ASI|CN|CH023|LINYI,China
+"Linz, AT",EUR|AT|AU004|LINZ,Austria
+"Lipa, PH",ASI|PH|RP069|LIPA,Philippines
+"Lipetsk, RU",ASI|RU|RS046|LIPETSK,Russia
+"Lira, UG",AFR|UG|UG000|LIRA,Uganda
+"Lisbon, PT",EUR|PT|PO012|LISBOA,Portugal
+"Lisburn, UK",EUR|UK|UK002|LISBURN,United Kingdom
+"Lishui, CN",ASI|CN|CH031|LISHUI,China
+"Little Rock, AR, US",NAM|US|AR|LITTLE ROCK,United States
+"Liuzhou, CN",ASI|CN|CH007|LIUZHOU,China
+"Liverpool, UK",EUR|UK|UK001|LIVERPOOL,United Kingdom
+"Livonia, MI, US",NAM|US|MI|LIVONIA,United States
+"Livorno, IT",EUR|IT|IT016|LIVORNO,Italy
+"Ljubljana, SI",EUR|SI|SI000|LJUBLJANA,Slovenia
+"Lleida, ES",EUR|ES|SP008|LLEIDA,Spain
+"Lobito, AO",AFR|AO|AO007|LOBITO,Angola
+"Lodz, PL",EUR|PL|PL003|LÓDZ,Poland
+"Loeriesfontein, ZA",AFR|ZA|SF008|LOERIESFONTEIN,South Africa
+"Lofoten, NO",EUR|NO|NO009|LOFOTEN,Norway
+"Logrono, ES",EUR|ES|SP012|LOGROÑO,Spain
+"Loja, EC",SAM|EC|EC012|LOJA,Ecuador
+"Lomas De Zamora, AR",SAM|AR|AR001|LOMAS DE ZAMORA,Argentina
+"Lome, TG",AFR|TG|TO000|LOME,Togo
+"London, CA",NAM|CA|ON|LONDON,Canada
+"London, UK",EUR|UK|UK001|LONDON,United Kingdom
+"Londrina, BR",SAM|BR|BR015|LONDRINA,Brazil
+"Long Beach, CA, US",NAM|US|CA|LONG BEACH,United States
+"Longueuil, CA",NAM|CA|QC|LONGUEUIL,Canada
+"Longxuyen, VN",ASI|VN|VM060|LONGXUYEN,Vietnam
+"Lopez Mateos, MX",NAM|MX|MX015|CIUDAD LÓPEZ MATEOS,Mexico
+"Los Angeles, CL",SAM|CL|CI005|LOS ANGELES,Chile
+"Los Angeles, CA, US",NAM|US|CA|LOS ANGELES,United States
+"Los Mochis, MX",NAM|MX|MX025|LOS MOCHIS,Mexico
+"Los Teques, VE",SAM|VE|VE016|LOS TEQUES,Venezuela
+"Louisville, KY, US",NAM|US|KY|LOUISVILLE,United States
+"Lowell, MA, US",NAM|US|MA|LOWELL,United States
+"Luanda, AO",AFR|AO|AO006|LUANDA,Angola
+"Luang Prabang, LA",ASI|LA|LA008|LUANG PRABANG,Laos
+"Luanshya, ZM",AFR|ZM|ZA001|LUANSHYA,Zambia
+"Lubango, AO",AFR|AO|AO010|LUBANGO,Angola
+"Lubbock, TX, US",NAM|US|TX|LUBBOCK,United States
+"Lubeck, DE",EUR|DE|GM016|LÜBECK,Germany
+"Lublin, PL",EUR|PL|PL004|LUBLIN,Poland
+"Lubumbashi, CD",AFR|CD|CG006|LUBUMBASHI,Kinshasa
+"Lucena City, PH",ASI|PH|RP070|LUCENA CITY,Philippines
+"Lucknow, IN",ASI|IN|IN033|LUCKNOW,India
+"Ludhiana, IN",ASI|IN|IN028|LUDHIANA,India
+"Ludwigshafen, DE",EUR|DE|GM012|LÜDWIGSHAFEN AM RHEIN,Germany
+"Lugansk, UA",EUR|UA|UP012|LUGANSK,Ukraine
+"Luleaa, SE",EUR|SE|SW010|LULEAA,Sweden
+"Lund, SE",EUR|SE|SW013|LUND,Sweden
+"Luoyang, CN",ASI|CN|CH012|LUOYANG,China
+"Lusaka, ZM",AFR|ZM|ZA000|LUSAKA,Zambia
+"Luton, UK",EUR|UK|UK001|LUTON,United Kingdom
+"Lutsk, UA",EUR|UA|UP020|LUTSK,Ukraine
+"Luzern, CH",EUR|CH|SZ012|LUZERN,Switzerland
+"Luziania, BR",SAM|BR|BR027|LUZIÂNIA,Brazil
+"Lvov, UA",EUR|UA|UP013|LVOV,Ukraine
+"Lydenburg, ZA",AFR|ZA|SF006|LYDENBURG,South Africa
+"Lyon, FR",EUR|FR|FR022|LYON,France
+"Lysychansk, UA",EUR|UA|UP012|LYSYCHANSK,Ukraine
+"Maanshan, CN",ASI|CN|CH026|MAANSHAN,China
+"Maastricht, NL",EUR|NL|NL006|MAASTRICHT,Netherlands
+"Macae, BR",SAM|BR|BR017|MACAE,Brazil
+"Macao, MO",ASI|MO|MC---|MACAO,Macau
+"Macapa, BR",SAM|BR|BR003|MACAPÁ,Brazil
+"Macclesfield, UK",EUR|UK|UK001|MACCLESFIELD,United Kingdom
+"Machakos, KE",AFR|KE|KE003|MACHAKOS,Kenya
+"Machala, EC",SAM|EC|EC007|MACHALA,Ecuador
+"Macheng, CN",ASI|CN|CH001|MACHENG,China
+"Machida, JP",ASI|JP|JA041|MACHIDA,Japan
+"Machilipatnam, IN",ASI|IN|IN002|MACHILIPATNAM,India
+"Madison, WI, US",NAM|US|WI|MADISON,United States
+"Madiun, ID",ASI|ID|ID007|MADIUN,Indonesia
+"Madras, IN",ASI|IN|IN031|MADRAS,India
+"Madrid, ES",EUR|ES|SP013|MADRID,Spain
+"Madurai, IN",ASI|IN|IN031|MADURAI,India
+"Maebashi, JP",ASI|JP|JA010|MAEBASHI,Japan
+"Mafikeng, ZA",AFR|ZA|SF007|MAFIKENG,South Africa
+"Magadan, RU",ASI|RU|RS047|MAGADAN,Russia
+"Magaliesburg, ZA",AFR|ZA|SF004|MAGALIESBURG,South Africa
+"Magdeburg, DE",EUR|DE|GM015|MAGDEBURG,Germany
+"Mage, BR",SAM|BR|BR017|MAGÉ,Brazil
+"Magelang, ID",ASI|ID|ID004|MAGELANG,Indonesia
+"Magnitogorsk, RU",ASI|RU|RS013|MAGNITOGORSK,Russia
+"Mahabad, IR",MEA|IR|IR002|MAHABAD,Iran
+"Mahalapye, BW",AFR|BW|BC000|MAHALAPYE,Botswana
+"Mahbubnagar, IN",ASI|IN|IN002|MAHBUBNAGAR,India
+"Mahesana, IN",ASI|IN|IN012|MAHESANA,India
+"Maicao, CO",SAM|CO|CO016|MAICAO,Colombia
+"Maidstone, UK",EUR|UK|UK001|MAIDSTONE,United Kingdom
+"Maiduguri, NG",AFR|NG|NI000|MAIDUGURI,Nigeria
+"Maikop, RU",ASI|RU|RS001|MAIKOP,Russia
+"Mainz, DE",EUR|DE|GM002|MAINZ,Germany
+"Majnoon, IQ",MEA|IQ|IZ010|MAJNOON,Iraq
+"Makati, PH",ASI|PH|RP077|MAKATI,Philippines
+"Makeyevka, UA",EUR|UA|UP004|MAKEYEVKA,Ukraine
+"Makhachkala, RU",ASI|RU|RS017|MAKHACHKALA,Russia
+"Makkah, SA",MEA|SA|SA011|MAKKAH,Saudi Arabia
+"Malabo, GQ",AFR|GQ|EK000|MALABO,Equatorial Guinea
+"Malaga, ES",EUR|ES|SP001|MÁLAGA,Spain
+"Malang, ID",ASI|ID|ID026|MALANG,Indonesia
+"Malatya, TR",MEA|TR|TU055|MALATYA,Turkey
+"Malayer, IR",MEA|IR|IR010|MALAYER,Iran
+"Male, MV",ASI|MV|MV012|MALE,Maldives
+"Malegaon, IN",ASI|IN|IN021|MALEGAON,India
+"Malindi, KE",AFR|KE|KE002|MALINDI,Kenya
+"Malmesbury, ZA",AFR|ZA|SF011|MALMESBURY,South Africa
+"Malmoe, SE",EUR|SE|SW013|MALMOE,Sweden
+"Mamuno, BW",AFR|BW|BC000|MAMUNO,Botswana
+"Manado, ID",ASI|ID|ID022|MANADO,Indonesia
+"Managua, NI",CAC|NI|NU010|MANAGUA,Nicaragua
+"Manama, BH",MEA|BH|BA002|MANAMA,Bahrain
+"Manaus, BR",SAM|BR|BR004|MANAUS,Brazil
+"Manchester, UK",EUR|UK|UK001|MANCHESTER,United Kingdom
+"Manchester, NH, US",NAM|US|NH|MANCHESTER,United States
+"Mandalay, MM",ASI|MM|BM008|MANDALAY,Burma/Myanmar
+"Mandaluyong, PH",ASI|PH|RP035|MANDALUYONG,Philippines
+"Mandaue, PH",ASI|PH|RP072|MANDAUE,Philippines
+"Mandya, IN",ASI|IN|IN017|MANDYA,India
+"Mangalore, IN",ASI|IN|IN017|MANGALORE,India
+"Mangora, PK",ASI|PK|PK001|MANGORA,Pakistan
+"Manila, PH",ASI|PH|RP073|MANILA,Philippines
+"Manisa, TR",MEA|TR|TU056|MANISA,Turkey
+"Manizales, CO",SAM|CO|CO002|MANIZALES,Colombia
+"Mannheim, DE",EUR|DE|GM001|MANNHEIM,Germany
+"Mansfield, UK",EUR|UK|UK001|MANSFIELD,United Kingdom
+"Mansura, EG",AFR|EG|EG001|MANSÛRA,Egypt
+"Manta, EC",SAM|EC|EC014|MANTA,Ecuador
+"Manukau, NZ",OCN|NZ|NZ000|MANUKAU,New Zealand
+"Maoming, CN",ASI|CN|CH006|MAOMING,China
+"Maputo, MZ",AFR|MZ|MZ005|MAPUTO,Mozambique
+"Mar Del Plata, AR",SAM|AR|AR001|MAR DEL PLATA,Argentina
+"Maraba, BR",SAM|BR|BR013|MARABA,Brazil
+"Maracaibo, VE",SAM|VE|VE025|MARACAIBO,Venezuela
+"Maracanau, BR",SAM|BR|BR006|MARACANAU,Brazil
+"Maracay, VE",SAM|VE|VE004|MARACAY,Venezuela
+"Maradi, NE",AFR|NE|NG004|MARADI,Niger
+"Marawi, PH",ASI|PH|RP074|MARAWI,Philippines
+"Mardan, PK",ASI|PK|PK005|MARDAN,Pakistan
+"Mardin, TR",MEA|TR|TU047|MARDIN,Turkey
+"Margate, ZA",AFR|ZA|SF005|MARGATE,South Africa
+"Margilan, UZ",ASI|UZ|UZ003|MARGILAN,Uzbekistan
+"Marilia, BR",SAM|BR|BR023|MARÍLIA,Brazil
+"Maringa, BR",SAM|BR|BR015|MARINGÁ,Brazil
+"Mariupol, UA",EUR|UA|UP004|MARIUPOL,Ukraine
+"Markham, CA",NAM|CA|ON|MARKHAM,Canada
+"Maroua, CM",AFR|CM|CM004|MAROUA,Cameroon
+"Marrakech, MA",AFR|MA|MO025|MARRAKECH,Morocco
+"Marseille, FR",EUR|FR|FR021|MARSEILLE,France
+"Masaka, UG",AFR|UG|UG000|MASAKA,Uganda
+"Masan, KR",ASI|KR|KS011|MASAN,South Korea
+"Masaya, NI",CAC|NI|NU011|MASAYA,Nicaragua
+"Maseru, LS",AFR|LS|LT000|MASERU,Lesotho
+"Mashhad, IR",MEA|IR|IR015|MASHHAD,Iran
+"Masjed Soleyman, IR",MEA|IR|IR016|MASJED SOLEYMAN,Iran
+"Matadi, CD",AFR|CD|CG002|MATADI,Kinshasa
+"Matamoros, MX",NAM|MX|MX028|MATAMOROS,Mexico
+"Matanzas, CU",CAC|CU|CU011|MATANZAS,Cuba
+"Mataro, ES",EUR|ES|SP008|MATARÓ,Spain
+"Mathura, IN",ASI|IN|IN033|MATHURA,India
+"Matsubara, JP",ASI|JP|JA033|MATSUBARA,Japan
+"Matsudo, JP",ASI|JP|JA004|MATSUDO,Japan
+"Maturin, VE",SAM|VE|VE017|MATURÍN,Venezuela
+"Maua, BR",SAM|BR|BR023|MAUÁ,Brazil
+"Maun, BW",AFR|BW|BC000|MAUN,Botswana
+"Maunath Bhanjan, IN",ASI|IN|IN033|MAUNATH BHANJAN,India
+"Mayaguez, PR",CAC|PR|PR000|MAYAGÜEZ,Puerto Rico
+"Mazar-I-Sharif, AF",ASI|AF|AF004|MAZAR-I-SHARIF,Afghanistan
+"Mazatlan, MX",NAM|MX|MX025|MAZATLÁN,Mexico
+"Mazeppa Bay, ZA",AFR|ZA|SF002|MAZEPPA BAY,South Africa
+"Mbabane, SZ",AFR|SZ|WZ000|MBABANE,Swaziland
+"Mbale, UG",AFR|UG|UG000|MBALE,Uganda
+"Mbandaka, CD",AFR|CD|CG003|MBANDAKA,Kinshasa
+"Mbarara, UG",AFR|UG|UG000|MBARARA,Uganda
+"Mbeya, TZ",AFR|TZ|TZ000|MBEYA,Tanzania
+"Mbour, SN",AFR|SN|SG009|MBOUR,Senegal
+"Mbuji-Mayi, CD",AFR|CD|CG005|MBUJI-MAYI,Kinshasa
+"Mcallen, TX, US",NAM|US|TX|MCALLEN,United States
+"Medan, ID",ASI|ID|ID027|MEDAN,Indonesia
+"Medellin, CO",SAM|CO|CO002|MEDELLÍN,Colombia
+"Medina, SA",MEA|SA|SA005|MEDINA,Saudi Arabia
+"Medinipur, IN",ASI|IN|IN036|MEDINIPUR,India
+"Meerut, IN",ASI|IN|IN033|MEERUT,India
+"Meihekou, CN",ASI|CN|CH017|MEIHEKOU,China
+"Meixian, CN",ASI|CN|CH004|MEIXIAN,China
+"Mejicanos, SV",CAC|SV|ES010|MEJICANOS,El Salvador
+"Mekele, ET",AFR|ET|ET000|MEKELE,Ethiopia
+"Meknes, MA",AFR|MA|MO026|MEKNÈS,Morocco
+"Melbourne, AU",OCN|AU|VIC|MELBOURNE,Australia
+"Melitopol, UA",EUR|UA|KZ000|MELITOPOL,Ukraine
+"Memphis, TN, US",NAM|US|TN|MEMPHIS,United States
+"Mendoza, AR",SAM|AR|AR013|MENDOZA,Argentina
+"Menia, EG",AFR|EG|EG010|MENIA,Egypt
+"Merida, MX",NAM|MX|MX002|MÉRIDA,Mexico
+"Merida, VE",SAM|VE|VE015|MÉRIDA,Venezuela
+"Merton, UK",EUR|UK|UK001|MERTON,United Kingdom
+"Mesa, AZ, US",NAM|US|AZ|MESA,United States
+"Mesquite, TX, US",NAM|US|TX|MESQUITE,United States
+"Messina, IT",EUR|IT|IT015|MESSINA,Italy
+"Messina, ZA",AFR|ZA|SF009|MESSINA,South Africa
+"Metula, IL",MEA|IL|IS003|METULA,Israel
+"Metz, FR",EUR|FR|FR015|METZ,France
+"Mexicali, MX",NAM|MX|MX002|MEXICALI,Mexico
+"Mexico City, MX",NAM|MX|MX009|MEXICO CITY,Mexico
+"Mezhdurechensk, RU",ASI|RU|RS031|MEZHDURECHENSK,Russia
+"Miami, FL, US",NAM|US|FL|MIAMI,United States
+"Mianyang, CN",ASI|CN|CH004|MIANYANG,China
+"Miass, RU",ASI|RU|RS013|MIASS,Russia
+"Michurinsk, RU",ASI|RU|RS076|MICHURINSK,Russia
+"Middelburg, ZA",AFR|ZA|SF006|MIDDELBURG,South Africa
+"Midrand, ZA",AFR|ZA|SF004|MIDRAND,South Africa
+"Milagro, EC",SAM|EC|EC010|MILAGRO,Ecuador
+"Milano, IT",EUR|IT|IT009|MILANO,Italy
+"Milton Keynes, UK",EUR|UK|UK001|MILTON KEYNES,United Kingdom
+"Miluo, CN",ASI|CN|CH014|MILUO,China
+"Milwaukee, WI, US",NAM|US|WI|MILWAUKEE,United States
+"Minatitlan, MX",NAM|MX|MX030|MINATITLÁN,Mexico
+"Minneapolis, MN, US",NAM|US|MN|MINNEAPOLIS,United States
+"Minsk, BY",EUR|BY|BO000|MINSK,Belarus
+"Mirpur Khas, PK",ASI|PK|PK008|MIRPUR KHAS,Pakistan
+"Mirzapur-Cum-Vindhyachal, IN",ASI|IN|IN033|MIRZAPUR-CUM-VINDHYACHAL,India
+"Mishan, CN",ASI|CN|CH011|MISHAN,China
+"Mishima, JP",ASI|JP|JA038|MISHIMA,Japan
+"Miskolc, HU",EUR|HU|HU021|MISKOLC,Hungary
+"Mississauga, CA",NAM|CA|ON|MISSISSAUGA,Canada
+"Misurata, LY",AFR|LY|LY016|MISURATA,Libya
+"Mito, JP",ASI|JP|JA014|MITO,Japan
+"Miyakonojo, JP",ASI|JP|JA025|MIYAKONOJO,Japan
+"Miyazaki, JP",ASI|JP|JA025|MIYAZAKI,Japan
+"Mmabatho, ZA",AFR|ZA|SF007|MMABATHO,South Africa
+"Mobile, AL, US",NAM|US|AL|MOBILE,United States
+"Modena, IT",EUR|IT|IT005|MODENA,Italy
+"Modesto, CA, US",NAM|US|CA|MODESTO,United States
+"Moers, DE",EUR|DE|GM011|MOERS,Germany
+"Moga, IN",ASI|IN|IN028|MOGA,India
+"Mogadishu, SO",AFR|SO|SO002|MOGADISHU,Somalia
+"Mogilev, BY",EUR|BY|BO005|MOGILEV,Belarus
+"Moji Das Cruzes, BR",SAM|BR|BR023|MOJI DAS CRUZES,Brazil
+"Mokopane, ZA",AFR|ZA|SF009|MOKOPANE,South Africa
+"Molde, NO",EUR|NO|NO007|MOLDE,Norway
+"Molepolole, BW",AFR|BW|BC000|MOLEPOLOLE,Botswana
+"Mombasa, KE",AFR|KE|KE002|MOMBASA,Kenya
+"Monaco, MC",EUR|MC|MN000|MONACO,Monaco
+"Monclova, MX",NAM|MX|MX007|MONCLOVA,Mexico
+"Moncton, CA",NAM|CA|NB|MONCTON,Canada
+"Monrovia, LR",AFR|LR|LI007|MONROVIA,Liberia
+"Montélimar, FR",EUR|FR|FR022|MONTÉLIMAR,France
+"Monteria, CO",SAM|CO|CO010|MONTERIA,Colombia
+"Monterrey, MX",NAM|MX|MX005|MONTERREY,Mexico
+"Montes Claros, BR",SAM|BR|BR012|MONTES CLAROS,Brazil
+"Montevideo, UY",SAM|UY|UY010|MONTEVIDEO,Uruguay
+"Montgomery, AL, US",NAM|US|AL|MONTGOMERY,United States
+"Montpelier, VT, US",NAM|US|VT|MONTPELIER,United States
+"Montpellier, FR",EUR|FR|FR013|MONTPELLIER,France
+"Montreal, CA",NAM|CA|QC|MONTRÉAL,Canada
+"Monywa, MM",ASI|MM|BM011|MONYWA,Burma/Myanmar
+"Monza, IT",EUR|IT|IT009|MONZA,Italy
+"Mooi River, ZA",AFR|ZA|SF005|MOOI RIVER,South Africa
+"Moradabad, IN",ASI|IN|IN033|MORADABAD,India
+"Moratuwa, LK",ASI|LK|CE009|MORATUWA,Sri Lanka
+"Morelia, MX",NAM|MX|MX016|MORELIA,Mexico
+"Morena, IN",ASI|IN|IN020|MORENA,India
+"Moreno Valley, CA, US",NAM|US|CA|MORENO VALLEY,United States
+"Moriguchi, JP",ASI|JP|JA033|MORIGUCHI,Japan
+"Morioka, JP",ASI|JP|JA016|MORIOKA,Japan
+"Morogoro, TZ",AFR|TZ|TZ000|MOROGORO,Tanzania
+"Moron, AR",SAM|AR|AR001|MORÓN,Argentina
+"Moroni, KM",AFR|KM|CN004|MORONI,Comoros
+"Moroto, UG",AFR|UG|UG000|MOROTO,Uganda
+"Morvi, IN",ASI|IN|IN012|MORVI,India
+"Moscow, RU",ASI|RU|RS052|MOSKVA,Russia
+"Mosoro, BR",SAM|BR|BR018|MOSSORÓ,Brazil
+"Mossel Bay, ZA",AFR|ZA|SF011|MOSSEL BAY,South Africa
+"Mostaganem, DZ",AFR|DZ|AG030|MOSTAGANEM,Algeria
+"Mostar, BA",EUR|BA|BK001|MOSTAR,Bosnia And Herzegovina
+"Mostoles, ES",EUR|ES|SP013|MÓSTOLES,Spain
+"Mosul, IQ",MEA|IQ|IZ016|MOSUL,Iraq
+"Moulmein, MM",ASI|MM|BM009|MOULMEIN,Burma/Myanmar
+"Mozambique Island, MZ",AFR|MZ|MZ006|MOZAMBIQUE ISLAND,Mozambique
+"Mthatha, ZA",AFR|ZA|SF002|MTHATHA,South Africa
+"Mudanjiang, CN",ASI|CN|CH011|MUDANJIANG,China
+"Mufulira, ZM",AFR|ZM|ZA001|MUFULIRA,Zambia
+"Mulheim, DE",EUR|DE|GM011|MÜLHEIM AN DER RUHR,Germany
+"Mulhouse, FR",EUR|FR|FR001|MULHOUSE,France
+"Multan, PK",ASI|PK|PK007|MULTAN,Pakistan
+"Mumbai, IN",ASI|IN|IN021|MUMBAI,India
+"Munger, IN",ASI|IN|IN005|MUNGER,India
+"Munich, DE",EUR|DE|GM002|MÜNCHEN,Germany
+"Munster, DE",EUR|DE|GM007|MÜNSTER,Germany
+"Muntinlupa, PH",ASI|PH|RP103|MUNTINLUPA,Philippines
+"Murcia, ES",EUR|ES|SP014|MURCIA,Spain
+"Muridke, PK",ASI|PK|PK007|MURIDKE,Pakistan
+"Murmansk, RU",ASI|RU|RS053|MURMANSK,Russia
+"Murom, RU",ASI|RU|RS087|MUROM,Russia
+"Muroran, JP",ASI|JP|JA012|MURORAN,Japan
+"Murwara, IN",ASI|IN|IN020|MURWARA,India
+"Musashino, JP",ASI|JP|JA041|MUSASHINO,Japan
+"Muscat, OM",MEA|OM|MU006|MUSCAT,Oman
+"Mushin, NG",AFR|NG|NI024|MUSHIN,Nigeria
+"Musina, ZA",AFR|ZA|SF009|MUSINA,South Africa
+"Mutare, ZW",AFR|ZW|ZI000|MUTARE,Zimbabwe
+"Muzaffarnagar, IN",ASI|IN|IN033|MUZAFFARNAGAR,India
+"Muzaffarpur, IN",ASI|IN|IN005|MUZAFFARPUR,India
+"Mwanza, TZ",AFR|TZ|TZ000|MWANZA,Tanzania
+"Mymensingh, BD",ASI|BD|BG002|MYMENSINGH,Bangladesh
+"Myrtle Beach, SC, US",NAM|US|SC|Myrtle Beach,United States
+"Mysore, IN",ASI|IN|IN017|MYSORE,India
+"Mytho, VN",ASI|VN|VM059|MYTHO,Vietnam
+"Mytishchi, RU",ASI|RU|RS051|MYTISHCHI,Russia
+"Nabadwip, IN",ASI|IN|IN036|NABADWIP,India
+"Naberezhnyye Chelny, RU",ASI|RU|RS077|NABEREZHNYYE CHELNY,Russia
+"Nacala, MZ",AFR|MZ|MZ006|NACALA,Mozambique
+"Nadiad, IN",ASI|IN|IN012|NADIAD,India
+"Naestved, DK",EUR|DK|DA013|NAESTVED,Denmark
+"Naga, PH",ASI|PH|RP082|NAGA,Philippines
+"Nagano, JP",ASI|JP|JA026|NAGANO,Japan
+"Nagaoka, JP",ASI|JP|JA029|NAGAOKA,Japan
+"Nagareyama, JP",ASI|JP|JA035|NAGAREYAMA,Japan
+"Nagasaki, JP",ASI|JP|JA027|NAGASAKI,Japan
+"Nagercoil, IN",ASI|IN|IN031|NAGERCOIL,India
+"Nagoya, JP",ASI|JP|JA001|NAGOYA,Japan
+"Nagpur, IN",ASI|IN|IN021|NAGPUR,India
+"Naihati, IN",ASI|IN|IN036|NAIHATI,India
+"Nairobi, KE",AFR|KE|KE004|NAIROBI,Kenya
+"Najaf, IQ",MEA|IQ|IZ005|NAJAF,Iraq
+"Najafabad, IR",MEA|IR|IR006|NAJAFABAD,Iran
+"Nakhodka, RU",ASI|RU|RS063|NAKHODKA,Russia
+"Nakhon Pathom, TH",ASI|TH|TH026|NAKHON PATHOM,Thailand
+"Nakhon Ratchasima, TH",ASI|TH|TH028|NAKHON RATCHASIMA,Thailand
+"Nakhon Sawan, TH",ASI|TH|TH029|NAKHON SAWAN,Thailand
+"Nakhon Si Thammarat, TH",ASI|TH|TH030|NAKHON SI THAMMARAT,Thailand
+"Nakuru, KE",AFR|KE|KE007|NAKURU,Kenya
+"Nalchik, RU",ASI|RU|RS024|NALCHIK,Russia
+"Namangan, UZ",ASI|UZ|UZ006|NAMANGAN,Uzbekistan
+"Namdinh, VN",ASI|VN|VM042|NAMDINH,Vietnam
+"Nampula, MZ",AFR|MZ|MZ006|NAMPULA,Mozambique
+"Namur, BE",EUR|BE|BE008|NAMUR,Belgium
+"Nanchang, CN",ASI|CN|CH016|NANCHANG,China
+"Nanchong, CN",ASI|CN|CH026|NANCHONG,China
+"Nanded, IN",ASI|IN|IN021|NANDED,India
+"Nandyal, IN",ASI|IN|IN002|NANDYAL,India
+"Nangong, CN",ASI|CN|CH010|NANGONG,China
+"Nanjing, CN",ASI|CN|CH016|NANJING,China
+"Nanning, CN",ASI|CN|CH007|NANNING,China
+"Nanping, CN",ASI|CN|CH004|NANPING,China
+"Nantes, FR",EUR|FR|FR018|NANTES,France
+"Nantong, CN",ASI|CN|CH015|NANTONG,China
+"Nanyang, CN",ASI|CN|CH004|NANYANG,China
+"Nanyuki, KE",AFR|KE|KE007|NANYUKI,Kenya
+"Naperville, IL, US",NAM|US|IL|NAPERVILLE,United States
+"Napier-Hastings, NZ",OCN|NZ|NZ000|NAPIER-HASTINGS,New Zealand
+"Napoli, IT",EUR|IT|IT004|NAPOLI,Italy
+"Nara, JP",ASI|JP|JA028|NARA,Japan
+"Narashino, JP",ASI|JP|JA004|NARASHINO,Japan
+"Narayanganj, BD",ASI|BD|BG002|NARAYANGANJ,Bangladesh
+"Naryan-Mar, RU",ASI|RU|RS054|NARYAN-MAR,Russia
+"Nashville, TN, US",NAM|US|TN|NASHVILLE,United States
+"Nassau, BS",CAC|BS|BF016|NASSAU,The Bahamas
+"Natal, BR",SAM|BR|BR018|NATAL,Brazil
+"Naucalpan, MX",NAM|MX|MX015|NAUCALPAN,Mexico
+"Navoi, UZ",ASI|UZ|UZ007|NAVOI,Uzbekistan
+"Navsari, IN",ASI|IN|IN012|NAVSARI,India
+"Nawabganj, BD",ASI|BD|BG002|NAWABGANJ,Bangladesh
+"Nawabshah, PK",ASI|PK|PK008|NAWABSHAH,Pakistan
+"N'Djamena, TD",AFR|TD|CD004|N'DJAMENA,Chad
+"Ndola, ZM",AFR|ZM|ZA001|NDOLA,Zambia
+"Neftekamsk, RU",ASI|RU|RS007|NEFTEKAMSK,Russia
+"Neijiang, CN",ASI|CN|CH026|NEIJIANG,China
+"Neiva, CO",SAM|CO|CO015|NEIVA,Colombia
+"Nellore, IN",ASI|IN|IN002|NELLORE,India
+"Nelspruit, ZA",AFR|ZA|SF006|NELSPRUIT,South Africa
+"Nepean, CA",NAM|CA|ON|NEPEAN,Canada
+"Netanya, IL",MEA|IL|IS002|NETANYA,Israel
+"Netzahualcoyotl, MX",NAM|MX|MX027|NETZAHUALCÓYOTL,Mexico
+"Neuquen, AR",SAM|AR|AR015|NEUQUÉN,Argentina
+"Neuss, DE",EUR|DE|GM011|NEUSS,Germany
+"Nevinnomyssk, RU",ASI|RU|RS074|NEVINNOMYSSK,Russia
+"New Delhi, IN",ASI|IN|IN010|NEW DELHI,India
+"New Haven, CT, US",NAM|US|CT|NEW HAVEN,United States
+"New Orleans, LA, US",NAM|US|LA|NEW ORLEANS,United States
+"New York, NY, US",NAM|US|NY|NEW YORK,United States
+"Newark, NJ, US",NAM|US|NJ|NEWARK,United States
+"Newbury, UK",EUR|UK|UK001|NEWBURY,United Kingdom
+"Newcastle, AU",OCN|AU|NSW|NEWCASTLE,Australia
+"Newcastle, ZA",AFR|ZA|SF005|NEWCASTLE,South Africa
+"Newcastle-Under-Lyme, UK",EUR|UK|UK001|NEWCASTLE-UNDER-LYME,United Kingdom
+"Newcastle-Upon-Tyne, UK",EUR|UK|UK001|NEWCASTLE-UPON-TYNE,United Kingdom
+"Newham, UK",EUR|UK|UK001|NEWHAM,United Kingdom
+"Newport, UK",EUR|UK|UK001|NEWPORT,United Kingdom
+"Newport News, VA, US",NAM|US|VA|NEWPORT NEWS,United States
+"Neyagawa, JP",ASI|JP|JA033|NEYAGAWA,Japan
+"Neyshabur, IR",MEA|IR|IR015|NEYSHABUR,Iran
+"Neyveli, IN",ASI|IN|IN031|NEYVELI,India
+"Ngaoundere, CM",AFR|CM|CM001|NGAOUNDERE,Cameroon
+"Ngqura, ZA",AFR|ZA|SF002|NGQURA,South Africa
+"Nhatrang, VN",ASI|VN|VM011|NHATRANG,Vietnam
+"Niamey, NE",AFR|NE|NG005|NIAMEY,Niger
+"Nice, FR",EUR|FR|FR021|NICE,France
+"Nicosia, CY",MEA|CY|CY005|NICOSIA,Cyprus
+"Nieu Bethesda, ZA",AFR|ZA|SF002|NIEU BETHESDA,South Africa
+"Nieuwoudtville, ZA",AFR|ZA|SF008|NIEUWOUDTVILLE,South Africa
+"Niigata, JP",ASI|JP|JA029|NIIGATA,Japan
+"Niihama, JP",ASI|JP|JA005|NIIHAMA,Japan
+"Niiza, JP",ASI|JP|JA035|NIIZA,Japan
+"Nijmegen, NL",EUR|NL|NL004|NIJMEGEN,Netherlands
+"Nikopol, BG",EUR|BG|BU012|NIKOPOL,Bulgaria
+"Nimes, FR",EUR|FR|FR013|NÎMES,France
+"Ningbo, CN",ASI|CN|CH031|NINGBO,China
+"Ningde, CN",ASI|CN|CH004|NINGDE,China
+"Nis, CS",EUR|CS|YI003|NIS,Serbia
+"Nishinomiya, JP",ASI|JP|JA013|NISHINOMIYA,Japan
+"Nishio, JP",ASI|JP|JA001|NISHIO,Japan
+"Niteroi, BR",SAM|BR|BR017|NITERÓI,Brazil
+"Nizamabad, IN",ASI|IN|IN002|NIZAMABAD,India
+"Nizhnekamsk, RU",ASI|RU|RS077|NIZHNEKAMSK,Russia
+"Nizhnevartovsk, RU",ASI|RU|RS034|NIZHNEVARTOVSK,Russia
+"Nizhniy Novgorod, RU",ASI|RU|RS055|NIZHNIY NOVGOROD,Russia
+"Nizhny Tagil, RU",ASI|RU|RS075|NIZHNY TAGIL,Russia
+"Nkongsamba, CM",AFR|CM|CM005|NKONGSAMBA,Cameroon
+"Nobeoka, JP",ASI|JP|JA025|NOBEOKA,Japan
+"Noda, JP",ASI|JP|JA004|NODA,Japan
+"Nogales, MX",NAM|MX|MX030|NOGALES,Mexico
+"Noginsk, RU",ASI|RU|RS018|NOGINSK,Russia
+"Norfolk, VA, US",NAM|US|VA|NORFOLK,United States
+"Norilsk, RU",ASI|RU|RS041|NORILSK,Russia
+"Norrkoeping, SE",EUR|SE|SW012|NORRKOEPING,Sweden
+"North Las Vegas, NV, US",NAM|US|NV|NORTH LAS VEGAS,United States
+"North York, CA",NAM|CA|ON|NORTH YORK,Canada
+"Northampton, UK",EUR|UK|UK001|NORTHAMPTON,United Kingdom
+"Northshore, NZ",OCN|NZ|NZ000|NORTHSHORE,New Zealand
+"Norwalk, CA, US",NAM|US|CA|NORWALK,United States
+"Norwich, UK",EUR|UK|UK001|NORWICH,United Kingdom
+"Nossa Senhora Do Socorro, BR",SAM|BR|BR024|NOSSA SENHORA DO SOCORRO,Brazil
+"Nottingham, UK",EUR|UK|UK001|NOTTINGHAM,United Kingdom
+"Nouakchott, MR",AFR|MR|MR005|NOUAKCHOTT,Mauritania
+"Noumea, NC",OCN|NC|NC000|NOUMEA,New Caledonia
+"Nova Friburgo, BR",SAM|BR|BR017|NOVA FRIBURGO,Brazil
+"Nova Iguacu, BR",SAM|BR|BR017|NOVA IGUAÇU,Brazil
+"Novara, IT",EUR|IT|IT012|NOVARA,Italy
+"Novi Sad, CS",EUR|CS|YI003|NOVI SAD,Serbia
+"Novo Hamburgo, BR",SAM|BR|BR019|NÔVO HAMBURGO,Brazil
+"Novocheboksarsk, RU",ASI|RU|RS016|NOVOCHEBOKSARSK,Russia
+"Novocherkassk, RU",ASI|RU|RS059|NOVOCHERKASSK,Russia
+"Novokuznetsk, RU",ASI|RU|RS031|NOVOKUZNETSK,Russia
+"Novomoskovsk, RU",ASI|RU|RS080|NOVOMOSKOVSK,Russia
+"Novopolotsk, BY",EUR|BY|BO000|NOVOPOLOTSK,Belarus
+"Novorossiysk, RU",ASI|RU|RS079|NOVOROSSIYSK,Russia
+"Novoshakhtinsk, RU",ASI|RU|RS065|NOVOSHAKHTINSK,Russia
+"Novosibirsk, RU",ASI|RU|RS057|NOVOSIBIRSK,Russia
+"Novotroitsk, RU",ASI|RU|RS057|NOVOTROITSK,Russia
+"Nueva San Salvador, SV",CAC|SV|ES005|NUEVA SAN SALVADOR,El Salvador
+"Nuevo Laredo, MX",NAM|MX|MX028|NUEVO LAREDO,Mexico
+"Nuku'Alofa, TO",OCN|TO|TO002|NUKU'ALOFA,Tonga
+"Nukus, UZ",ASI|UZ|UZ009|NUKUS,Uzbekistan
+"Numazu, JP",ASI|JP|JA038|NUMAZU,Japan
+"Nuneaton, UK",EUR|UK|UK238|NUNEATON,United Kingdom
+"Nuneaton and Bedworth, UK",EUR|UK|UK001|NUNEATON AND BEDWORTH,United Kingdom
+"Nurnberg, DE",EUR|DE|GM002|NÜRNBERG,Germany
+"Nuuk, GL",ARC|GL|GL003|NUUK,Greenland
+"Nyala, SD",AFR|SD|SU016|NYALA,Sudan
+"Nyiregyhaza, HU",EUR|HU|HU029|NYIREGYHAZA,Hungary
+"Nylstroom, ZA",AFR|ZA|SF009|NYLSTROOM,South Africa
+"Oakland, CA, US",NAM|US|CA|OAKLAND,United States
+"Oakville, CA",NAM|CA|ON|OAKVILLE,Canada
+"Oaxaca, MX",NAM|MX|MX020|OAXACA DE JUÁREZ,Mexico
+"Oberhausen, DE",EUR|DE|GM007|OBERHAUSEN,Germany
+"Obihiro, JP",ASI|JP|JA012|OBIHIRO,Japan
+"Obninsk, RU",ASI|RU|RS027|OBNINSK,Russia
+"Obregon, MX",NAM|MX|MX026|CIUDAD OBREGÓN,Mexico
+"Obuasi, GH",AFR|GH|GH000|OBUASI,Ghana
+"Oceanside, CA, US",NAM|US|CA|OCEANSIDE,United States
+"Odawara, JP",ASI|JP|JA019|ODAWARA,Japan
+"Odense, DK",EUR|DK|DA005|ODENSE,Denmark
+"Odessa, UA",EUR|UA|UP015|ODESSA,Ukraine
+"Odintsovo, RU",ASI|RU|RS051|ODINTSOVO,Russia
+"Oestersund, SE",EUR|SE|SW006|OESTERSUND,Sweden
+"Offenbach Am Main, DE",EUR|DE|GM007|OFFENBACH AM MAIN,Germany
+"Ogaki, JP",ASI|JP|JA009|OGAKI,Japan
+"Ogbomosho, NG",AFR|NG|NI000|OGBOMOSHO,Nigeria
+"Ohrigstad, ZA",AFR|ZA|SF006|OHRIGSTAD,South Africa
+"Oita, JP",ASI|JP|JA030|OITA,Japan
+"Okara, PK",ASI|PK|PK007|OKARA,Pakistan
+"Okayama, JP",ASI|JP|JA031|OKAYAMA,Japan
+"Okazaki, JP",ASI|JP|JA001|OKAZAKI,Japan
+"Okinawa, JP",ASI|JP|JA032|OKINAWA,Japan
+"Oklahoma City, OK, US",NAM|US|OK|OKLAHOMA CITY,United States
+"Oldenburg, DE",EUR|DE|GM009|OLDENBURG,Germany
+"Oldham, UK",EUR|UK|UK001|OLDHAM,United Kingdom
+"Olinda, BR",SAM|BR|BR026|OLINDA,Brazil
+"Olomouc, CZ",EUR|CZ|EZ004|OLOMOUC,Czech Republic
+"Olongapo, PH",ASI|PH|RP089|OLONGAPO,Philippines
+"Olsztyn, PL",EUR|PL|PL014|OLSZTYN,Poland
+"Olympia, WA, US",NAM|US|WA|OLYMPIA,United States
+"Omaha, NE, US",NAM|US|NE|OMAHA,United States
+"Omdurman, SD",AFR|SD|SU005|OMDURMAN,Sudan
+"Ome, JP",ASI|JP|JA041|OME,Japan
+"Omiya, JP",ASI|JP|JA014|OMIYA,Japan
+"Omsk, RU",ASI|RU|RS058|OMSK,Russia
+"Omuta, JP",ASI|JP|JA007|OMUTA,Japan
+"Ondal, IN",ASI|IN|IN036|ONDAL,India
+"Ongole, IN",ASI|IN|IN002|ONGOLE,India
+"Onitsha, NG",AFR|NG|NI000|ONITSHA,Nigeria
+"Ontario, CA, US",NAM|US|CA|ONTARIO,United States
+"Onyang, KR",ASI|KR|KS002|ONYANG,South Korea
+"Opole, PL",EUR|PL|PL008|OPOLE,Poland
+"Oradea, RO",EUR|RO|RO005|ORADEA,Romania
+"Oran, DZ",AFR|DZ|AG032|ORAN,Algeria
+"Orange, CA, US",NAM|US|CA|ORANGE,United States
+"Ordu, TR",MEA|TR|TU062|ORDU,Turkey
+"Orebro, SE",EUR|SE|SW011|OREBRO,Sweden
+"Orekhovo-Zuevo, RU",ASI|RU|RS051|OREKHOVO-ZUEVO,Russia
+"Orel, RU",ASI|RU|RS062|OREL,Russia
+"Orenburg, RU",ASI|RU|RS059|ORENBURG,Russia
+"Orizaba, MX",NAM|MX|MX030|ORIZABA,Mexico
+"Orlando, FL, US",NAM|US|FL|ORLANDO,United States
+"Orleans, FR",EUR|FR|FR007|ORLÉANS,France
+"Ormoc, PH",ASI|PH|RP090|ORMOC,Philippines
+"Orsha, BY",EUR|BY|BO007|ORSHA,Belarus
+"Orsk, RU",ASI|RU|RS059|ORSK,Russia
+"Orumiyeh, IR",MEA|IR|IR029|ORUMIYEH,Iran
+"Oruro, BO",SAM|BO|BL005|ORURO,Bolivia
+"Osaka, JP",ASI|JP|JA009|OSAKA,Japan
+"Osasco, BR",SAM|BR|BR023|OSASCO,Brazil
+"Osh, KG",ASI|KG|KG006|OSH,Kyrgyzstan
+"Oshawa, CA",NAM|CA|ON|OSHAWA,Canada
+"Oshogbo, NG",AFR|NG|NI000|OSHOGBO,Nigeria
+"Osijek, HR",EUR|HR|HR011|OSIJEK,Croatia
+"Oslo, NO",EUR|NO|NO011|OSLO,Norway
+"Osmaniye, TR",MEA|TR|TU000|OSMANIYE,Turkey
+"Osnabruck, DE",EUR|DE|GM009|OSNABRÜCK,Germany
+"Osorno, CL",SAM|CL|CI008|OSORNO,Chile
+"Ostrava, CZ",EUR|CZ|EZ004|OSTRAVA,Czech Republic
+"Ota, JP",ASI|JP|JA006|OTA,Japan
+"Otaru, JP",ASI|JP|JA012|OTARU,Japan
+"Otsu, JP",ASI|JP|JA036|OTSU,Japan
+"Ottawa, CA",NAM|CA|ON|OTTAWA,Canada
+"Ouagadougou, BF",AFR|BF|UV010|OUAGADOUGOU,Burkina Faso
+"Oudtshoorn, ZA",AFR|ZA|SF011|OUDTSHOORN,South Africa
+"Oujda, MA",AFR|MA|MO029|OUJDA,Morocco
+"Oulu, FI",EUR|FI|FI007|OULU,Finland
+"Ourense, ES",EUR|ES|SP011|OURENSE,Spain
+"Overland Park, KS, US",NAM|US|KS|OVERLAND PARK,United States
+"Oviedo, ES",EUR|ES|SP003|OVIEDO,Spain
+"Oxford, UK",EUR|UK|UK001|OXFORD,United Kingdom
+"Oxnard, CA, US",NAM|US|CA|OXNARD,United States
+"Oyama, JP",ASI|JP|JA038|OYAMA,Japan
+"Oyo, NG",AFR|NG|NI029|OYO,Nigeria
+"Ozamis, PH",ASI|PH|RP092|OZAMIS,Philippines
+"Paarl, ZA",AFR|ZA|SF011|PAARL,South Africa
+"Pabna, BD",ASI|BD|BG004|PABNA,Bangladesh
+"Pachuca, MX",NAM|MX|MX013|PACHUCA,Mexico
+"Padang, ID",ASI|ID|ID006|PADANG,Indonesia
+"Paderborn, DE",EUR|DE|GM011|PADERBORN,Germany
+"Padova, IT",EUR|IT|IT020|PADOVA,Italy
+"Pagadian, PH",ASI|PH|RP093|PAGADIAN,Philippines
+"Pago Pago, AS",OCN|AS|AS000|PAGO PAGO,American Samoa
+"Pakan Baru, ID",ASI|ID|ID018|PAKAN BARU,Indonesia
+"Pakpattan, PK",ASI|PK|PK007|PAKPATTAN,Pakistan
+"Palembang, ID",ASI|ID|ID024|PALEMBANG,Indonesia
+"Palermo, IT",EUR|IT|IT015|PALERMO,Italy
+"Pali, IN",ASI|IN|IN020|PALI,India
+"Palma De Mallorca, ES",EUR|ES|SP004|PALMA DE MALLORCA,Spain
+"Palmas, BR",SAM|BR|BR015|PALMAS,Brazil
+"Palmdale, CA, US",NAM|US|CA|PALMDALE,United States
+"Palmira, CO",SAM|CO|CO027|PALMIRA,Colombia
+"Pamplona, ES",EUR|ES|SP015|PAMPLONA,Spain
+"Panama, PA",CAC|PA|PM008|PANAMA,Panama
+"Panama City, FL, US",NAM|US|FL|Panama City,United States
+"Pancevo, CS",EUR|CS|YI003|PANCEVO,Serbia
+"Panevezhis, LT",EUR|LT|LH030|PANEVEZHIS,Lithuania
+"Panihati, IN",ASI|IN|IN036|PANIHATI,India
+"Panipat, IN",ASI|IN|IN013|PANIPAT,India
+"Panjin, CN",ASI|CN|CH018|PANJIN,China
+"Panzhihua, CN",ASI|CN|CH026|PANZHIHUA,China
+"Papeete, PF",OCN|PF|FP000|PAPEETE,French Polynesia
+"Parakou, BJ",AFR|BJ|BN000|PARAKOU,Benin
+"Paramaribo, SR",SAM|SR|NS007|PARAMARIBO,Suriname
+"Parana, AR",SAM|AR|AR022|PARANÁ,Argentina
+"Paranagua, BR",SAM|BR|BR015|PARANAGUÁ,Brazil
+"Parbhani, IN",ASI|IN|IN021|PARBHANI,India
+"Paris, FR",EUR|FR|FR012|PARIS,France
+"Parma, IT",EUR|IT|IT005|PARMA,Italy
+"Parnaiba, BR",SAM|BR|BR016|PARNAÍBA,Brazil
+"Pasadena, CA, US",NAM|US|CA|PASADENA,United States
+"Pasadena, TX, US",NAM|US|TX|PASADENA,United States
+"Pasay, PH",ASI|PH|RP098|PASAY,Philippines
+"Pasig, PH",ASI|PH|RP103|PASIG,Philippines
+"Passo Fundo, BR",SAM|BR|BR019|PASSO FUNDO,Brazil
+"Passos, BR",SAM|BR|BR012|PASSOS,Brazil
+"Pasto, CO",SAM|CO|CO018|PASTO,Colombia
+"Patan, IN",ASI|IN|IN012|PATAN,India
+"Paterson, NJ, US",NAM|US|NJ|PATERSON,United States
+"Pathankot, IN",ASI|IN|IN028|PATHANKOT,India
+"Pathum Thani, TH",ASI|TH|TH036|PATHUM THANI,Thailand
+"Patiala, IN",ASI|IN|IN028|PATIALA,India
+"Patos De Minas, BR",SAM|BR|BR012|PATOS DE MINAS,Brazil
+"Patrai, GR",EUR|GR|GR003|PATRAI,Greece
+"Patratu, IN",ASI|IN|IN005|PATRATU,India
+"Pattaya, TH",ASI|TH|TH010|PATTAYA,Thailand
+"Pau, FR",EUR|FR|FR022|PAU,France
+"Paulista, BR",SAM|BR|BR026|PAULISTA,Brazil
+"Pavlodar, KZ",ASI|KZ|KZ010|PAVLODAR,Kazakhstan
+"Pavlograd, UA",EUR|UA|UP003|PAVLOGRAD,Ukraine
+"Pecs, HU",EUR|HU|HU025|PÉCS,Hungary
+"Pegu, MM",ASI|MM|BM002|PEGU,Burma/Myanmar
+"Pelotas, BR",SAM|BR|BR019|PELOTAS,Brazil
+"Pematang Siantar, ID",ASI|ID|ID027|PEMATANG SIANTAR,Indonesia
+"Pemba, MZ",AFR|MZ|MZ001|PEMBA,Mozambique
+"Pembroke Pines, FL, US",NAM|US|FL|PEMBROKE PINES,United States
+"Penza, RU",ASI|RU|RS061|PENZA,Russia
+"Peoria, IL, US",NAM|US|IL|PEORIA,United States
+"Pereira, CO",SAM|CO|CO022|PEREIRA,Colombia
+"Perm, RU",ASI|RU|RS062|PERM,Russia
+"Perpignan, FR",EUR|FR|FR013|PERPIGNAN,France
+"Perth, AU",OCN|AU|WA|PERTH,Australia
+"Perugia, IT",EUR|IT|IT018|PERUGIA,Italy
+"Pervouralsk, RU",ASI|RU|RS075|PERVOURALSK,Russia
+"Pescara, IT",EUR|IT|IT001|PESCARA,Italy
+"Peshawar, PK",ASI|PK|PK005|PESHAWAR,Pakistan
+"Petah Tiqwa, IL",MEA|IL|IS002|PETAH TIQWA,Israel
+"Petaling Jaya, MY",ASI|MY|MY000|PETALING JAYA,Malaysia
+"Petare, VE",SAM|VE|VE016|PETARE,Venezuela
+"Peterborough, CA",NAM|CA|ON|PETERBOROUGH,Canada
+"Peterborough, UK",EUR|UK|UK001|PETERBOROUGH,United Kingdom
+"Petrolina, BR",SAM|BR|BR026|PETROLINA,Brazil
+"Petropavlovsk, KZ",ASI|KZ|KZ015|PETROPAVLOVSK,Kazakhstan
+"Petropavlovsk, RU",ASI|RU|RS028|PETROPAVLOVSK-KAMCHATSKY,Russia
+"Petropolis, BR",SAM|BR|BR017|PETRÓPOLIS,Brazil
+"Petrozavodsk, RU",ASI|RU|RS030|PETROZAVODSK,Russia
+"Petrusburg, ZA",AFR|ZA|SF003|PETRUSBURG,South Africa
+"Pforzheim, DE",EUR|DE|GM001|PFORZHEIM,Germany
+"Phalaborwa, ZA",AFR|ZA|SF009|PHALABORWA,South Africa
+"Philadelphia, PA, US",NAM|US|PA|PHILADELPHIA,United States
+"Philippolis, ZA",AFR|ZA|SF003|PHILIPPOLIS,South Africa
+"Phnom Penh, KH",ASI|KH|CB012|PHNOM PENH,Cambodia
+"Phoenix, AZ, US",NAM|US|AZ|PHOENIX,United States
+"Phuket, TH",ASI|TH|TH047|PHUKET,Thailand
+"Piatra Neamt, RO",EUR|RO|RO029|PIATRA NEAMT,Romania
+"Pierre, SD, US",NAM|US|SD|PIERRE,United States
+"Piet Retief, ZA",AFR|ZA|SF006|PIET RETIEF,South Africa
+"Pietermaritzburg, ZA",AFR|ZA|SF005|PIETERMARITZBURG,South Africa
+"Pietersburg, ZA",AFR|ZA|SF009|PIETERSBURG,South Africa
+"Pilgrims Rest, ZA",AFR|ZA|SF006|PILGRIMS REST,South Africa
+"Pilibhit, IN",ASI|IN|IN033|PILIBHIT,India
+"Pinar Del Rio, CU",CAC|CU|CU012|PINAR DEL RÍO,Cuba
+"Pindamonhangaba, BR",SAM|BR|BR023|PINDAMONHANGABA,Brazil
+"Pingdingshan, CN",ASI|CN|CH012|PINGDINGSHAN,China
+"Pingdu, CN",ASI|CN|CH016|PINGDU,China
+"Pingliang, CN",ASI|CN|CH005|PINGLIANG,China
+"Pinhais, BR",SAM|BR|BR012|PINHAIS,Brazil
+"Pinsk, BY",EUR|BY|BO001|PINSK,Belarus
+"Piracicaba, BR",SAM|BR|BR023|PIRACICABA,Brazil
+"Piraievs, GR",EUR|GR|GR007|PIRAIÉVS,Greece
+"Pitesti, RO",EUR|RO|RO003|PITESTI,Romania
+"Pittsburgh, PA, US",NAM|US|PA|PITTSBURGH,United States
+"Piura, PE",SAM|PE|PE020|PIURA,Peru
+"Plano, TX, US",NAM|US|TX|PLANO,United States
+"Plettenberg Bay, ZA",AFR|ZA|SF011|PLETTENBERG BAY,South Africa
+"Plock, PL",EUR|PL|PL007|PLOCK,Poland
+"Ploiesti, RO",EUR|RO|RO031|PLOIESTI,Romania
+"Plovdiv, BG",EUR|BG|BU013|PLOVDIV,Bulgaria
+"Plymouth, MS",CAC|MS|MH001|PLYMOUTH,Montserrat
+"Plymouth, UK",EUR|UK|UK001|PLYMOUTH,United Kingdom
+"Plzen, CZ",EUR|CZ|EZ008|PLZEN,Czech Republic
+"Pocos De Caldas, BR",SAM|BR|BR012|POÇOS DE CALDAS,Brazil
+"Podgorica, CS",EUR|CS|YI002|PODGORICA,Montenegro
+"Podolsk, RU",ASI|RU|RS051|PODOLSK,Russia
+"Pohang, KR",ASI|KR|KS010|POHANG,South Korea
+"Pointe-Noire, GA",AFR|GA|GB003|POINTE-NOIRE,Gabon
+"Pollachi, IN",ASI|IN|IN031|POLLACHI,India
+"Polokwane, ZA",AFR|ZA|SF009|POLOKWANE,South Africa
+"Poltava, UA",EUR|UA|UP026|POLTAVA,Ukraine
+"Pomona, CA, US",NAM|US|CA|POMONA,United States
+"Ponce, PR",CAC|PR|PR000|PONCE,Puerto Rico
+"Pondicherry, IN",ASI|IN|IN027|PONDICHERRY,India
+"Ponta Delgada, PT",EUR|PT|PO002|PONTA DELGADA,Portugal
+"Ponta do Ouro, MZ",AFR|MZ|MZ005|PONTA DO OURO,Mozambique
+"Ponta Grossa, BR",SAM|BR|BR015|PONTA GROSSA,Brazil
+"Pontianak, ID",ASI|ID|ID006|PONTIANAK,Indonesia
+"Poole, UK",EUR|UK|UK001|POOLE,United Kingdom
+"Popayan, CO",SAM|CO|CO007|POPAYAN,Colombia
+"Porbandar, IN",ASI|IN|IN012|PORBANDAR,India
+"Port Alfred, ZA",AFR|ZA|SF002|PORT ALFRED,South Africa
+"Port Bell, UG",AFR|UG|UG000|PORT BELL,Uganda
+"Port Elizabeth, ZA",AFR|ZA|SF002|PORT ELIZABETH,South Africa
+"Port Harcourt, NG",AFR|NG|NI031|PORT HARCOURT,Nigeria
+"Port Louis, MU",AFR|MU|MP009|PORT LOUIS,Mauritius
+"Port Moresby, PG",OCN|PG|PP013|PORT MORESBY,Papua New Guinea
+"Port Said, EG",AFR|EG|EG019|PORT SAID,Egypt
+"Port Saint Lucie, FL, US",NAM|US|FL|PORT SAINT LUCIE,United States
+"Port Shepstone, ZA",AFR|ZA|SF005|PORT SHEPSTONE,South Africa
+"Port St. Johns, ZA",AFR|ZA|SF002|PORT ST. JOHNS,South Africa
+"Port Sudan, SD",AFR|SD|SU029|PORT SUDAN,Sudan
+"Portalegre, PT",EUR|PT|PO014|PORTALEGRE,Portugal
+"Port-Au-Prince, HT",CAC|HT|HA007|PORT-AU-PRINCE,Haiti
+"Portland, OR, US",NAM|US|OR|PORTLAND,United States
+"Porto, PT",EUR|PT|PO015|PORTO,Portugal
+"Porto Alegre, BR",SAM|BR|BR019|PORTO ALEGRE,Brazil
+"Porto Velho, BR",SAM|BR|BR020|PORTO VELHO,Brazil
+"Port-of-Spain, TT",CAC|TT|TD005|PORT-OF-SPAIN,Trinidad And Tobago
+"Porto-Novo, BJ",AFR|BJ|BN000|PORTO-NOVO,Benin
+"Portoviejo, EC",SAM|EC|EC014|PORTOVIEJO,Ecuador
+"Portsmouth, UK",EUR|UK|UK001|PORTSMOUTH,United Kingdom
+"Portsmouth, VA, US",NAM|US|VA|PORTSMOUTH,United States
+"Posadas, AR",SAM|AR|AR014|POSADAS,Argentina
+"Postmasburg, ZA",AFR|ZA|SF008|POSTMASBURG,South Africa
+"Potchefstroom, ZA",AFR|ZA|SF007|POTCHEFSTROOM,South Africa
+"Potgietersrus, ZA",AFR|ZA|SF009|POTGIETERSRUS,South Africa
+"Potosi, BO",SAM|BO|BL007|POTOSÍ,Bolivia
+"Potsdam, DE",EUR|DE|GM004|POTSDAM,Germany
+"Pouso Alegre, BR",SAM|BR|BR012|POUSO ALEGRE,Brazil
+"Poza Rica De Hidalgo, MX",NAM|MX|MX030|POZA RICA DE HIDALGO,Mexico
+"Poznan, PL",EUR|PL|PL015|POZNAN,Poland
+"Praha, CZ",EUR|CZ|EZ001|PRAHA,Czech Republic
+"Praia, CV",AFR|CV|CV000|PRAIA,Cape Verde
+"Praia Grande, BR",SAM|BR|BR023|PRAIA GRANDE,Brazil
+"Prato, IT",EUR|IT|IT016|PRATO,Italy
+"Presidente Prudente, BR",SAM|BR|BR023|PRESIDENTE PRUDENTE,Brazil
+"Preston, UK",EUR|UK|UK001|PRESTON,United Kingdom
+"Pretoria, ZA",AFR|ZA|SF004|PRETORIA,South Africa
+"Prieska, ZA",AFR|ZA|SF008|PRIESKA,South Africa
+"Prijedor, BA",EUR|BA|BK002|PRIJEDOR,Bosnia And Herzegovina
+"Probolinggo, ID",ASI|ID|ID007|PROBOLINGGO,Indonesia
+"Proddatur, IN",ASI|IN|IN002|PRODDATUR,India
+"Prokpyevsk, RU",ASI|RU|RS031|PROKPYEVSK,Russia
+"Providence, RI, US",NAM|US|RI|PROVIDENCE,United States
+"Provo, UT, US",NAM|US|UT|PROVO,United States
+"Pskov, RU",ASI|RU|RS064|PSKOV,Russia
+"Pucallpa, PE",SAM|PE|PE025|PUCALLPA,Peru
+"Puebla De Zaragoza, MX",NAM|MX|MX021|PUEBLA DE ZARAGOZA,Mexico
+"Pueblo, CO, US",NAM|US|CO|PUEBLO,United States
+"Puente Alto, CL",SAM|CL|CI011|PUENTE ALTO,Chile
+"Puerto Cabello, VE",SAM|VE|VE007|PUERTO CABELLO,Venezuela
+"Puerto Montt, CL",SAM|CL|CI008|PUERTO MONTT,Chile
+"Puerto Princesa, PH",ASI|PH|RP099|PUERTO PRINCESA,Philippines
+"Pune, IN",ASI|IN|IN021|PUNE,India
+"Punta Arenas, CL",SAM|CL|CI009|PUNTA ARENAS,Chile
+"Punto Fijo, VE",SAM|VE|VE012|PUNTO FIJO,Venezuela
+"Puqi, CN",ASI|CN|CH013|PUQI,China
+"Puri, IN",ASI|IN|IN026|PURI,India
+"Purnia, IN",ASI|IN|IN005|PURNIA,India
+"Pusan, KR",ASI|KR|KS012|PUSAN,South Korea
+"Putian, CN",ASI|CN|CH004|PUTIAN,China
+"Puyang, CN",ASI|CN|CH012|PUYANG,China
+"Pyatigorsk, RU",ASI|RU|RS074|PYATIGORSK,Russia
+"Pyongyang, KP",ASI|KP|KN000|PYONGYANG,North Korea
+"Qaem Shahr, IR",MEA|IR|IR021|QAEM SHAHR,Iran
+"Qarchak, IR",MEA|IR|IR026|QARCHAK,Iran
+"Qazvin, IR",MEA|IR|IR028|QAZVIN,Iran
+"Qianjiang, CN",ASI|CN|CH007|QIANJIANG,China
+"Qidong, CN",ASI|CN|CH014|QIDONG,China
+"Qingdao, CN",ASI|CN|CH023|QINGDAO,China
+"Qingtongxia, CN",ASI|CN|CH020|QINGTONGXIA,China
+"Qingyuan, CN",ASI|CN|CH018|QINGYUAN,China
+"Qingzhou, CN",ASI|CN|CH004|QINGZHOU,China
+"Qinhuangdao, CN",ASI|CN|CH010|QINHUANGDAO,China
+"Qinyang, CN",ASI|CN|CH012|QINYANG,China
+"Qinzhou, CN",ASI|CN|CH007|QINZHOU,China
+"Qiqihar, CN",ASI|CN|CH011|QIQIHAR,China
+"Qitaihe, CN",ASI|CN|CH011|QITAIHE,China
+"Qods, IR",MEA|IR|IR024|QODS,Iran
+"Qom, IR",MEA|IR|IR020|QOM,Iran
+"Quanzhou, CN",ASI|CN|CH004|QUANZHOU,China
+"Quebec, CA",NAM|CA|QC|QUÉBEC,Canada
+"Queenstown, ZA",AFR|ZA|SF002|QUEENSTOWN,South Africa
+"Queimados, BR",SAM|BR|BR017|QUEIMADOS,Brazil
+"Quelimane, MZ",AFR|MZ|MZ010|QUELIMANE,Mozambique
+"Queretaro, MX",NAM|MX|MX022|QUERÉTARO,Mexico
+"Quetta, PK",ASI|PK|PK002|QUETTA,Pakistan
+"Quevedo, EC",SAM|EC|EC013|QUEVEDO,Ecuador
+"Quezon City, PH",ASI|PH|RP100|QUEZON CITY,Philippines
+"Qufu, CN",ASI|CN|CH023|QUFU,China
+"Qui Nhon, VN",ASI|VN|VM019|QUI NHON,Vietnam
+"Quilmes, AR",SAM|AR|AR001|QUILMES,Argentina
+"Quilpue, CL",SAM|CL|CI013|QUILPUÉ,Chile
+"Quito, EC",SAM|EC|EC017|QUITO,Ecuador
+"Qujing, CN",ASI|CN|CH030|QUJING,China
+"Quzhou, CN",ASI|CN|CH010|QUZHOU,China
+"Rabat, MA",AFR|MA|MO030|RABAT,Morocco
+"Rach Gia, VN",ASI|VN|VM060|RACH GIA,Vietnam
+"Radom, PL",EUR|PL|PL007|RADOM,Poland
+"Rae Bareli, IN",ASI|IN|IN033|RAE BARELI,India
+"Rahimyar Khan, PK",ASI|PK|PK007|RAHIMYAR KHAN,Pakistan
+"Raichur, IN",ASI|IN|IN017|RAICHUR,India
+"Raiganj, IN",ASI|IN|IN036|RAIGANJ,India
+"Raipur, IN",ASI|IN|IN033|RAIPUR,India
+"Rajahmundry, IN",ASI|IN|IN002|RAJAHMUNDRY,India
+"Rajapalaiyam, IN",ASI|IN|IN031|RAJAPALAIYAM,India
+"Rajkot, IN",ASI|IN|IN012|RAJKOT,India
+"Rajnandgain, IN",ASI|IN|IN020|RAJNANDGAIN,India
+"Rajshahi, BD",ASI|BD|BG004|RAJSHAHI,Bangladesh
+"Raleigh, NC, US",NAM|US|NC|RALEIGH,United States
+"Ramadi, IQ",MEA|IQ|IZ001|RAMADI,Iraq
+"Ramat Gan, IL",MEA|IL|IS005|RAMAT GAN,Israel
+"Rampur, IN",ASI|IN|IN036|RAMPUR,India
+"Ranaghat, IN",ASI|IN|IN036|RANAGHAT,India
+"Rancagua, CL",SAM|CL|CI007|RANCAGUA,Chile
+"Ranchi, IN",ASI|IN|IN005|RANCHI,India
+"Rancho Cucamonga, CA, US",NAM|US|CA|RANCHO CUCAMONGA,United States
+"Randers, DK",EUR|DK|DA001|RANDERS,Denmark
+"Rangpur, BD",ASI|BD|BG004|RANGPUR,Bangladesh
+"Rarotonga, CK",OCN|CK|CW---|RAROTONGA,Cook Islands
+"Ras Al Khaimah, AE",MEA|AE|AE006|RAS AL KHAIMAH,United Arab Emirates
+"Rasht, IR",MEA|IR|IR008|RASHT,Iran
+"Ratlam, IN",ASI|IN|IN020|RATLAM,India
+"Raurkela, IN",ASI|IN|IN026|RAURKELA,India
+"Ravenna, IT",EUR|IT|IT005|RAVENNA,Italy
+"Rawalpindi, PK",ASI|PK|PK007|RAWALPINDI,Pakistan
+"Rayong, TH",ASI|TH|TH052|RAYONG,Thailand
+"Reading, UK",EUR|UK|UK001|READING,United Kingdom
+"Recife, BR",SAM|BR|BR026|RECIFE,Brazil
+"Recklinghausen, DE",EUR|DE|GM011|RECKLINGHAUSEN,Germany
+"Redbridge, UK",EUR|UK|UK001|REDBRIDGE,United Kingdom
+"Regensburg, DE",EUR|DE|GM002|REGENSBURG,Germany
+"Reggio Di Calabria, IT",EUR|IT|IT003|REGGIO DI CALABRIA,Italy
+"Regina, CA",NAM|CA|SK|REGINA,Canada
+"Reigate, UK",EUR|UK|UK224|REIGATE,United Kingdom
+"Reigate and Banstead, UK",EUR|UK|UK001|REIGATE AND BANSTEAD,United Kingdom
+"Reims, FR",EUR|FR|FR008|REIMS,France
+"Remscheid, DE",EUR|DE|GM011|REMSCHEID,Germany
+"Rennes, FR",EUR|FR|FR006|RENNES,France
+"Reno, NV, US",NAM|US|NV|RENO,United States
+"Renqiu, CN",ASI|CN|CH010|RENQIU,China
+"Resende, BR",SAM|BR|BR017|RESENDE,Brazil
+"Resistencia, AR",SAM|AR|AR003|RESISTENCIA,Argentina
+"Reutlingen, DE",EUR|DE|GM001|REUTLINGEN,Germany
+"Rewa, IN",ASI|IN|IN020|REWA,India
+"Reykjavik, IS",ARC|IS|IC010|REYKJAVIK,Iceland
+"Reynosa, MX",NAM|MX|MX028|REYNOSA,Mexico
+"Rhondda Cynon Taff, UK",EUR|UK|UK004|RHONDDA CYNON TAFF,United Kingdom
+"Ribeirao Das Neves, BR",SAM|BR|BR012|RIBEIRAO DAS NEVES,Brazil
+"Ribeirao Pires, BR",SAM|BR|BR023|RIBEIRAO PIRES,Brazil
+"Ribeirao Preto, BR",SAM|BR|BR023|RIBEIRAO PRÊTO,Brazil
+"Richards Bay, ZA",AFR|ZA|SF005|RICHARDS BAY,South Africa
+"Richmond, CA",NAM|CA|BC|RICHMOND,Canada
+"Richmond, VA, US",NAM|US|VA|RICHMOND,United States
+"Richmond Hill, CA",NAM|CA|ON|RICHMOND HILL,Canada
+"Riga, LV",EUR|LV|LG026|RIGA,Latvia
+"Rijeka, HR",EUR|HR|HR013|RIJEKA,Croatia
+"Rimini, IT",EUR|IT|IT005|RIMINI,Italy
+"Rimnicu Vilcea, RO",EUR|RO|RO039|RIMNICU VILCEA,Romania
+"Rio Branco, BR",SAM|BR|BR001|RIO BRANCO,Brazil
+"Rio Claro, BR",SAM|BR|BR017|RIO CLARO,Brazil
+"Rio Cuarto, AR",SAM|AR|AR005|RÍO CUARTO,Argentina
+"Rio De Janeiro, BR",SAM|BR|BR017|RIO DE JANEIRO,Brazil
+"Rio Grande, BR",SAM|BR|BR019|RIO GRANDE,Brazil
+"Rio Verde, BR",SAM|BR|BR027|RIO VERDE,Brazil
+"Riobamba, EC",SAM|EC|EC005|RIOBAMBA,Ecuador
+"Rishon Leziyyon, IL",MEA|IL|IS002|RISHON LEZIYYON,Israel
+"Riversdale, ZA",AFR|ZA|SF011|RIVERSDALE,South Africa
+"Riverside, CA, US",NAM|US|CA|RIVERSIDE,United States
+"Riyadh, SA",MEA|SA|SA007|RIYADH,Saudi Arabia
+"Rizhao, CN",ASI|CN|CH023|RIZHAO,China
+"Road Town, VG",CAC|VG|VI---|ROAD TOWN,British Virgin Islands
+"Robertson, ZA",AFR|ZA|SF011|ROBERTSON,South Africa
+"Rochdale, UK",EUR|UK|UK001|ROCHDALE,United Kingdom
+"Rochester, NY, US",NAM|US|NY|ROCHESTER,United States
+"Rock Springs, MD, US",NAM|US|MD|ROCK SPRINGS,United States
+"Rock Springs, WY, US",NAM|US|WY|ROCK SPRINGS,United States
+"Rockford, IL, US",NAM|US|IL|ROCKFORD,United States
+"Rohtak, IN",ASI|IN|IN013|ROHTAK,India
+"Roma, IT",EUR|IT|IT007|ROMA,Italy
+"Rondonopolis, BR",SAM|BR|BR010|RONDONÓPOLIS,Brazil
+"Rongcheng, CN",ASI|CN|CH010|RONGCHENG,China
+"Roodepoort, ZA",AFR|ZA|SF004|ROODEPOORT,South Africa
+"Rosario, AR",SAM|AR|AR021|ROSARIO,Argentina
+"Roseau, DM",CAC|DM|DO003|ROSEAU,Dominica
+"Roskilde, DK",EUR|DK|DA010|ROSKILDE,Denmark
+"Rostock, DE",EUR|DE|GM010|ROSTOCK,Germany
+"Rostov-Na-Donu, RU",ASI|RU|RS065|ROSTOV-NA-DONU,Russia
+"Roswell, NM, US",NAM|US|NM|Roswell,United States
+"Rotherham, UK",EUR|UK|UK001|ROTHERHAM,United Kingdom
+"Rotterdam, NL",EUR|NL|NL012|ROTTERDAM,Netherlands
+"Rouen, FR",EUR|FR|FR011|ROUEN,France
+"Rousse, BG",EUR|BG|BU015|ROUSSÉ,Bulgaria
+"Rovno, UA",EUR|UA|UP016|ROVNO,Ukraine
+"Roxas, PH",ASI|PH|RP027|ROXAS,Philippines
+"Rubtsovsk, RU",ASI|RU|RS003|RUBTSOVSK,Russia
+"Ruda Slaska, PL",EUR|PL|PL012|RUDA SLASKA,Poland
+"Ruian, CN",ASI|CN|CH004|RUIAN,China
+"Ruichang, CN",ASI|CN|CH016|RUICHANG,China
+"Rustavi, GE",ASI|GE|GG000|RUSTAVI,Georgia
+"Rustenburg, ZA",AFR|ZA|SF007|RUSTENBURG,South Africa
+"Ruzhou, CN",ASI|CN|CH004|RUZHOU,China
+"Rybinsk, RU",ASI|RU|RS079|RYBINSK,Russia
+"Rybnik, PL",EUR|PL|PL012|RYBNIK,Poland
+"Ryzan, RU",ASI|RU|RS066|RYZAN,Russia
+"Rzeszow, PL",EUR|PL|PL009|RZESZÓW,Poland
+"Saarbrucken, DE",EUR|DE|GM013|SAARBRÜCKEN,Germany
+"Sabadell, ES",EUR|ES|SP008|SABADELL,Spain
+"Sabara, BR",SAM|BR|BR012|SABÁRA,Brazil
+"Sabie, ZA",AFR|ZA|SF006|SABIE,South Africa
+"Sacramento, CA, US",NAM|US|CA|SACRAMENTO,United States
+"Sadiqabad, PK",ASI|PK|PK007|SADIQABAD,Pakistan
+"Saelen, SE",EUR|SE|SW002|SAELEN,Sweden
+"Safi, MA",AFR|MA|MO031|SAFI,Morocco
+"Saga, JP",ASI|JP|JA020|SAGA,Japan
+"Sagamihara, JP",ASI|JP|JA019|SAGAMIHARA,Japan
+"Saharanpur, IN",ASI|IN|IN033|SAHARANPUR,India
+"Sahiwal, PK",ASI|PK|PK007|SAHIWAL,Pakistan
+"Saidpur, BD",ASI|BD|BG004|SAIDPUR,Bangladesh
+"Saint Catharines, CA",NAM|CA|ON|SAINT CATHARINES,Canada
+"Saint Etienne, FR",EUR|FR|FR022|SAINT-ÉTIENNE,France
+"Saint Francis, ZA",AFR|ZA|SF002|SAINT FRANCIS,South Africa
+"Saint George'S, GD",CAC|GD|GJ003|SAINT GEORGE'S,Grenada
+"Saint John, AG",CAC|AG|AC003|SAINT JOHN,Antigua And Barbuda
+"Saint John, CA",NAM|CA|NB|SAINT JOHN,Canada
+"Saint John'S, CA",NAM|CA|QC|SAINT JOHN'S,Canada
+"Saint Louis, SN",AFR|SN|SG000|SAINT LOUIS,Senegal
+"Saint Louis, MO, US",NAM|US|MO|SAINT LOUIS,United States
+"Saint Lucia, ZA",AFR|ZA|SF005|SAINT LUCIA,South Africa
+"Saint Paul, MN, US",NAM|US|MN|SAINT PAUL,United States
+"Saint Petersburg, RU",ASI|RU|RS073|SAINT PETERSBURG,Russia
+"Saint-Denis, RE",AFR|RE|RE---|SAINT-DENIS,Reunion
+"Saint-Pierre, PM",NAM|PM|SB000|SAINT-PIERRE,Saint Pierre And Miquelon
+"Sakai, JP",ASI|JP|JA014|SAKAI,Japan
+"Sakarya, TR",MEA|TR|TU065|SAKARYA,Turkey
+"Salamanca, MX",NAM|MX|MX011|SALAMANCA,Mexico
+"Salamanca, ES",EUR|ES|SP007|SALAMANCA,Spain
+"Salavat, RU",ASI|RU|RS007|SALAVAT,Russia
+"Saldanha, ZA",AFR|ZA|SF011|SALDANHA,South Africa
+"Sale, MA",AFR|MA|MO030|SALÉ,Morocco
+"Salem, IN",ASI|IN|IN031|SALEM,India
+"Salem, OR, US",NAM|US|OR|SALEM,United States
+"Salerno, IT",EUR|IT|IT003|SALERNO,Italy
+"Salford, UK",EUR|UK|UK001|SALFORD,United Kingdom
+"Salinas, CA, US",NAM|US|CA|SALINAS,United States
+"Salisbury, UK",EUR|UK|UK001|SALISBURY,United Kingdom
+"Salonika, GR",EUR|GR|GR048|SALONIKA,Greece
+"Salt Lake City, UT, US",NAM|US|UT|SALT LAKE CITY,United States
+"Salta, AR",SAM|AR|AR017|SALTA,Argentina
+"Saltillo, MX",NAM|MX|MX007|SALTILLO,Mexico
+"Salvador, BR",SAM|BR|BR005|SALVADOR,Brazil
+"Salzburg, AT",EUR|AT|AU005|SALZBURG,Austria
+"Salzgitter, DE",EUR|DE|GM009|SALZGITTER,Germany
+"Samara, RU",ASI|RU|RS068|SAMARA,Russia
+"Samarinda, ID",ASI|ID|ID013|SAMARINDA,Indonesia
+"Samarkand, UZ",ASI|UZ|UZ010|SAMARKAND,Uzbekistan
+"Sambalpur, IN",ASI|IN|IN026|SAMBALPUR,India
+"Sambhal, IN",ASI|IN|IN033|SAMBHAL,India
+"Samsun, TR",MEA|TR|TU066|SAMSUN,Turkey
+"Samut Prakan, TH",ASI|TH|TH056|SAMUT PRAKAN,Thailand
+"Samut Sakhon, TH",ASI|TH|TH057|SAMUT SAKHON,Thailand
+"San Antonio, TX, US",NAM|US|TX|SAN ANTONIO,United States
+"San Bernardino, CA, US",NAM|US|CA|SAN BERNARDINO,United States
+"San Bernardo, CL",SAM|CL|CI011|SAN BERNARDO,Chile
+"San Carlos, PH",ASI|PH|RP107|SAN CARLOS,Philippines
+"San Cristobal, VE",SAM|VE|VE021|SAN CRISTÓBAL,Venezuela
+"San Diego, CA, US",NAM|US|CA|SAN DIEGO,United States
+"San Fernando, AR",SAM|AR|AR001|SAN FERNANDO,Argentina
+"San Francisco, CA, US",NAM|US|CA|SAN FRANCISCO,United States
+"San Isidro, AR",SAM|AR|AR001|SAN ISIDRO,Argentina
+"San Jose, CR",CAC|CR|CS007|SAN JOSE,Costa Rica
+"San Jose, CA, US",NAM|US|CA|SAN JOSE,United States
+"San Juan, AR",SAM|AR|AR018|SAN JUAN,Argentina
+"San Juan, PR",CAC|PR|PR000|SAN JUAN,Puerto Rico
+"San Lorenzo, PY",SAM|PY|PA008|SAN LORENZO,Paraguay
+"San Luis Potosi, MX",NAM|MX|MX024|SAN LUIS POTOSÍ,Mexico
+"San Marino, SM",EUR|SM|SM008|SAN MARINO,San Marino
+"San Martin, SV",CAC|SV|ES010|SAN MARTIN,El Salvador
+"San Miguel, SV",CAC|SV|ES010|SAN MIGUEL,El Salvador
+"San Miguelito, PA",CAC|PA|PM008|SAN MIGUELITO,Panama
+"San Nicolas, AR",SAM|AR|AR001|SAN NICOLÁS,Argentina
+"San Pablo, PH",ASI|PH|RP110|SAN PABLO,Philippines
+"San Pedro De Macoris, DO",CAC|DO|DR026|SAN PEDRO DE MACORIS,Dominican Republic
+"San Pedro Sula, HN",CAC|HN|HO006|SAN PEDRO SULA,Honduras
+"San Salvador, SV",CAC|SV|ES010|SAN SALVADOR,El Salvador
+"San Salvador De Jujuy, AR",SAM|AR|AR010|SAN SALVADOR DE JUJUY,Argentina
+"San Sebastian, ES",EUR|ES|SP011|SAN SEBASTIÁN,Spain
+"Sanaa, YE",MEA|YE|YM000|SANAA,Yemen
+"Sanandaj, IR",MEA|IR|IR018|SANANDAJ,Iran
+"Sancti Spiritus, CU",CAC|CU|CU013|SANCTI SPÍRITUS,Cuba
+"Sanda, JP",ASI|JP|JA013|SANDA,Japan
+"Sandakan, MY",ASI|MY|MY011|SANDAKAN,Malaysia
+"Sandton, ZA",AFR|ZA|SF004|SANDTON,South Africa
+"Sandwell, UK",EUR|UK|UK001|SANDWELL,United Kingdom
+"Sangli, IN",ASI|IN|IN021|SANGLI,India
+"Sanmenxia, CN",ASI|CN|CH012|SANMENXIA,China
+"Sanming, CN",ASI|CN|CH004|SANMING,China
+"Santa Ana, SV",CAC|SV|ES012|SANTA ANA,El Salvador
+"Santa Ana, CA, US",NAM|US|CA|SANTA ANA,United States
+"Santa Clara, CU",CAC|CU|CU015|SANTA CLARA,Cuba
+"Santa Clara, CA, US",NAM|US|CA|SANTA CLARA,United States
+"Santa Clarita, CA, US",NAM|US|CA|SANTA CLARITA,United States
+"Santa Coloma De Gramanet, ES",EUR|ES|SP008|SANTA COLOMA DE GRAMANET,Spain
+"Santa Cruz, BO",SAM|BO|BL003|SANTA CRUZ,Bolivia
+"Santa Cruz De Tenerife, ES",EUR|ES|SP018|SANTA CRUZ DE TENERIFE,Spain
+"Santa Cruz Do Sul, BR",SAM|BR|BR019|SANTA CRUZ DO SUL,Brazil
+"Santa Fe, AR",SAM|AR|AR021|SANTA FÉ,Argentina
+"Santa Fe, NM, US",NAM|US|NM|SANTA FE,United States
+"Santa Fe De Bogota, CO",SAM|CO|CO000|SANTA FE DE BOGOTA,Colombia
+"Santa Luzia, BR",SAM|BR|BR014|SANTA LUZIA,Brazil
+"Santa Maria, BR",SAM|BR|BR019|SANTA MARIA,Brazil
+"Santa Marta, CO",SAM|CO|CO018|SANTA MARTA,Colombia
+"Santa Rita, BR",SAM|BR|BR014|SANTA RITA,Brazil
+"Santa Rosa, CA, US",NAM|US|CA|SANTA ROSA,United States
+"Santander, ES",EUR|ES|SP005|SANTANDER,Spain
+"Santarem, BR",SAM|BR|BR013|SANTARÉM,Brazil
+"Santarém, PT",EUR|PT|PO016|SANTARÉM,Portugal
+"Santiago, CL",SAM|CL|CI011|SANTIAGO,Chile
+"Santiago De Cuba, CU",CAC|CU|CU014|SANTIAGO DE CUBA,Cuba
+"Santiago De Los Caballeros, DO",CAC|DO|DR028|SANTIAGO DE LOS CABALLEROS,Dominican Republic
+"Santiago Del Estero, AR",SAM|AR|AR022|SANTIAGO DEL ESTERO,Argentina
+"Santipur, IN",ASI|IN|IN036|SANTIPUR,India
+"Santo Andre, BR",SAM|BR|BR023|SANTO ANDRÉ,Brazil
+"Santo Domingo, DO",CAC|DO|DR005|SANTO DOMINGO,Dominican Republic
+"Santo Domingo De Los Colorados, EC",SAM|EC|EC017|SANTO DOMINGO DE LOS COLORADOS,Ecuador
+"Santos, BR",SAM|BR|BR023|SANTOS,Brazil
+"Sanya, CN",ASI|CN|CH009|SANYA,China
+"Sao Bernardo Do Campo, BR",SAM|BR|BR023|SAO BERNARDO DO CAMPO,Brazil
+"Sao Caetano Do Sul, BR",SAM|BR|BR023|SAO CAETANO DO SUL,Brazil
+"Sao Goncalo, BR",SAM|BR|BR014|SAO GONÇALO,Brazil
+"Sao Joao De Meriti, BR",SAM|BR|BR017|SAO JOAO DE MERITI,Brazil
+"Sao Jose Do Rio Preto, BR",SAM|BR|BR017|SAO JOSÉ DO RIO PRÊTO,Brazil
+"Sao Jose Dos Campos, BR",SAM|BR|BR012|SAO JOSÉ DOS CAMPOS,Brazil
+"Sao Jose Dos Pinhais, BR",SAM|BR|BR015|SAO JOSÉ DOS PINHAIS,Brazil
+"Sao Leopoldo, BR",SAM|BR|BR019|SAO LEOPOLDO,Brazil
+"Sao Paulo, BR",SAM|BR|BR023|SAO PAULO,Brazil
+"Sao Tome, ST",AFR|ST|TP002|SAO TOME,Sao Tome And Principe
+"Sao Vicente, BR",SAM|BR|BR023|SAO VICENTE,Brazil
+"Sapporo, JP",ASI|JP|JA012|SAPPORO,Japan
+"Saraburi, TH",ASI|TH|TH059|SARABURI,Thailand
+"Sarajevo, BA",EUR|BA|BK001|SARAJEVO,Bosnia And Herzegovina
+"Saransk, RU",ASI|RU|RS050|SARANSK,Russia
+"Saratov, RU",ASI|RU|RS059|SARATOV,Russia
+"Sargodha, PK",ASI|PK|PK007|SARGODHA,Pakistan
+"Sari, IR",MEA|IR|IR021|SARI,Iran
+"Sariwon, KP",ASI|KP|KN004|SARIWON,North Korea
+"Sasebo, JP",ASI|JP|JA027|SASEBO,Japan
+"Saskatoon, CA",NAM|CA|SK|SASKATOON,Canada
+"Sasolburg, ZA",AFR|ZA|SF003|SASOLBURG,South Africa
+"Sassari, IT",EUR|IT|IT014|SASSARI,Italy
+"Satna, IN",ASI|IN|IN020|SATNA,India
+"Satu-Mare, RO",EUR|RO|RO033|SATU-MARE,Romania
+"Savannah, GA, US",NAM|US|GA|SAVANNAH,United States
+"Sayama, JP",ASI|JP|JA035|SAYAMA,Japan
+"Scarborough, CA",NAM|CA|ON|SCARBOROUGH,Canada
+"Scarborough, UK",EUR|UK|UK001|SCARBOROUGH,United Kingdom
+"Schwerin, DE",EUR|DE|GM010|SCHWERIN,Germany
+"Scottsdale, AZ, US",NAM|US|AZ|SCOTTSDALE,United States
+"Seattle, WA, US",NAM|US|WA|SEATTLE,United States
+"Sebha, LY",AFR|LY|LY018|SEBHA,Libya
+"Sedgefield, ZA",AFR|ZA|SF011|SEDGEFIELD,South Africa
+"Sefton, UK",EUR|UK|UK001|SEFTON,United Kingdom
+"Sekondi-Takoradi, GH",AFR|GH|GH000|SEKONDI-TAKORADI,Ghana
+"Selebi-Phikwe, BW",AFR|BW|BC001|SELEBI-PHIKWE,Botswana
+"Semarang, ID",ASI|ID|ID004|SEMARANG,Indonesia
+"Semipalatinsk, KZ",ASI|KZ|KZ014|SEMIPALATINSK,Kazakhstan
+"Sendai, JP",ASI|JP|JA018|SENDAI,Japan
+"Seoul, KR",ASI|KR|KS013|SEOUL,South Korea
+"Serampore, IN",ASI|IN|IN036|SERAMPORE,India
+"Seremban, MY",ASI|MY|MY006|SEREMBAN,Malaysia
+"Serowe, BW",AFR|BW|BC000|SEROWE,Botswana
+"Serpukhov, RU",ASI|RU|RS051|SERPUKHOV,Russia
+"Serra, BR",SAM|BR|BR023|SERRA,Brazil
+"Sertaozinho, BR",SAM|BR|BR023|SERTAOZINHO,Brazil
+"Sete Lagoas, BR",SAM|BR|BR012|SETE LAGOAS,Brazil
+"Setif, DZ",AFR|DZ|AG037|SETIF,Algeria
+"Seto, JP",ASI|JP|JA001|SETO,Japan
+"Setúbal, PT",EUR|PT|PO017|SETÚBAL,Portugal
+"Sevastopol, UA",EUR|UA|UP011|SEVASTOPOL,Ukraine
+"Sevenoaks, UK",EUR|UK|UK001|SEVENOAKS,United Kingdom
+"Severodonetsk, UA",EUR|UA|UP012|SEVERODONETSK,Ukraine
+"Severodvinsk, RU",ASI|RU|RS005|SEVERODVINSK,Russia
+"Seversk, RU",ASI|RU|RS079|SEVERSK,Russia
+"Sevilla, ES",EUR|ES|SP001|SEVILLA,Spain
+"Sfax, TN",AFR|TN|TS015|SFAX,Tunisia
+"S-Gravenhage, NL",EUR|NL|NL012|S-GRAVENHAGE,Netherlands
+"Shah Alam, MY",ASI|MY|MY000|SHAH ALAM,Malaysia
+"Shahe, CN",ASI|CN|CH001|SHAHE,China
+"Shahjahanpur, IN",ASI|IN|IN033|SHAHJAHANPUR,India
+"Shahrud, IR",MEA|IR|IR024|SHAHRUD,Iran
+"Shakhty, RU",ASI|RU|RS065|SHAKHTY,Russia
+"Shanghai, CN",ASI|CN|CH024|SHANGHAI,China
+"Shangluo, CN",ASI|CN|CH022|SHANGLUO,China
+"Shangqiu, CN",ASI|CN|CH012|SHANGQIU,China
+"Shangrao, CN",ASI|CN|CH016|SHANGRAO,China
+"Shangzhi, CN",ASI|CN|CH011|SHANGZHI,China
+"Shangzhou, CN",ASI|CN|CH026|SHANGZHOU,China
+"Shantou, CN",ASI|CN|CH006|SHANTOU,China
+"Shanwei, CN",ASI|CN|CH004|SHANWEI,China
+"Shaoguan, CN",ASI|CN|CH006|SHAOGUAN,China
+"Shaowu, CN",ASI|CN|CH004|SHAOWU,China
+"Shaoxing, CN",ASI|CN|CH031|SHAOXING,China
+"Shaoyang, CN",ASI|CN|CH014|SHAOYANG,China
+"Sharjah, AE",MEA|AE|AE004|SHARJAH,United Arab Emirates
+"Shashi, CN",ASI|CN|CH001|SHASHI,China
+"Shchelkovo, RU",ASI|RU|RS051|SHCHELKOVO,Russia
+"Sheffield, UK",EUR|UK|UK001|SHEFFIELD,United Kingdom
+"Shenyang, CN",ASI|CN|CH018|SHENYANG,China
+"Shenzhen, CN",ASI|CN|CH031|SHENZHEN,China
+"Sherbrooke, CA",NAM|CA|NS|SHERBROOKE,Canada
+"S-Hertogenbosch, NL",EUR|NL|NL007|S-HERTOGENBOSCH,Netherlands
+"Shihezi, CN",ASI|CN|CH028|SHIHEZI,China
+"Shijiazhuang, CN",ASI|CN|CH010|SHIJIAZHUANG,China
+"Shillong, IN",ASI|IN|IN023|SHILLONG,India
+"Shimizu, JP",ASI|JP|JA029|SHIMIZU,Japan
+"Shimoga, IN",ASI|IN|IN017|SHIMOGA,India
+"Shimonoseki, JP",ASI|JP|JA046|SHIMONOSEKI,Japan
+"Shinyanga, TZ",AFR|TZ|TZ000|SHINYANGA,Tanzania
+"Shiraz, IR",MEA|IR|IR007|SHIRAZ,Iran
+"Shishi, CN",ASI|CN|CH004|SHISHI,China
+"Shishou, CN",ASI|CN|CH013|SHISHOU,China
+"Shiyan, CN",ASI|CN|CH013|SHIYAN,China
+"Shizuishan, CN",ASI|CN|CH020|SHIZUISHAN,China
+"Shizuoka, JP",ASI|JP|JA038|SHIZUOKA,Japan
+"Shreveport, LA, US",NAM|US|LA|SHREVEPORT,United States
+"Shuangcheng, CN",ASI|CN|CH011|SHUANGCHENG,China
+"Sibiu, RO",EUR|RO|RO034|SIBIU,Romania
+"Sibu, MY",ASI|MY|MY012|SIBU,Malaysia
+"Sidi-Bel-Abbes, DZ",AFR|DZ|AG038|SIDI-BEL-ABBES,Algeria
+"Sidon, LB",MEA|LB|LE000|SIDON,Lebanon
+"Siegen, DE",EUR|DE|GM011|SIEGEN,Germany
+"Siirt, TR",MEA|TR|TU000|SIIRT,Turkey
+"Sikar, IN",ASI|IN|IN029|SIKAR,India
+"Silay, PH",ASI|PH|RP111|SILAY,Philippines
+"Silchar, IN",ASI|IN|IN004|SILCHAR,India
+"Siliguri, IN",ASI|IN|IN036|SILIGURI,India
+"Silkeborg, DK",EUR|DK|DA001|SILKEBORG,Denmark
+"Simferopol, UA",EUR|UA|UP011|SIMFEROPOL,Ukraine
+"Simi Valley, CA, US",NAM|US|CA|SIMI VALLEY,United States
+"Sincelejo, CO",SAM|CO|CO025|SINCELEJO,Colombia
+"Singapore, SG",ASI|SG|SN---|SINGAPORE,Singapore
+"Sioux Falls, SD, US",NAM|US|SD|SIOUX FALLS,United States
+"Siracusa, IT",EUR|IT|IT015|SIRACUSA,Italy
+"Sirjan, IR",MEA|IR|IR013|SIRJAN,Iran
+"Sirsa, IN",ASI|IN|IN013|SIRSA,India
+"Sitapur, IN",ASI|IN|IN033|SITAPUR,India
+"Sittwe, MM",ASI|MM|BM010|SITTWE,Burma/Myanmar
+"Sivakasi, IN",ASI|IN|IN031|SIVAKASI,India
+"Sivas, TR",MEA|TR|TU071|SIVAS,Turkey
+"Skikda, DZ",AFR|DZ|AG015|SKIKDA,Algeria
+"Skive, DK",EUR|DK|DA016|SKIVE,Denmark
+"Skoevde, SE",EUR|SE|SW021|SKOEVDE,Sweden
+"Skoplje, MK",EUR|MK|MK000|SKOPLJE,Macedonia
+"Skukuza, ZA",AFR|ZA|SF006|SKUKUZA,South Africa
+"Slagelse, DK",EUR|DK|DA015|SLAGELSE,Denmark
+"Slangkop, ZA",AFR|ZA|SF011|SLANGKOP,South Africa
+"Slavyansk, UA",EUR|UA|UP004|SLAVYANSK,Ukraine
+"Slough, UK",EUR|UK|UK001|SLOUGH,United Kingdom
+"Slupsk, PL",EUR|PL|PL011|SLUPSK,Poland
+"Smederevo, CS",EUR|CS|YI003|SMEDEREVO,Serbia
+"Smithfield, ZA",AFR|ZA|SF003|SMITHFIELD,South Africa
+"Smolensk, RU",ASI|RU|RS072|SMOLENSK,Russia
+"Soacha, CO",SAM|CO|CO011|SOACHA,Colombia
+"Sobral, BR",SAM|BR|BR006|SOBRAL,Brazil
+"Sochi, RU",ASI|RU|RS040|SOCHI,Russia
+"Soenderborg, DK",EUR|DK|DA011|SOENDERBORG,Denmark
+"Sofia, BG",EUR|BG|BU021|SOFIA,Bulgaria
+"Sogamoso, CO",SAM|CO|CO000|SOGAMOSO,Colombia
+"Sohag, EG",AFR|EG|EG023|SOHAG,Egypt
+"Soka, JP",ASI|JP|JA035|SOKA,Japan
+"Solapur, IN",ASI|IN|IN021|SOLAPUR,India
+"Soledad, CO",SAM|CO|CO004|SOLEDAD,Colombia
+"Soligorsk, BY",EUR|BY|BO004|SOLIGORSK,Belarus
+"Solihull, UK",EUR|UK|UK001|SOLIHULL,United Kingdom
+"Solikamsk, RU",ASI|RU|RS062|SOLIKAMSK,Russia
+"Solingen, DE",EUR|DE|GM011|SOLINGEN,Germany
+"Somerset East, ZA",AFR|ZA|SF002|SOMERSET EAST,South Africa
+"Somerset West, ZA",AFR|ZA|SF011|SOMERSET WEST,South Africa
+"Songkhla, TH",ASI|TH|TH063|SONGKHLA,Thailand
+"Sonipat, IN",ASI|IN|IN013|SONIPAT,India
+"Sorocaba, BR",SAM|BR|BR023|SOROCABA,Brazil
+"Soroti, UG",AFR|UG|UG000|SOROTI,Uganda
+"Sosnowiec, PL",EUR|PL|PL012|SOSNOWIEC,Poland
+"South Bend, IN, US",NAM|US|IN|SOUTH BEND,United States
+"South Dum Dum, IN",ASI|IN|IN036|SOUTH DUM DUM,India
+"Southampton, UK",EUR|UK|UK001|SOUTHAMPTON,United Kingdom
+"Southend-On-Sea, UK",EUR|UK|UK001|SOUTHEND-ON-SEA,United Kingdom
+"Southwark, UK",EUR|UK|UK001|SOUTHWARK,United Kingdom
+"Soweto, ZA",AFR|ZA|SF004|SOWETO,South Africa
+"Soyapango, SV",CAC|SV|ES010|SOYAPANGO,El Salvador
+"Split, HR",EUR|HR|HR016|SPLIT,Croatia
+"Spokane, WA, US",NAM|US|WA|SPOKANE,United States
+"Springbok, ZA",AFR|ZA|SF008|SPRINGBOK,South Africa
+"Springfield, IL, US",NAM|US|IL|SPRINGFIELD,United States
+"Springfield, MA, US",NAM|US|MA|SPRINGFIELD,United States
+"Springfield, MO, US",NAM|US|MO|SPRINGFIELD,United States
+"Springs, ZA",AFR|ZA|SF004|SPRINGS,South Africa
+"St Albans, UK",EUR|UK|UK001|ST ALBANS,United Kingdom
+"St Helens, UK",EUR|UK|UK001|ST HELENS,United Kingdom
+"St Petersburg, FL, US",NAM|US|FL|ST PETERSBURG,United States
+"Stafford, UK",EUR|UK|UK001|STAFFORD,United Kingdom
+"Stakhanov, UA",EUR|UA|UP012|STAKHANOV,Ukraine
+"Stamford, CT, US",NAM|US|CT|STAMFORD,United States
+"Standerton, ZA",AFR|ZA|SF006|STANDERTON,South Africa
+"Standerton, ZA",AFR|ZA|SF006|STANDERTON,South Africa
+"Stanley, FK",SAM|FK|FK---|STANLEY,Falkland Islands
+"Stara Zagora, BG",EUR|BG|BU022|STARA ZAGORA,Bulgaria
+"Stary Oskol , RU",ASI|RU|RS008|STARY OSKOL,Russia
+"Stavanger, NO",EUR|NO|NO013|STAVANGER,Norway
+"Stavropol, RU",ASI|RU|RS074|STAVROPOL,Russia
+"Steamboat Springs, CO, US",NAM|US|CO|STEAMBOAT SPRINGS,United States
+"Stellenbosch, ZA",AFR|ZA|SF011|STELLENBOSCH,South Africa
+"Sterling Heights, MI, US",NAM|US|MI|STERLING HEIGHTS,United States
+"Sterlitamak, RU",ASI|RU|RS041|STERLITAMAK,Russia
+"Stillbaai, ZA",AFR|ZA|SF011|STILLBAAI,South Africa
+"Stockholm, SE",EUR|SE|SW015|STOCKHOLM,Sweden
+"Stockport, UK",EUR|UK|UK001|STOCKPORT,United Kingdom
+"Stockton, CA, US",NAM|US|CA|STOCKTON,United States
+"Stockton-On-Tees, UK",EUR|UK|UK001|STOCKTON-ON-TEES,United Kingdom
+"Stoke-On-Trent, UK",EUR|UK|UK001|STOKE-ON-TRENT,United Kingdom
+"Strand, ZA",AFR|ZA|SF011|STRAND,South Africa
+"Strasbourg, FR",EUR|FR|FR001|STRASBOURG,France
+"Stratford-On-Avon, UK",EUR|UK|UK001|STRATFORD-ON-AVON,United Kingdom
+"Stroud, UK",EUR|UK|UK001|STROUD,United Kingdom
+"Stuhlweissenburg, HU",EUR|HU|HU011|SZÉKESFEHÉRVAR,Hungary
+"Stuttgart, DE",EUR|DE|GM001|STUTTGART,Germany
+"Subotica, CS",EUR|CS|YI003|SUBOTICA,Serbia
+"Suceava, RO",EUR|RO|RO035|SUCEAVA,Romania
+"Sucre, BO",SAM|BO|BL001|SUCRE,Bolivia
+"Sudbury, CA",NAM|CA|ON|SUDBURY,Canada
+"Suez, EG",AFR|EG|EG014|SUEZ,Egypt
+"Suihua, CN",ASI|CN|CH011|SUIHUA,China
+"Suining, CN",ASI|CN|CH014|SUINING,China
+"Suita, JP",ASI|JP|JA033|SUITA,Japan
+"Suizhou, CN",ASI|CN|CH013|SUIZHOU,China
+"Sukabumi, ID",ASI|ID|ID026|SUKABUMI,Indonesia
+"Sukhothai, TH",ASI|TH|TH064|SUKHOTHAI,Thailand
+"Sukhumi, GE",ASI|GE|GG000|SUKHUMI,Georgia
+"Sukkur, PK",ASI|PK|PK008|SUKKUR,Pakistan
+"Sullana, PE",SAM|PE|PE020|SULLANA,Peru
+"Sumare, BR",SAM|BR|BR023|SUMARÉ,Brazil
+"Sumgait, AZ",ASI|AZ|AJ052|SUMGAIT,Azerbaijan
+"Sumy, UA",EUR|UA|UP017|SUMY,Ukraine
+"Sunderland, UK",EUR|UK|UK001|SUNDERLAND,United Kingdom
+"Sundsvall, SE",EUR|SE|SW019|SUNDSVALL,Sweden
+"Sungai Petani, MY",ASI|MY|MY002|SUNGAI PETANI,Malaysia
+"Sunnyvale, CA, US",NAM|US|CA|SUNNYVALE,United States
+"Sunyani, GH",AFR|GH|GH000|SUNYANI,Ghana
+"Suqian, CN",ASI|CN|CH015|SUQIAN,China
+"Surabaya, ID",ASI|ID|ID026|SURABAYA,Indonesia
+"Surakarta, ID",ASI|ID|ID004|SURAKARTA,Indonesia
+"Surat, IN",ASI|IN|IN012|SURAT,India
+"Surat Thani, TH",ASI|TH|TH066|SURAT THANI,Thailand
+"Surgut, RU",ASI|RU|RS068|SURGUT,Russia
+"Surigao, PH",ASI|PH|RP118|SURIGAO,Philippines
+"Surrey, CA",NAM|CA|PE|SURREY,Canada
+"Susano, BR",SAM|BR|BR023|SUSANO,Brazil
+"Sutherland, ZA",AFR|ZA|SF005|SUTHERLAND,South Africa
+"Sutton, UK",EUR|UK|UK001|SUTTON,United Kingdom
+"Suva, FJ",OCN|FJ|FJ001|SUVA,Fiji
+"Suwon, KR",ASI|KR|KS002|SUWON,South Korea
+"Suzhou, CN",ASI|CN|CH015|SUZHOU,China
+"Suzuka, JP",ASI|JP|JA023|SUZUKA,Japan
+"Svendborg, DK",EUR|DK|DA005|SVENDBORG,Denmark
+"Swansea, UK",EUR|UK|UK004|SWANSEA,United Kingdom
+"Swellendam, ZA",AFR|ZA|SF011|SWELLENDAM,South Africa
+"Sydney, AU",OCN|AU|NSW|SYDNEY,Australia
+"Syktyvkar, RU",ASI|RU|RS036|SYKTYVKAR,Russia
+"Syracuse, NY, US",NAM|US|NY|SYRACUSE,United States
+"Syzran, RU",ASI|RU|RS085|SYZRAN,Russia
+"Szczecin, PL",EUR|PL|PL016|SZCZECIN,Poland
+"Szeged, HU",EUR|HU|HU030|SZEGED,Hungary
+"Taastrup, DK",EUR|DK|DA006|TAASTRUP,Denmark
+"Taboao Da Serra, BR",SAM|BR|BR023|TABOAO DA SERRA,Brazil
+"Tabriz, IR",MEA|IR|IR002|TABRIZ,Iran
+"Tacheng, CN",ASI|CN|CH028|TACHENG,China
+"Tachikawa, JP",ASI|JP|JA041|TACHIKAWA,Japan
+"Tacloban, PH",ASI|PH|RP121|TACLOBAN,Philippines
+"Tacna, PE",SAM|PE|PE023|TACNA,Peru
+"Tacoma, WA, US",NAM|US|WA|TACOMA,United States
+"Taebaek, KR",ASI|KR|KS007|TAEBAEK,South Korea
+"Taegu, KR",ASI|KR|KS002|TAEGU,South Korea
+"Taejon, KP",ASI|KP|KN010|TAEJON,North Korea
+"Taganrog, RU",ASI|RU|RS065|TAGANROG,Russia
+"Taian, CN",ASI|CN|CH018|TAIAN,China
+"Taichung, TW",ASI|TW|TW018|TAICHUNG,Taiwan
+"Ta'if, SA",MEA|SA|SA011|TA'IF,Saudi Arabia
+"Tainan, TW",ASI|TW|TW018|TAINAN,Taiwan
+"Taipei, TW",ASI|TW|TW018|TAIPEI,Taiwan
+"Taiping, MY",ASI|MY|MY008|TAIPING,Malaysia
+"Taitung, TW",ASI|TW|TW018|TAITUNG,Taiwan
+"Taiyuan, CN",ASI|CN|CH025|TAIYUAN,China
+"Taiz, YE",MEA|YE|YM008|TAIZ,Yemen
+"Taizhou, CN",ASI|CN|CH015|TAIZHOU,China
+"Taizhou, CN",ASI|CN|CH015|TAIZHOU,China
+"Tajimi, JP",ASI|JP|JA009|TAJIMI,Japan
+"Takamatsu, JP",ASI|JP|JA017|TAKAMATSU,Japan
+"Takaoka, JP",ASI|JP|JA043|TAKAOKA,Japan
+"Takarazuka, JP",ASI|JP|JA013|TAKARAZUKA,Japan
+"Takasaki, JP",ASI|JP|JA010|TAKASAKI,Japan
+"Takatsuki, JP",ASI|JP|JA033|TAKATSUKI,Japan
+"Talca, CL",SAM|CL|CI010|TALCA,Chile
+"Talcahuano, CL",SAM|CL|CI005|TALCAHUANO,Chile
+"Tallahassee, FL, US",NAM|US|FL|TALLAHASSEE,United States
+"Tallinn, EE",EUR|EE|EN001|TALLINN,Estonia
+"Tama, JP",ASI|JP|JA031|TAMA,Japan
+"Tamale, GH",AFR|GH|GH000|TAMALE,Ghana
+"Tambov, RU",ASI|RU|RS076|TAMBOV,Russia
+"Tampa, FL, US",NAM|US|FL|TAMPA,United States
+"Tampere, FI",EUR|FI|FI005|TAMPERE,Finland
+"Tampico, MX",NAM|MX|MX028|TAMPICO,Mexico
+"Tandoadam, PK",ASI|PK|PK008|TANDOADAM,Pakistan
+"Tanga, TZ",AFR|TZ|TZ000|TANGA,Tanzania
+"Tangail, BD",ASI|BD|BG002|TANGAIL,Bangladesh
+"Tanger, MA",AFR|MA|MO035|TANGER,Morocco
+"Tangshan, CN",ASI|CN|CH010|TANGSHAN,China
+"Tanta, EG",AFR|EG|EG005|TANTA,Egypt
+"Taonan, CN",ASI|CN|CH017|TAONAN,China
+"Tapachula, MX",NAM|MX|MX005|TAPACHULA,Mexico
+"Taranto, IT",EUR|IT|IT013|TARANTO,Italy
+"Tarawa, KI",OCN|KI|KR000|TARAWA,Kiribati
+"Taraz, KZ",ASI|KZ|KZ016|TARAZ,Kazakhstan
+"Tarija, BO",SAM|BO|BL009|TARIJA,Bolivia
+"Tarnow, PL",EUR|PL|PL004|TARNÓW,Poland
+"Tarragona, ES",EUR|ES|SP008|TARRAGONA,Spain
+"Tarrasa, ES",EUR|ES|SP008|TARRASA,Spain
+"Tarsus, TR",MEA|TR|TU037|TARSUS,Turkey
+"Tartu, EE",EUR|EE|EN012|TARTU,Estonia
+"Tashauz, TM",ASI|TM|TX003|TASHAUZ,Turkmenistan
+"Tashkent, UZ",ASI|UZ|UZ013|TASHKENT,Uzbekistan
+"Taubate, BR",SAM|BR|BR023|TAUBATÉ,Brazil
+"Taung, ZA",AFR|ZA|SF007|TAUNG,South Africa
+"Taunggyi, MM",ASI|MM|BM012|TAUNGGYI,Burma/Myanmar
+"Tbilisi, GE",ASI|GE|GG000|TBILISI,Georgia
+"Tebessa, DZ",AFR|DZ|AG042|TEBESSA,Algeria
+"Tegal, ID",ASI|ID|ID004|TEGAL,Indonesia
+"Tegucigalpa, HN",CAC|HN|HO008|TEGUCIGALPA,Honduras
+"Tehran, IR",MEA|IR|IR026|TEHRAN,Iran
+"Tehuacan, MX",NAM|MX|MX021|TEHUACÁN,Mexico
+"Tekirdag, TR",MEA|TR|TU072|TEKIRDAG,Turkey
+"Tel Aviv-Yafo, IL",MEA|IL|IS005|TEL AVIV-YAFO,Israel
+"Tema, GH",AFR|GH|GH000|TEMA,Ghana
+"Tembisa, ZA",AFR|ZA|SF004|TEMBISA,South Africa
+"Temirtau, KZ",ASI|KZ|KZ011|TEMIRTAU,Kazakhstan
+"Tempe, AZ, US",NAM|US|AZ|TEMPE,United States
+"Temuco, CL",SAM|CL|CI003|TEMUCO,Chile
+"Tenali, IN",ASI|IN|IN002|TENALI,India
+"Tendring, UK",EUR|UK|UK001|TENDRING,United Kingdom
+"Tengzhou, CN",ASI|CN|CH023|TENGZHOU,China
+"Teofilo Otoni, BR",SAM|BR|BR012|TEÓFILO OTONI,Brazil
+"Tepic, MX",NAM|MX|MX018|TEPIC,Mexico
+"Teresina, BR",SAM|BR|BR016|TERESINA,Brazil
+"Teresopolis, BR",SAM|BR|BR017|TERESÓPOLIS,Brazil
+"Termez, UZ",ASI|UZ|UZ012|TERMEZ,Uzbekistan
+"Terni, IT",EUR|IT|IT018|TERNI,Italy
+"Ternopol, UA",EUR|UA|UP018|TERNOPOL,Ukraine
+"Tetouan, MA",AFR|MA|MO040|TÉTOUAN,Morocco
+"Thabazimbi, ZA",AFR|ZA|SF009|THABAZIMBI,South Africa
+"Thai Nguyen, VN",ASI|VN|VM057|THAI NGUYEN,Vietnam
+"Thamesdown, UK",EUR|UK|UK001|THAMESDOWN,United Kingdom
+"Thane, IN",ASI|IN|IN021|THANE,India
+"Thanet, UK",EUR|UK|UK001|THANET,United Kingdom
+"Thanjavur, IN",ASI|IN|IN031|THANJAVUR,India
+"The Groyne, ES",EUR|ES|SP011|LA CORUÑA,Spain
+"Thies, SN",AFR|SN|SG009|THIÈS,Senegal
+"Thimphu, BT",ASI|BT|BT016|THIMPHU,Bhutan
+"Thiruvananthapuram, IN",ASI|IN|IN018|THIRUVANANTHAPURAM,India
+"Thohoyandou, ZA",AFR|ZA|SF009|THOHOYANDOU,South Africa
+"Thorshavn, FO",EUR|FO|FO---|THORSHAVN,Faroe Islands
+"Thousand Oaks, CA, US",NAM|US|CA|THOUSAND OAKS,United States
+"Three Rivers, CA",NAM|CA|QC|TROIS-RIVIÈRES,Canada
+"Thrissur, IN",ASI|IN|IN018|THRISSUR,India
+"Thunder Bay, CA",NAM|CA|ON|THUNDER BAY,Canada
+"Tianjin, CN",ASI|CN|CH027|TIANJIN,China
+"Tianmen, CN",ASI|CN|CH011|TIANMEN,China
+"Tianshui, CN",ASI|CN|CH005|TIANSHUI,China
+"Tiaret, DZ",AFR|DZ|AG043|TIARET,Algeria
+"Tiefa, CN",ASI|CN|CH018|TIEFA,China
+"Tieli, CN",ASI|CN|CH011|TIELI,China
+"Tieling, CN",ASI|CN|CH018|TIELING,China
+"Tijuana, MX",NAM|MX|MX002|TIJUANA,Mexico
+"Tilburg, NL",EUR|NL|NL007|TILBURG,Netherlands
+"Timbuktu, ML",AFR|ML|ML000|TIMBUKTU,Mali
+"Timisoara, RO",EUR|RO|RO037|TIMISOARA,Romania
+"Timon, BR",SAM|BR|BR009|TIMON,Brazil
+"Tirana, AL",EUR|AL|AL024|TIRANA,Albania
+"Tirgu-Mures, RO",EUR|RO|RO028|TIRGU-MURES,Romania
+"Tiruchchirappalli, IN",ASI|IN|IN031|TIRUCHCHIRAPPALLI,India
+"Tirunelveli, IN",ASI|IN|IN031|TIRUNELVELI,India
+"Tirupati, IN",ASI|IN|IN002|TIRUPATI,India
+"Tiruppur, IN",ASI|IN|IN031|TIRUPPUR,India
+"Tiruvannamalai, IN",ASI|IN|IN031|TIRUVANNAMALAI,India
+"Titagarh, IN",ASI|IN|IN036|TITAGARH,India
+"Tlalnepantla, MX",NAM|MX|MX015|TLALNEPANTLA,Mexico
+"Tlalpan, MX",NAM|MX|MX009|TLALPAN,Mexico
+"Tlaquepaque, MX",NAM|MX|MX014|TLAQUEPAQUE,Mexico
+"Tlaxcala, MX",NAM|MX|MX029|TLAXCALA,Mexico
+"Toda, JP",ASI|JP|JA035|TODA,Japan
+"Toensberg, NO",EUR|NO|NO019|TOENSBERG,Norway
+"Tokorozawa, JP",ASI|JP|JA035|TOKOROZAWA,Japan
+"Tokushima, JP",ASI|JP|JA040|TOKUSHIMA,Japan
+"Tokuyama, JP",ASI|JP|JA046|TOKUYAMA,Japan
+"Tokyo, JP",ASI|JP|JA041|TOKYO,Japan
+"Toledo, BR",SAM|BR|BR012|TOLEDO,Brazil
+"Toledo, PH",ASI|PH|RP127|TOLEDO,Philippines
+"Toledo, OH, US",NAM|US|OH|TOLEDO,United States
+"Toluca, MX",NAM|MX|MX015|TOLUCA,Mexico
+"Tolyatti, RU",ASI|RU|RS068|TOLYATTI,Russia
+"Tomakomai, JP",ASI|JP|JA012|TOMAKOMAI,Japan
+"Tomsk, RU",ASI|RU|RS079|TOMSK,Russia
+"Tonbridge, UK",EUR|UK|UK160|TONBRIDGE,United Kingdom
+"Tonbridge and Malling, UK",EUR|UK|UK001|TONBRIDGE AND MALLING,United Kingdom
+"Tondabayashi, JP",ASI|JP|JA033|TONDABAYASHI,Japan
+"Tongchuan, CN",ASI|CN|CH022|TONGCHUAN,China
+"Tonghua, CN",ASI|CN|CH017|TONGHUA,China
+"Tongi, BD",ASI|BD|BG002|TONGI,Bangladesh
+"Tongjiang, CN",ASI|CN|CH011|TONGJIANG,China
+"Tongliao, CN",ASI|CN|CH019|TONGLIAO,China
+"Tongling, CN",ASI|CN|CH001|TONGLING,China
+"Tongren, CN",ASI|CN|CH008|TONGREN,China
+"Tonk, IN",ASI|IN|IN029|TONK,India
+"Topeka, KS, US",NAM|US|KS|TOPEKA,United States
+"Torbay, UK",EUR|UK|UK001|TORBAY,United Kingdom
+"Torino, IT",EUR|IT|IT012|TORINO,Italy
+"Toronto, CA",NAM|CA|ON|TORONTO,Canada
+"Torrance, CA, US",NAM|US|CA|TORRANCE,United States
+"Torreon, MX",NAM|MX|MX006|TORREÓN,Mexico
+"Torun, PL",EUR|PL|PL007|TORUN,Poland
+"Tottori, JP",ASI|JP|JA042|TOTTORI,Japan
+"Toulon, FR",EUR|FR|FR021|TOULON,France
+"Toulouse, FR",EUR|FR|FR016|TOULOUSE,France
+"Tours, FR",EUR|FR|FR007|TOURS,France
+"Townsville, AU",OCN|AU|QLD|TOWNSVILLE,Australia
+"Toyama, JP",ASI|JP|JA043|TOYAMA,Japan
+"Toyohashi, JP",ASI|JP|JA001|TOYOHASHI,Japan
+"Toyokawa, JP",ASI|JP|JA001|TOYOKAWA,Japan
+"Toyonaka, JP",ASI|JP|JA033|TOYONAKA,Japan
+"Toyota, JP",ASI|JP|JA001|TOYOTA,Japan
+"Trabzon, TR",MEA|TR|TU074|TRABZON,Turkey
+"Traverse City, MI, US",NAM|US|MI|Traverse City,United States
+"Trelleborg, SE",EUR|SE|SW013|TRELLEBORG,Sweden
+"Trento, IT",EUR|IT|IT017|TRENTO,Italy
+"Trenton, NJ, US",NAM|US|NJ|TRENTON,United States
+"Trieste, IT",EUR|IT|IT006|TRIESTE,Italy
+"Tripoli, LB",MEA|LB|LE003|TRIPOLI,Lebanon
+"Tripoli, LY",AFR|LY|LY021|TRIPOLI,Libya
+"Trollhaettan, SE",EUR|SE|SW021|TROLLHAETTAN,Sweden
+"Tromsoe, NO",EUR|NO|NO017|TROMSOE,Norway
+"Trondheim, NO",EUR|NO|NO015|TRONDHEIM,Norway
+"Trujillo, PE",SAM|PE|PE013|TRUJILLO,Peru
+"Trysil, NO",EUR|NO|NO005|TRYSIL,Norway
+"Tshabong, BW",AFR|BW|BC000|TSHABONG,Botswana
+"Tsu, JP",ASI|JP|JA023|TSU,Japan
+"Tsuchiura, JP",ASI|JP|JA014|TSUCHIURA,Japan
+"Tsukuba, JP",ASI|JP|JA014|TSUKUBA,Japan
+"Tsuruoka, JP",ASI|JP|JA045|TSURUOKA,Japan
+"Tucson, AZ, US",NAM|US|AZ|TUCSON,United States
+"Tucuman, AR",SAM|AR|AR024|SAN MIGUEL DE TUCUMÁN,Argentina
+"Tula, RU",ASI|RU|RS080|TULA,Russia
+"Tulsa, OK, US",NAM|US|OK|TULSA,United States
+"Tulua, CO",SAM|CO|CO027|TULUA,Colombia
+"Tulufan, CN",ASI|CN|CH028|TULUFAN,China
+"Tumen, CN",ASI|CN|CH017|TUMEN,China
+"Tumkur, IN",ASI|IN|IN017|TUMKUR,India
+"Tunbridge Wells, UK",EUR|UK|UK001|TUNBRIDGE WELLS,United Kingdom
+"Tunis, TN",AFR|TN|TS000|TUNIS,Tunisia
+"Tunja, CO",SAM|CO|CO019|TUNJA,Colombia
+"Turku, FI",EUR|FI|FI005|TURKU,Finland
+"Turmero, VE",SAM|VE|VE002|TURMERO,Venezuela
+"Tuticorin, IN",ASI|IN|IN031|TUTICORIN,India
+"Tuzla, BA",EUR|BA|BK001|TUZLA,Bosnia And Herzegovina
+"Tver, RU",ASI|RU|RS082|TVER,Russia
+"Tychy, PL",EUR|PL|PL012|TYCHY,Poland
+"Tyre, LB",MEA|LB|LE000|TYRE,Lebanon
+"Tyumen, RU",ASI|RU|RS083|TYUMEN,Russia
+"Tyumen, RU",ASI|RU|RS083|TYUMEN,Russia
+"Tzaneen, ZA",AFR|ZA|SF009|TZANEEN,South Africa
+"Ube, JP",ASI|JP|JA046|UBE,Japan
+"Uberaba, BR",SAM|BR|BR012|UBERABA,Brazil
+"Uberlandia, BR",SAM|BR|BR012|UBERLÂNDIA,Brazil
+"Ubon Ratchathani, TH",ASI|TH|TH071|UBON RATCHATHANI,Thailand
+"Udaipur, IN",ASI|IN|IN029|UDAIPUR,India
+"Uddevalla, SE",EUR|SE|SW021|UDDEVALLA,Sweden
+"Udon Thani, TH",ASI|TH|TH072|UDON THANI,Thailand
+"Udupi, IN",ASI|IN|IN017|UDUPI,India
+"Ueda, JP",ASI|JP|JA026|UEDA,Japan
+"Ufa, RU",ASI|RU|RS007|UFA,Russia
+"Uijeongbu, KR",ASI|KR|KS009|UIJEONGBU,South Korea
+"Uitenhage, ZA",AFR|ZA|SF002|UITENHAGE,South Africa
+"Uji, JP",ASI|JP|JA022|UJI,Japan
+"Ujjain, IN",ASI|IN|IN020|UJJAIN,India
+"Ujungpandang, ID",ASI|ID|ID019|UJUNGPANDANG,Indonesia
+"Ulaanbaatar, MN",ASI|MN|MG021|ULAANBAATAR,Mongolia
+"Ulan-Ude, RU",ASI|RU|RS086|ULAN-UDE,Russia
+"Ulhasnagar, IN",ASI|IN|IN021|ULHASNAGAR,India
+"Ulm, DE",EUR|DE|GM001|ULM,Germany
+"Ulsan, KR",ASI|KR|KS016|ULSAN,South Korea
+"Ulundi, ZA",AFR|ZA|SF005|ULUNDI,South Africa
+"Ulyanovsk, RU",ASI|RU|RS085|ULYANOVSK,Russia
+"Umeaa, SE",EUR|SE|SW018|UMEAA,Sweden
+"Umhlanga Rock, ZA",AFR|ZA|SF005|UMHLANGA ROCK,South Africa
+"Umlazi, ZA",AFR|ZA|SF005|UMLAZI,South Africa
+"Umtata, ZA",AFR|ZA|SF002|UMTATA,South Africa
+"Underburg, ZA",AFR|ZA|SF005|UNDERBURG,South Africa
+"Unnao, IN",ASI|IN|IN033|UNNAO,India
+"Upington, ZA",AFR|ZA|SF008|UPINGTON,South Africa
+"Uppsala, SE",EUR|SE|SW016|UPPSALA,Sweden
+"Uralsk, KZ",ASI|KZ|KZ006|URALSK,Kazakhstan
+"Urasoe, JP",ASI|JP|JA032|URASOE,Japan
+"Urawa, JP",ASI|JP|JA035|URAWA,Japan
+"Urayasu, JP",ASI|JP|JA041|URAYASU,Japan
+"Urfa, TR",MEA|TR|TU067|URFA,Turkey
+"Uruapan, MX",NAM|MX|MX016|URUAPAN,Mexico
+"Uruguaiana, BR",SAM|BR|BR019|URUGUAIANA,Brazil
+"Usak, TR",MEA|TR|TU076|USAK,Turkey
+"Utrecht, NL",EUR|NL|NL010|UTRECHT,Netherlands
+"Utsunomiya, JP",ASI|JP|JA039|UTSUNOMIYA,Japan
+"Uvongo, ZA",AFR|ZA|SF005|UVONGO,South Africa
+"Uzhgorod, UA",EUR|UA|UP021|UZHGOROD,Ukraine
+"Vaalwater, ZA",AFR|ZA|SF009|VAALWATER,South Africa
+"Vadodara, IN",ASI|IN|IN012|VADODARA,India
+"Vaduz, LI",EUR|LI|LS000|VADUZ,Liechtenstein
+"Vaesteraas, SE",EUR|SE|SW020|VAESTERAAS,Sweden
+"Valdivia, CL",SAM|CL|CI008|VALDIVIA,Chile
+"Valdosta, GA, US",NAM|US|GA|Valdosta,United States
+"Valencia, ES",EUR|ES|SP016|VALENCIA,Spain
+"Valencia, VE",SAM|VE|VE007|VALENCIA,Venezuela
+"Valera, VE",SAM|VE|VE022|VALERA,Venezuela
+"Valladolid, ES",EUR|ES|SP007|VALLADOLID,Spain
+"Valledupar, CO",SAM|CO|CO008|VALLEDUPAR,Colombia
+"Vallejo, CA, US",NAM|US|CA|VALLEJO,United States
+"Valletta, MT",EUR|MT|MT---|VALLETTA,Malta
+"Valparai, IN",ASI|IN|IN031|VALPARAI,India
+"Valparaiso, CL",SAM|CL|CI013|VALPARAÍSO,Chile
+"Valsad, IN",ASI|IN|IN012|VALSAD,India
+"Van, TR",MEA|TR|TU077|VAN,Turkey
+"Vancouver, CA",NAM|CA|BC|VANCOUVER,Canada
+"Vancouver, WA, US",NAM|US|WA|VANCOUVER,United States
+"Vanderbijlpark, ZA",AFR|ZA|SF004|VANDERBIJLPARK,South Africa
+"Vantaa, FI",EUR|FI|FI002|VANTAA,Finland
+"Varamin, IR",MEA|IR|IR026|VARAMIN,Iran
+"Varanasi, IN",ASI|IN|IN033|VARANASI,India
+"Varginha, BR",SAM|BR|BR012|VARGINHA,Brazil
+"Varna, BG",EUR|BG|BU024|VARNA,Bulgaria
+"Varzea Grande, BR",SAM|BR|BR010|VARZEA GRANDE,Brazil
+"Vatican City, VA",EUR|VA|-|VATICAN CITY,Vatican City
+"Vaughan, CA",NAM|CA|AC003|VAUGHAN,Canada
+"Vejle, DK",EUR|DK|DA014|VEJLE,Denmark
+"Velikiy Novgorod, RU",ASI|RU|RS056|VELIKIY NOVGOROD,Russia
+"Vellore, IN",ASI|IN|IN031|VELLORE,India
+"Venezia, IT",EUR|IT|IT020|VENEZIA,Italy
+"Ventura, CA, US",NAM|US|CA|VENTURA,United States
+"Veracruz Llave, MX",NAM|MX|MX030|VERACRUZ LLAVE,Mexico
+"Vereeniging, ZA",AFR|ZA|SF004|VEREENIGING,South Africa
+"Verona, IT",EUR|IT|IT020|VERONA,Italy
+"Viamao, BR",SAM|BR|BR019|VIAMAO,Brazil
+"Viana do Castelo, PT",EUR|PT|PO018|VIANA DO CASTELO,Portugal
+"Viborg, DK",EUR|DK|DA005|VIBORG,Denmark
+"Vicente Lopez, AR",SAM|AR|AR001|VICENTE LÓPEZ,Argentina
+"Vicenza, IT",EUR|IT|IT020|VICENZA,Italy
+"Victoria, CA",NAM|CA|BC|VICTORIA,Canada
+"Victoria, SC",AFR|SC|SE000|VICTORIA,Seychelles
+"Vienna, AT",EUR|AT|AU009|WIEN,Austria
+"Vientiane, LA",ASI|LA|LA017|VIENTIANE,Laos
+"Vigo, ES",EUR|ES|SP011|VIGO,Spain
+"Vijayawada, IN",ASI|IN|IN002|VIJAYAWADA,India
+"Vila, VU",OCN|VU|NH009|VILA,Vanuatu
+"Vila Real, PT",EUR|PT|PO019|VILA REAL,Portugal
+"Vila Velha, BR",SAM|BR|BR026|VILA VELHA,Brazil
+"Vilanculos, MZ",AFR|MZ|MZ003|VILANCULOS,Mozambique
+"Villahermosa, MX",NAM|MX|MX027|VILLAHERMOSA,Mexico
+"Villavicencio, CO",SAM|CO|CO017|VILLAVICENCIO,Colombia
+"Villeurbanne, FR",EUR|FR|FR012|VILLEURBANNE,France
+"Vilnius, LT",EUR|LT|LH054|VILNIUS,Lithuania
+"Vina Del Mar, CL",SAM|CL|CI013|VIÑA DEL MAR,Chile
+"Vinh, VN",ASI|VN|VM060|VINH,Vietnam
+"Virginia, ZA",AFR|ZA|SF003|VIRGINIA,South Africa
+"Virginia Beach, VA, US",NAM|US|VA|VIRGINIA BEACH,United States
+"Visakhapatnam, IN",ASI|IN|IN002|VISAKHAPATNAM,India
+"Visby, SE",EUR|SE|SW004|VISBY,Sweden
+"Viseu, PT",EUR|PT|PO020|VISEU,Portugal
+"Vitebsk, BY",EUR|BY|BO007|VITEBSK,Belarus
+"Vitoria, BR",SAM|BR|BR015|VITÓRIA,Brazil
+"Vitoria Da Conquista, BR",SAM|BR|BR005|VITÓRIA DA CONQUISTA,Brazil
+"Vitoria De Santo Antao, BR",SAM|BR|BR026|VITÓRIA DE SANTO ANTAO,Brazil
+"Vladikavkaz, RU",ASI|RU|RS070|VLADIKAVKAZ,Russia
+"Vladimir, RU",ASI|RU|RS087|VLADIMIR,Russia
+"Vladivostok, RU",ASI|RU|RS063|VLADIVOSTOK,Russia
+"Volgodonsk, RU",ASI|RU|RS065|VOLGODONSK,Russia
+"Volgograd, RU",ASI|RU|RS088|VOLGOGRAD,Russia
+"Volksrust, ZA",AFR|ZA|SF006|VOLKSRUST,South Africa
+"Vologda, RU",ASI|RU|RS089|VOLOGDA,Russia
+"Volos, GR",EUR|GR|GR038|VOLOS,Greece
+"Volta Redonda, BR",SAM|BR|BR017|VOLTA REDONDA,Brazil
+"Volzhskiy, RU",ASI|RU|RS088|VOLZHSKIY,Russia
+"Voronezh, RU",ASI|RU|RS090|VORONEZH,Russia
+"Votkinsk, RU",ASI|RU|RS084|VOTKINSK,Russia
+"Vredendal, ZA",AFR|ZA|SF011|VREDENDAL,South Africa
+"Vryburg, ZA",AFR|ZA|SF007|VRYBURG,South Africa
+"Vryheid, ZA",AFR|ZA|SF005|VRYHEID,South Africa
+"Waco, TX, US",NAM|US|TX|WACO,United States
+"Wadhwan, IN",ASI|IN|IN012|WADHWAN,India
+"Wafangdian, CN",ASI|CN|CH022|WAFANGDIAN,China
+"Waitakere, NZ",OCN|NZ|NZ000|WAITAKERE,New Zealand
+"Wakayama, JP",ASI|JP|JA044|WAKAYAMA,Japan
+"Wakefield, UK",EUR|UK|UK001|WAKEFIELD,United Kingdom
+"Walbrzych, PL",EUR|PL|PL001|WALBRZYCH,Poland
+"Walsall, UK",EUR|UK|UK001|WALSALL,United Kingdom
+"Wanxian, CN",ASI|CN|CH003|WANXIAN,China
+"Warangal, IN",ASI|IN|IN002|WARANGAL,India
+"Wardha, IN",ASI|IN|IN021|WARDHA,India
+"Warren, MI, US",NAM|US|MI|WARREN,United States
+"Warrington, UK",EUR|UK|UK001|WARRINGTON,United Kingdom
+"Warszawa, PL",EUR|PL|PL007|WARSZAWA,Poland
+"Warwick, UK",EUR|UK|UK001|WARWICK,United Kingdom
+"Washington, DC, US",NAM|US|DC|WASHINGTON,United States
+"Waterbury, CT, US",NAM|US|CT|WATERBURY,United States
+"Waterloo, UK",EUR|UK|UK148|WATERLOO,United Kingdom
+"Weifang, CN",ASI|CN|CH023|WEIFANG,China
+"Weihai, CN",ASI|CN|CH023|WEIHAI,China
+"Weihui, CN",ASI|CN|CH012|WEIHUI,China
+"Weinan, CN",ASI|CN|CH022|WEINAN,China
+"Welkom, ZA",AFR|ZA|SF003|WELKOM,South Africa
+"Wellington, NZ",OCN|NZ|NZ000|WELLINGTON,New Zealand
+"Wellington, ZA",AFR|ZA|SF011|WELLINGTON,South Africa
+"Wendeng, CN",ASI|CN|CH023|WENDENG,China
+"Wenzhou, CN",ASI|CN|CH031|WENZHOU,China
+"Wepener, ZA",AFR|ZA|SF003|WEPENER,South Africa
+"West Covina, CA, US",NAM|US|CA|WEST COVINA,United States
+"West Valley City, UT, US",NAM|US|UT|WEST VALLEY CITY,United States
+"Westminster, UK",EUR|UK|UK001|WESTMINSTER,United Kingdom
+"Westminster, CO, US",NAM|US|CO|WESTMINSTER,United States
+"White River, ZA",AFR|ZA|SF006|WHITE RIVER,South Africa
+"Wichita, KS, US",NAM|US|KS|WICHITA,United States
+"Wichita Falls, TX, US",NAM|US|TX|WICHITA FALLS,United States
+"Wiesbaden, DE",EUR|DE|GM007|WIESBADEN,Germany
+"Wigan, UK",EUR|UK|UK001|WIGAN,United Kingdom
+"Wilderness, ZA",AFR|ZA|SF011|WILDERNESS,South Africa
+"Willemstad, AN",CAC|AN|NT---|WILLEMSTAD,Netherlands Antilles
+"Winburg, ZA",AFR|ZA|SF003|WINBURG,South Africa
+"Winchester, UK",EUR|UK|UK001|WINCHESTER,United Kingdom
+"Windhoek, NA",AFR|NA|WA005|WINDHOEK,Namibia
+"Windsor, CA",NAM|CA|NL|WINDSOR,Canada
+"Windsor and Maidenhead, UK",EUR|UK|UK001|WINDSOR AND MAIDENHEAD,United Kingdom
+"Winnipeg, CA",NAM|CA|MB|WINNIPEG,Canada
+"Winston-Salem, NC, US",NAM|US|NC|WINSTON-SALEM,United States
+"Winterthur, CH",EUR|CH|SZ026|WINTERTHUR,Switzerland
+"Wirral, UK",EUR|UK|UK001|WIRRAL,United Kingdom
+"Witbank, ZA",AFR|ZA|SF006|WITBANK,South Africa
+"Witten, DE",EUR|DE|GM011|WITTEN,Germany
+"Wloclawek, PL",EUR|PL|PL002|WLOCLAWEK,Poland
+"Wokingham, UK",EUR|UK|UK001|WOKINGHAM,United Kingdom
+"Wolfsburg, DE",EUR|DE|GM009|WOLFSBURG,Germany
+"Wollongong, AU",OCN|AU|NSW|WOLLONGONG,Australia
+"Wolverhampton, UK",EUR|UK|UK001|WOLVERHAMPTON,United Kingdom
+"Wonju, KR",ASI|KR|KS007|WONJU,South Korea
+"Wonsan, KP",ASI|KR|KS009|WONSAN,North Korea
+"Worcester, MA, US",NAM|US|MA|WORCESTER,United States
+"Worcester, ZA",AFR|ZA|SF011|WORCESTER,South Africa
+"Wroclaw, PL",EUR|PL|PL001|WROCLAW,Poland
+"Wuan, CN",ASI|CN|CH014|WUAN,China
+"Wugang, CN",ASI|CN|CH014|WUGANG,China
+"Wuhai, CN",ASI|CN|CH019|WUHAI,China
+"Wuhan, CN",ASI|CN|CH013|WUHAN,China
+"Wuhu, CN",ASI|CN|CH001|WUHU,China
+"Wulumuqi, CN",ASI|CN|CH028|WULUMUQI,China
+"Wuppertal, DE",EUR|DE|GM011|WUPPERTAL,Germany
+"Wurzburg, DE",EUR|DE|GM002|WÜRZBURG,Germany
+"Wuxi, CN",ASI|CN|CH003|WUXI,China
+"Wuxue, CN",ASI|CN|CH013|WUXUE,China
+"Wuyishan, CN",ASI|CN|CH004|WUYISHAN,China
+"Wuzhong, CN",ASI|CN|CH020|WUZHONG,China
+"Wuzhou, CN",ASI|CN|CH007|WUZHOU,China
+"Wycombe, UK",EUR|UK|UK001|WYCOMBE,United Kingdom
+"Xai Xai, MZ",AFR|MZ|MZ002|XAI XAI,Mozambique
+"Xiamen, CN",ASI|CN|CH004|XIAMEN,China
+"Xian, CN",ASI|CN|CH010|XIAN,China
+"Xiangfan, CN",ASI|CN|CH013|XIANGFAN,China
+"Xiangtan, CN",ASI|CN|CH026|XIANGTAN,China
+"Xiangxiang, CN",ASI|CN|CH014|XIANGXIANG,China
+"Xianning, CN",ASI|CN|CH013|XIANNING,China
+"Xiantao, CN",ASI|CN|CH013|XIANTAO,China
+"Xianyang, CN",ASI|CN|CH004|XIANYANG,China
+"Xiaogan, CN",ASI|CN|CH013|XIAOGAN,China
+"Xiaoshan, CN",ASI|CN|CH031|XIAOSHAN,China
+"Xichang, CN",ASI|CN|CH026|XICHANG,China
+"Xifeng, CN",ASI|CN|CH023|XIFENG,China
+"Xingcheng, CN",ASI|CN|CH025|XINGCHENG,China
+"Xinghua, CN",ASI|CN|CH015|XINGHUA,China
+"Xingtai, CN",ASI|CN|CH010|XINGTAI,China
+"Xingyi, CN",ASI|CN|CH008|XINGYI,China
+"Xining, CN",ASI|CN|CH021|XINING,China
+"Xinji, CN",ASI|CN|CH010|XINJI,China
+"Xintai, CN",ASI|CN|CH008|XINTAI,China
+"Xinxiang, CN",ASI|CN|CH012|XINXIANG,China
+"Xinyang, CN",ASI|CN|CH012|XINYANG,China
+"Xinyi, CN",ASI|CN|CH006|XINYI,China
+"Xinyu, CN",ASI|CN|CH012|XINYU,China
+"Xinzhou, CN",ASI|CN|CH001|XINZHOU,China
+"Xochimilco, MX",NAM|MX|MX009|XOCHIMILCO,Mexico
+"Xuchang, CN",ASI|CN|CH001|XUCHANG,China
+"Xuzhou, CN",ASI|CN|CH015|XUZHOU,China
+"Yaan, CN",ASI|CN|CH026|YAAN,China
+"Yachiyo, JP",ASI|JP|JA012|YACHIYO,Japan
+"Yaizu, JP",ASI|JP|JA038|YAIZU,Japan
+"Yakeshi, CN",ASI|CN|CH019|YAKESHI,China
+"Yakutsk, RU",ASI|RU|RS091|YAKUTSK,Russia
+"Yamagata, JP",ASI|JP|JA045|YAMAGATA,Japan
+"Yamaguchi, JP",ASI|JP|JA046|YAMAGUCHI,Japan
+"Yamato, JP",ASI|JP|JA028|YAMATO,Japan
+"Yamoussoukro, CI",AFR|CI|IV057|YAMOUSSOUKRO,Ivory Coast
+"Yamunanagar, IN",ASI|IN|IN013|YAMUNANAGAR,India
+"Yanan, CN",ASI|CN|CH022|YANAN,China
+"Yancheng, CN",ASI|CN|CH023|YANCHENG,China
+"Yangjiang, CN",ASI|CN|CH006|YANGJIANG,China
+"Yangon, MM",ASI|MM|BM014|YANGON,Burma/Myanmar
+"Yangquan, CN",ASI|CN|CH025|YANGQUAN,China
+"Yangzhou, CN",ASI|CN|CH015|YANGZHOU,China
+"Yanji, CN",ASI|CN|CH012|YANJI,China
+"Yantai, CN",ASI|CN|CH023|YANTAI,China
+"Yao, JP",ASI|JP|JA033|YAO,Japan
+"Yaounde, CM",AFR|CM|CM002|YAOUNDE,Cameroon
+"Yaroslavl, RU",ASI|RU|RS093|YAROSLAVL,Russia
+"Yatsushiro, JP",ASI|JP|JA021|YATSUSHIRO,Japan
+"Yavatmal, IN",ASI|IN|IN021|YAVATMAL,India
+"Yazd, IR",MEA|IR|IR027|YAZD,Iran
+"Yerevan, AM",ASI|AM|AM011|YEREVAN,Armenia
+"Yibin, CN",ASI|CN|CH026|YIBIN,China
+"Yichang, CN",ASI|CN|CH013|YICHANG,China
+"Yichun, CN",ASI|CN|CH011|YICHUN,China
+"Yinchuan, CN",ASI|CN|CH020|YINCHUAN,China
+"Yingcheng, CN",ASI|CN|CH013|YINGCHENG,China
+"Yingkou, CN",ASI|CN|CH018|YINGKOU,China
+"Yingtan, CN",ASI|CN|CH016|YINGTAN,China
+"Yining, CN",ASI|CN|CH016|YINING,China
+"Yiwu, CN",ASI|CN|CH028|YIWU,China
+"Yixing, CN",ASI|CN|CH015|YIXING,China
+"Yiyang, CN",ASI|CN|CH012|YIYANG,China
+"Yizhou, CN",ASI|CN|CH010|YIZHOU,China
+"Yogyakarta, ID",ASI|ID|ID005|YOGYAKARTA,Indonesia
+"Yokkaichi, JP",ASI|JP|JA030|YOKKAICHI,Japan
+"Yokohama, JP",ASI|JP|JA019|YOKOHAMA,Japan
+"Yokosuka, JP",ASI|JP|JA019|YOKOSUKA,Japan
+"Yonago, JP",ASI|JP|JA042|YONAGO,Japan
+"Yongan, CN",ASI|CN|CH025|YONGAN,China
+"Yongzhou, CN",ASI|CN|CH014|YONGZHOU,China
+"Yonkers, NY, US",NAM|US|NY|YONKERS,United States
+"York, CA",NAM|CA|QC|YORK,Canada
+"York, UK",EUR|UK|UK001|YORK,United Kingdom
+"Yoshkar-Ola, RU",ASI|RU|RS049|YOSHKAR-OLA,Russia
+"Yosu, KR",ASI|KR|KS005|YOSU,South Korea
+"Ystad, SE",EUR|SE|SW013|YSTAD,Sweden
+"Yuanjiang, CN",ASI|CN|CH030|YUANJIANG,China
+"Yuci, CN",ASI|CN|CH025|YUCI,China
+"Yueyang, CN",ASI|CN|CH014|YUEYANG,China
+"Yulin, Guangxi, CN",ASI|CN|CH007|YULIN,China
+"Yulin, Shaanxi, CN",ASI|CN|CH022|YULIN,China
+"Yumen, CN",ASI|CN|CH005|YUMEN,China
+"Yuncheng, CN",ASI|CN|CH025|YUNCHENG,China
+"Yutian, CN",ASI|CN|CH010|YUTIAN,China
+"Yuxi, CN",ASI|CN|CH004|YUXI,China
+"Yuyao, CN",ASI|CN|CH004|YUYAO,China
+"Yuzhno-Sahalinsk, RU",ASI|RU|RS067|YUZHNO-SAHALINSK,Russia
+"Yuzhou, CN",ASI|CN|CH012|YUZHOU,China
+"Zaanstad, NL",EUR|NL|NL008|ZAANSTAD,Netherlands
+"Zabol, IR",MEA|IR|IR025|ZABOL,Iran
+"Zabrze, PL",EUR|PL|PL012|ZABRZE,Poland
+"Zacatecas, MX",NAM|MX|MX032|ZACATECAS,Mexico
+"Zagazig, EG",AFR|EG|EG015|ZAGAZIG,Egypt
+"Zagreb, HR",EUR|HR|HR004|ZAGREB,Croatia
+"Zahedan, IR",MEA|IR|IR025|ZAHEDAN,Iran
+"Zama, JP",ASI|JP|JA019|ZAMA,Japan
+"Zamboanga, PH",ASI|PH|RP130|ZAMBOANGA,Philippines
+"Zamora De Hidalgo, MX",NAM|MX|MX016|ZAMORA DE HIDALGO,Mexico
+"Zanjan, IR",MEA|IR|IR028|ZANJAN,Iran
+"Zanzibar, TZ",AFR|TZ|TZ000|ZANZIBAR,Tanzania
+"Zaozhuang, CN",ASI|CN|CH023|ZAOZHUANG,China
+"Zapopan, MX",NAM|MX|MX014|ZAPOPAN,Mexico
+"Zaporozhye, UA",EUR|UA|UP022|ZAPOROZHYE,Ukraine
+"Zaragoza, ES",EUR|ES|SP002|ZARAGOZA,Spain
+"Zaria, NG",AFR|NG|NI000|ZARIA,Nigeria
+"Zastron, ZA",AFR|ZA|SF003|ZASTRON,South Africa
+"Zelenograd, RU",ASI|RU|RS052|ZELENOGRAD,Russia
+"Zenica, BA",EUR|BA|BK001|ZENICA,Bosnia And Herzegovina
+"Zhalantun, CN",ASI|CN|CH019|ZHALANTUN,China
+"Zhangjiagang, CN",ASI|CN|CH015|ZHANGJIAGANG,China
+"Zhangjiakou, CN",ASI|CN|CH010|ZHANGJIAKOU,China
+"Zhangshu, CN",ASI|CN|CH015|ZHANGSHU,China
+"Zhangye, CN",ASI|CN|CH005|ZHANGYE,China
+"Zhangzhou, CN",ASI|CN|CH004|ZHANGZHOU,China
+"Zhanjiang, CN",ASI|CN|CH006|ZHANJIANG,China
+"Zhaodong, CN",ASI|CN|CH011|ZHAODONG,China
+"Zhaoqing, CN",ASI|CN|CH006|ZHAOQING,China
+"Zhaotong, CN",ASI|CN|CH030|ZHAOTONG,China
+"Zhaoyang, CN",ASI|CN|CH015|ZHAOYANG,China
+"Zhengzhou, CN",ASI|CN|CH012|ZHENGZHOU,China
+"Zhenjiang, CN",ASI|CN|CH015|ZHENJIANG,China
+"Zhicheng, CN",ASI|CN|CH031|ZHICHENG,China
+"Zhitomir, UA",EUR|UA|UP023|ZHITOMIR,Ukraine
+"Zhongshan, CN",ASI|CN|CH004|ZHONGSHAN,China
+"Zhoushan, CN",ASI|CN|CH031|ZHOUSHAN,China
+"Zhucheng, CN",ASI|CN|CH015|ZHUCHENG,China
+"Zhuhai, CN",ASI|CN|CH006|ZHUHAI,China
+"Zhuji, CN",ASI|CN|CH023|ZHUJI,China
+"Zhumadian, CN",ASI|CN|CH012|ZHUMADIAN,China
+"Zhuozhou, CN",ASI|CN|CH010|ZHUOZHOU,China
+"Zhuzhou, CN",ASI|CN|CH014|ZHUZHOU,China
+"Zibo, CN",ASI|CN|CH023|ZIBO,China
+"Zielona Gora, PL",EUR|PL|PL005|ZIELONA GÓRA,Poland
+"Zigong, CN",ASI|CN|CH026|ZIGONG,China
+"Ziguinchor, SN",AFR|SN|SG010|ZIGUINCHOR,Senegal
+"Zinder, NE",AFR|NE|NG008|ZINDER,Niger
+"Zixing, CN",ASI|CN|CH014|ZIXING,China
+"Zlatoust, RU",ASI|RU|RS013|ZLATOUST,Russia
+"Zoetermeer, NL",EUR|NL|NL012|ZOETERMEER,Netherlands
+"Zonguldak, TR",MEA|TR|TU000|ZONGULDAK,Turkey
+"Zrenjanin, CS",EUR|CS|YI003|ZRENJANIN,Serbia
+"Zunyi, CN",ASI|CN|CH008|ZUNYI,China
+"Zurich, CH",EUR|CH|SZ026|ZÜRICH,Switzerland
+"Zuwarah, LY",AFR|LY|LY008|ZUWARAH,Libya
+"Zwickau, DE",EUR|DE|GM014|ZWICKAU,Germany
+"Zwolle, NL",EUR|NL|NL009|ZWOLLE,Netherlands

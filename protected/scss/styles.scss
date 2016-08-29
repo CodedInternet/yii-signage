@@ -1,0 +1,107 @@
+// Include Bootstrap variables
+@import "bootstrap-variables";
+
+// I gather this file is a starting point for the project.
+@import "bootstrap";
+
+// Include responsive Bootstrap styles
+@import "bootstrap-responsive";
+
+// Sticky Footer
+@import "sticky-bars";
+
+#content {
+  background-color: $white;
+  border-radius: 0 0 2em 2em;
+  padding-left: 2em;
+  padding-right: 2em;
+}
+
+.navbar {
+  margin-bottom: 0;
+
+  .brand {
+    padding-top: 0;
+    padding-bottom: 0;
+
+    img{
+      max-height: $navbarHeight;
+    }
+  }
+}
+
+.logo {
+  max-width: 20em;
+  max-height: 10em;
+}
+
+.checkbox, input[type="checkbox"] {
+  display: inline-block;
+  margin-top: 0;
+}
+
+.dropdown-menu.user {
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+
+  .media-body {
+    margin-left: 75px;
+  }
+}
+
+.zocial {
+  @extend input;
+}
+
+.form {
+/*  .success {
+    input {
+      border-color: $successBorder;
+      @include box-shadow(0 0 6px $successBackground);
+    }
+  }
+
+  .error {
+    input {
+      @extend input:focus:invalid:focus;
+    }
+  }
+  .errorMessage {
+    @extend .alert;
+    @extend .alert-error;
+  }*/
+}
+
+#dropbox {
+  min-height: 10em;
+  text-align: center;
+
+  .row-fluid {
+    height: 100%;
+  }
+
+  .message {
+    margin-top: 4.5em;
+  }
+
+  .preview {
+    height: 100%;
+  }
+}
+
+@media (min-width: 768px) {
+  .navbar {
+    margin-bottom: 1px;
+
+    .navbar-inner {
+      padding-top: 0;
+      padding-bottom: 0;
+    }
+  }
+}
+
+@media (min-width: 1200px) {
+  #wrap > .container {
+    padding-top: $navbarHeight;
+  }
+}

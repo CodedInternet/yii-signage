@@ -1,0 +1,95 @@
+/*
+Document   : display
+Created on : 01-Jan-2013, 20:50:55
+Author     : pricet
+Description:
+Purpose of the stylesheet follows.
+*/
+
+/*
+TODO customize this sample style
+Syntax recommendation http://sass-lang.com/docs/yardoc/file.SASS_REFERENCE.html
+*/
+
+@import "compass";
+
+root {
+  display: block;
+}
+
+html, body {
+  height: 100%;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  font-family: 'Open Sans', sans-serif;
+  overflow: hidden;
+}
+
+body {
+  background-color: #000000; // Old browsers
+}
+
+$left: 10%;
+$left-width: 60%;
+$gap: 5%;
+$right-width: 100% - $left - $left-width - $gap;
+$top: 5em;
+$radius: 1.5em;
+$weather: 5.5em;
+
+$white: #fff;
+
+#img {
+    height: 100%;
+    width: 100%;
+    /* WebKit (Chrome & Safari) */
+    display: -webkit-box;
+    -webkit-box-pack: center;
+    -webkit-box-align: center;
+
+    /* Firefox */
+    display: -moz-box;
+    -moz-box-pack: center;
+    -moz-box-align: center;
+
+    /* IE */
+    display: -ms-box;
+    -ms-box-pack: center;
+    -ms-box-align: center;
+
+    /* Native CSS */
+    display: box;
+    box-pack: center;
+    box-align: center;
+    padding-bottom: $top;
+
+    .content {
+        max-height: 100%;
+        max-width: 100%;
+
+        padding: 0;
+
+        img, video {
+            max-width: 100%;
+            max-height: 100%;
+        }
+    }
+}
+
+#clock {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    font-size: 2em;
+    padding: 1em;
+    @include border-radius(1em 0 0);
+    text-align: center;
+    color: #FFFFFF;
+    font-weight: bold;
+    background-color: #000000;
+
+    > div {
+        padding: 0.2em 0;
+    }
+}
